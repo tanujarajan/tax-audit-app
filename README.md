@@ -84,6 +84,7 @@ src/
   logic/
     audit.ts      # pure functions: 3 CSV blobs → results JSON
     pdf.ts
+    excel.ts      # build Evidence.xlsx from results JSON
     fixfile.ts
 public/
   governance-templates/
