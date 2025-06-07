@@ -1,0 +1,722 @@
+Orig Index,Object Type,Object Name,Event Display Name,Object Owner,Object Description,Event Category,Tags,Event Schema Status,Event Activity,Event Source,Preprocessed Name,Match Found,Match Score,Match Index
+0,Event,AAD Heart Rate Toggled,,,,,,UNEXPECTED,ACTIVE,,aad heart rate toggled,Event,100.0,1
+3,Event,Account Created,,,,,,UNEXPECTED,ACTIVE,,account created,Event,100.0,0
+7,Event,Account Email Unverified,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,account email unverified,Event,100.0,0
+8,Event,Active Rest Mode Card Dismissed,Rest Mode Is On Confirmed,ivan.markevich@ouraring.com,,Rest Mode,,LIVE,ACTIVE,,rest mode is on confirmed,Event,100.0,0
+9,Event,Activity Card Baseline Clicked,,maris.jameson@ouraring.com,,,,LIVE,ACTIVE,,activity card baseline clicked,Event,100.0,0
+10,Event,Activity Chart Clicked,,ivan.markevich@ouraring.com,On the activity screen a user clicks on a chart. The exact chart the user clicks on is specified by the activityChart parameter,,,LIVE,ACTIVE,,activity chart clicked,Event,100.0,0
+12,Event,Activity Edited,,ivan.markevich@ouraring.com,"fires when the user edits any one of the details about an automatically detected activity. If the user edits the workout, start time, end time, or intensity this event fires. One parameter, `activityData` indicates which information associated with the activity that the user edits","Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,activity edited,Event,100.0,0
+17,Event,Activity Intensity Clicked,,ivan.markevich@ouraring.com,"On the activity screen, a user clicks on one of the horizontal bars showing a user's High, Medium and Low levels of activity. These are shown below the Activity Intensity graph.","Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,activity intensity clicked,Event,100.0,0
+19,Event,Activity Reward Card Clicked,,maris.jameson@ouraring.com,,,,LIVE,ACTIVE,,activity reward card clicked,Event,100.0,0
+22,Event,Activity Reward Card Dismissed,,maris.jameson@ouraring.com,,,,LIVE,ACTIVE,,activity reward card dismissed,Event,100.0,0
+25,Event,Activity Score Clicked,,ivan.markevich@ouraring.com,"On the activity screen, the user clicks on the Activity Score",,,LIVE,ACTIVE,,activity score clicked,Event,100.0,0
+27,Event,Activity Segment Dismissed,,ivan.markevich@ouraring.com,The user clicks on Dismiss this activity segment for an automatically detected activity,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,activity segment dismissed,Event,100.0,0
+51,Event,Activity Segment Labeled,,ivan.markevich@ouraring.com,The user clicks on an automatically detected activity to label an activity segment,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,activity segment labeled,Event,100.0,0
+86,Event,Add a Tag CTA Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,add a tag cta clicked,Event,100.0,0
+88,Event,Adding Payment Method Failed,,,,,,UNEXPECTED,ACTIVE,,adding payment method failed,Event,100.0,0
+93,Event,Address Added,,,,,,UNEXPECTED,ACTIVE,,address added,Event,100.0,0
+97,Event,Address Validation Failed,,,,,,UNEXPECTED,ACTIVE,,address validation failed,Event,100.0,0
+104,Event,Allow Notifications Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,allow notifications clicked,Event,100.0,0
+105,Event,API Project Files List,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,api project files list,Event,100.0,0
+111,Event,App Icon Rewarded,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,app icon rewarded,Event,100.0,0
+113,Event,App Settings Toggled,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,app settings toggled,Event,100.0,0
+116,Event,Application Backgrounded,,ivan.markevich@ouraring.com,,,,LIVE,INACTIVE,,application backgrounded,Event,100.0,0
+117,Event,Application Deleted,,ivan.markevich@ouraring.com,,,,LIVE,INACTIVE,,application deleted,Event,100.0,0
+119,Event,Application Installed,,ivan.markevich@ouraring.com,,,,LIVE,INACTIVE,,application installed,Event,100.0,0
+122,Event,Application Opened,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,application opened,Event,100.0,0
+129,Event,Application Uninstalled,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,application uninstalled,Event,100.0,0
+131,Event,Application Updated,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,application updated,Event,100.0,0
+137,Event,Article Opened,,ivan.markevich@ouraring.com,,,,LIVE,INACTIVE,,article opened,Event,100.0,0
+141,Event,Assa Corrupt Object Downloaded,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,assa corrupt object downloaded,Event,100.0,0
+143,Event,Assa Corrupt Object Uploaded,,ivan.markevich@ouraring.com,,,,LIVE,INACTIVE,,assa corrupt object uploaded,Event,100.0,0
+144,Event,Assa Dirty Objects Counted,,ivan.markevich@ouraring.com,,,,LIVE,INACTIVE,,assa dirty objects counted,Event,100.0,0
+151,Event,Assa Migration Failed,,ivan.markevich@ouraring.com,,,,LIVE,INACTIVE,,assa migration failed,Event,100.0,0
+158,Event,Assa Object Uploaded,,ivan.markevich@ouraring.com,,,,LIVE,INACTIVE,,assa object uploaded,Event,100.0,0
+162,Event,Assa Realm Status,,ivan.markevich@ouraring.com,,,,LIVE,INACTIVE,,assa realm status,Event,100.0,0
+164,Event,b2b_email_signup_completed,,,,,,UNEXPECTED,ACTIVE,,b2b email signup completed,Event,100.0,0
+181,Event,b2b_email_signup_modal_opened,,,,,,UNEXPECTED,ACTIVE,,b2b email signup modal opened,Event,100.0,0
+185,Event,Background Sleep Analysis Delivered,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,background sleep analysis delivered,Event,100.0,0
+188,Event,Background Sleep Analysis Requested,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,background sleep analysis requested,Event,100.0,0
+200,Event,Banner Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,banner clicked,Event,100.0,0
+202,Event,Body Clock Chart Button Tapped,,henri.huttunen@ouraring.com,,,,LIVE,ACTIVE,,body clock chart button tapped,Event,100.0,0
+204,Event,Calendar Date Clicked,,ivan.markevich@ouraring.com,"The user clicks on a date on the Calendar UI, after clicking on a date using the Date Selector at the top of the App screen.",,,LIVE,ACTIVE,,calendar date clicked,Event,100.0,0
+205,Event,Campaign Control Group Entered,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,campaign control group entered,Event,100.0,0
+210,Event,Campaign Converted,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,campaign converted,Event,100.0,0
+215,Event,Canvas Converted,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,canvas converted,Event,100.0,0
+223,Event,Canvas Entered,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,canvas entered,Event,100.0,0
+229,Event,Cardio Capacity Did Scroll,,,,,,UNEXPECTED,ACTIVE,,cardio capacity did scroll,Event,100.0,0
+230,Event,Cardiovascular Age Chart Add Tag Clicked,,,,,,UNEXPECTED,ACTIVE,,cardiovascular age chart add tag clicked,Event,100.0,0
+231,Event,Cardiovascular Age Chart Scrolled,,,,,,UNEXPECTED,ACTIVE,,cardiovascular age chart scrolled,Event,100.0,0
+232,Event,Cardiovascular Age Chart Tags Expanded,,,,,,UNEXPECTED,ACTIVE,,cardiovascular age chart tags expanded,Event,100.0,0
+233,Event,Cardiovascular Age Screen Closed,,,,,,UNEXPECTED,ACTIVE,,cardiovascular age screen closed,Event,100.0,0
+236,Event,Cart Viewed,,,,,,UNEXPECTED,ACTIVE,,cart viewed,Event,100.0,0
+245,Event,Category Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,category clicked,Event,100.0,0
+248,Event,Checkout Started,,,,,,UNEXPECTED,ACTIVE,,checkout started,Event,100.0,0
+267,Event,CheckoutEmailAdded,,,,,,UNEXPECTED,ACTIVE,,checkoutemailadded,Event,100.0,0
+272,Event,Circle Created,,lauren.maymar@ouraring.com,,Circles,,LIVE,ACTIVE,,circle created,Event,100.0,0
+275,Event,Circle Data Tab Tapped,,lauren.maymar@ouraring.com,,Circles,,LIVE,ACTIVE,,circle data tab tapped,Event,100.0,0
+279,Event,Circle Date Scrubbing Started,,lauren.maymar@ouraring.com,,Circles,,LIVE,ACTIVE,,circle date scrubbing started,Event,100.0,0
+280,Event,Circle Home Card Clicked,,lauren.maymar@ouraring.com,,Circles,,LIVE,ACTIVE,,circle home card clicked,Event,100.0,0
+282,Event,Circle Invite Link Shared,,lauren.maymar@ouraring.com,,Circles,,LIVE,ACTIVE,,circle invite link shared,Event,100.0,0
+283,Event,Circle Joined,,lauren.maymar@ouraring.com,,Circles,,LIVE,ACTIVE,,circle joined,Event,100.0,0
+286,Event,Circle Left,,lauren.maymar@ouraring.com,,,,LIVE,ACTIVE,,circle left,Event,100.0,0
+287,Event,Circle Onboarding Completed,,lauren.maymar@ouraring.com,,Circles,,LIVE,ACTIVE,,circle onboarding completed,Event,100.0,0
+288,Event,Circle Onboarding Started,,lauren.maymar@ouraring.com,,Circles,,LIVE,ACTIVE,,circle onboarding started,Event,100.0,0
+289,Event,Circle Reaction Sent,,lauren.maymar@ouraring.com,,Circles,,LIVE,ACTIVE,,circle reaction sent,Event,100.0,0
+293,Event,Circle Reactions Viewed,,lauren.maymar@ouraring.com,,Circles,,LIVE,ACTIVE,,circle reactions viewed,Event,100.0,0
+298,Event,Circle Sharing Settings Changed,,lauren.maymar@ouraring.com,,,,LIVE,ACTIVE,,circle sharing settings changed,Event,100.0,0
+301,Event,Circle Viewed,,lauren.maymar@ouraring.com,,Circles,,LIVE,ACTIVE,,circle viewed,Event,100.0,0
+306,Event,Circles Invite Shop Link Clicked,,,,,,UNEXPECTED,ACTIVE,,circles invite shop link clicked,Event,100.0,0
+308,Event,Circles Invite Token Error,,,,,,UNEXPECTED,ACTIVE,,circles invite token error,Event,100.0,0
+310,Event,Clicked Teams Configure Data Format “Back”,,,,,,UNEXPECTED,ACTIVE,,clicked teams configure data format  back,Event,100.0,0
+311,Event,Clicked Teams Configure Data Format “Start Export”,,,,,,UNEXPECTED,ACTIVE,,clicked teams configure data format  start export,Event,100.0,0
+328,Event,Clicked Teams Create New Export Page,,,,,,UNEXPECTED,ACTIVE,,clicked teams create new export page,Event,100.0,0
+334,Event,"Clicked Teams Create New Export Success Page ""Start New Export""",,,,,,UNEXPECTED,ACTIVE,,clicked teams create new export success page  start new export,Event,100.0,0
+335,Event,Clicked Teams Create New Export Success Page “Continue”,,,,,,UNEXPECTED,ACTIVE,,clicked teams create new export success page  continue,Event,100.0,0
+336,Event,Clicked Teams Define Data Type “Cancel”,,,,,,UNEXPECTED,ACTIVE,,clicked teams define data type  cancel,Event,100.0,0
+337,Event,Clicked Teams Define Data Type “Next”,,,,,,UNEXPECTED,ACTIVE,,clicked teams define data type  next,Event,100.0,0
+338,Event,Clicked Teams Organization “Data Export”,,,,,,UNEXPECTED,ACTIVE,,clicked teams organization  data export,Event,100.0,0
+340,Event,Clicked Teams Select Members “Back”,,,,,,UNEXPECTED,ACTIVE,,clicked teams select members  back,Event,100.0,0
+341,Event,Clicked Teams Select Members “Next”,,,,,,UNEXPECTED,ACTIVE,,clicked teams select members  next,Event,100.0,0
+342,Event,Coach All Memories Deleted,,,,,,UNEXPECTED,ACTIVE,,coach all memories deleted,Event,100.0,0
+343,Event,Coach Chat Entered,,,,,,UNEXPECTED,ACTIVE,,coach chat entered,Event,100.0,0
+347,Event,Coach Chat Exited,,,,,,UNEXPECTED,ACTIVE,,coach chat exited,Event,100.0,0
+349,Event,Coach Chat Message Rated,,,,,,UNEXPECTED,ACTIVE,,coach chat message rated,Event,100.0,0
+352,Event,Coach Memory Deleted,,,,,,UNEXPECTED,ACTIVE,,coach memory deleted,Event,100.0,0
+353,Event,Coach Memory Viewed,,,,,,UNEXPECTED,ACTIVE,,coach memory viewed,Event,100.0,0
+354,Event,Coach Notifications Frequency Selected,,,,,,UNEXPECTED,ACTIVE,,coach notifications frequency selected,Event,100.0,0
+356,Event,Coach Privacy Consent Accepted,,,,,,UNEXPECTED,ACTIVE,,coach privacy consent accepted,Event,100.0,0
+357,Event,Coach Quick Answer Selected,,,,,,UNEXPECTED,ACTIVE,,coach quick answer selected,Event,100.0,0
+360,Event,Coach Tonality Selected,,,,,,UNEXPECTED,ACTIVE,,coach tonality selected,Event,100.0,0
+362,Event,Coach User Typed Message Sent,,,,,,UNEXPECTED,ACTIVE,,coach user typed message sent,Event,100.0,0
+363,Event,Comment Added,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,comment added,Event,100.0,0
+369,Event,Completed data file download,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,completed data file download,Event,100.0,0
+381,Event,Completed Investment Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,completed investment clicked,Event,100.0,0
+385,Event,Connect Button Clicked,,,,,,UNEXPECTED,ACTIVE,,connect button clicked,Event,100.0,0
+388,Event,Connect Ring Completed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,connect ring completed,Event,100.0,0
+392,Event,Connect Ring Started,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,connect ring started,Event,100.0,0
+394,Event,Connectivity Failure,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,connectivity failure,Event,100.0,0
+396,Event,Contact Us Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,contact us clicked,Event,100.0,0
+398,Event,Contact Us Ticket Submitted,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,contact us ticket submitted,Event,100.0,0
+403,Event,Content Completed,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,content completed,Event,100.0,0
+407,Event,Content Completed 75%,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,content completed 75,Event,100.0,0
+411,Event,Content Exited,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,content exited,Event,100.0,0
+417,Event,Content Feedback Card Clicked,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,content feedback card clicked,Event,100.0,0
+420,Event,Content Feedback Question Answered,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,content feedback question answered,Event,100.0,0
+423,Event,Content Paused,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,content paused,Event,100.0,0
+429,Event,Content Played,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,content played,Event,100.0,0
+437,Event,Content Replay Button Clicked,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,content replay button clicked,Event,100.0,0
+441,Event,Context Card Clicked,,ivan.markevich@ouraring.com,"A user clicks on a context card in home, which includes the daytime HR from today and previous days.",Home Screen,,LIVE,ACTIVE,,context card clicked,Event,100.0,0
+446,Event,Context Card Closed,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,context card closed,Event,100.0,0
+448,Event,Context Card Read,,ivan.markevich@ouraring.com,Note: these events are filtered out in Segment **except** for Stress and Heart Health -related cards.,Home Screen,,LIVE,ACTIVE,,context card read,Event,100.0,0
+452,Event,Context Content Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,context content clicked,Event,100.0,0
+454,Event,Contextual Card Shown,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,contextual card shown,Event,100.0,0
+456,Event,Contributor Clicked,,ivan.markevich@ouraring.com,"On the Sleep, Readiness, or Activity screens a user clicks one of the Contributors, which are presented as horizontal bars. The name of the Contributor and  category (Sleep, Readiness or Activity) to which the Contributor belongs and are specified by two parameters",,,LIVE,ACTIVE,,contributor clicked,Event,100.0,0
+460,Event,Correlation Popup Opened,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,correlation popup opened,Event,100.0,0
+463,Event,Create Account Completed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,create account completed,Event,100.0,0
+464,Event,CSV Data Downloaded,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,csv data downloaded,Event,100.0,0
+466,Event,CTA Clicked,,,,,,UNEXPECTED,ACTIVE,,cta clicked,Event,100.0,0
+488,Event,Cycle Insights Feature Toggled,,caroline.kryder@ouraring.com,,,,LIVE,ACTIVE,,cycle insights feature toggled,Event,100.0,0
+491,Event,Cycle Insights Graph Scrolled,,caroline.kryder@ouraring.com,,,,LIVE,ACTIVE,,cycle insights graph scrolled,Event,100.0,0
+492,Event,Cycle Insights Onboarding Completed,,caroline.kryder@ouraring.com,,,,LIVE,ACTIVE,,cycle insights onboarding completed,Event,100.0,0
+496,Event,Cycle Insights Question Answered,,caroline.kryder@ouraring.com,,,,LIVE,ACTIVE,,cycle insights question answered,Event,100.0,0
+502,Event,Cycle Phase Row Clicked,,,,,,UNEXPECTED,ACTIVE,,cycle phase row clicked,Event,100.0,0
+504,Event,Daily Daytime HR Summarized,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daily daytime hr summarized,Event,100.0,0
+510,Event,Data Export Navigate To Legacy Data Files,,,,,,UNEXPECTED,ACTIVE,,data export navigate to legacy data files,Event,100.0,0
+516,Event,Data Files navigate to legacy experience,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,data files navigate to legacy experience,Event,100.0,0
+519,Event,Daytime HR Accordion Closed,,ivan.markevich@ouraring.com,"On the daytime HR screen, a user closes the detailed view of a HR stage.","Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daytime hr accordion closed,Event,100.0,0
+522,Event,Daytime HR Accordion Opened,,ivan.markevich@ouraring.com,"On the daytime HR screen, a user clicks on the down arrow to open the detailed view of a HR stage.","Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daytime hr accordion opened,Event,100.0,0
+525,Event,Daytime HR Daily Summary,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daytime hr daily summary,Event,100.0,0
+531,Event,Daytime HR Detail View Closed,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daytime hr detail view closed,Event,100.0,0
+532,Event,Daytime HR Education Layer Closed,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daytime hr education layer closed,Event,100.0,0
+534,Event,Daytime HR Education Layer Opened,,ivan.markevich@ouraring.com,"On the daytime HR screen, a user clicks on the information icon in the top right to open the education screen.","Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daytime hr education layer opened,Event,100.0,0
+536,Event,Daytime HR Education Layer Scrolled,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daytime hr education layer scrolled,Event,100.0,0
+539,Event,Daytime HR Extra Info Activated,,ivan.markevich@ouraring.com,A user long presses on the daytime hr chart to surface extra information,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daytime hr extra info activated,Event,100.0,0
+540,Event,Daytime HR Extra Info Deactivated,,ivan.markevich@ouraring.com,A user stops long pressing on the daytime HR graph.,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daytime hr extra info deactivated,Event,100.0,0
+542,Event,Daytime HR Extra Info Moved,,ivan.markevich@ouraring.com,While long pressing on a chart a user moves the vertical reference line,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daytime hr extra info moved,Event,100.0,0
+545,Event,Daytime HR Onboarding Dismissed,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daytime hr onboarding dismissed,Event,100.0,0
+548,Event,Daytime HR Onboarding Finished,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daytime hr onboarding finished,Event,100.0,0
+549,Event,Daytime HR Onboarding Screen Shown,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,daytime hr onboarding screen shown,Event,100.0,0
+551,Event,Daytime Stress Context Event Clicked,,,,,,UNEXPECTED,ACTIVE,,daytime stress context event clicked,Event,100.0,0
+553,Event,Daytime Stress Event Circle Clicked,,,,,,UNEXPECTED,ACTIVE,,daytime stress event circle clicked,Event,100.0,0
+555,Event,Daytime Stress Movement Graph Toggled,,,,,,UNEXPECTED,ACTIVE,,daytime stress movement graph toggled,Event,100.0,0
+557,Event,Daytime Stress Tag Added,,,,,,UNEXPECTED,ACTIVE,,daytime stress tag added,Event,100.0,0
+558,Event,Daytime Stress Tags And Activities Toggled,,,,,,UNEXPECTED,ACTIVE,,daytime stress tags and activities toggled,Event,100.0,0
+560,Event,Delete Note Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,delete note clicked,Event,100.0,0
+561,Event,Detail View Calendar Closed,,ivan.markevich@ouraring.com,A user closes the calendar view.,,,LIVE,ACTIVE,,detail view calendar closed,Event,100.0,0
+564,Event,Detail View Calendar Opened,,ivan.markevich@ouraring.com,A user clicks on the date or calendar icon to bring up the calendar view.,,,LIVE,ACTIVE,,detail view calendar opened,Event,100.0,0
+567,Event,Detail View Page Control Tapped,,,,,,UNEXPECTED,ACTIVE,,detail view page control tapped,Event,100.0,0
+569,Event,Detail View Swipe,,,,,,UNEXPECTED,ACTIVE,,detail view swipe,Event,100.0,0
+571,Event,Detected Activity Confirmed,,ivan.markevich@ouraring.com,"Fires when a user confirms a detected activity. This event has one parameter, `activityCardLocation` which indicates where the user confirms the activity",Home Screen,,LIVE,ACTIVE,,detected activity confirmed,Event,100.0,0
+573,Event,Detected Activity Dismissed,,ivan.markevich@ouraring.com,"Fires when a user dismisses a detected activity. This event has one parameter, `activityCardLocation`. The parameter for this event is the same parameter as that of the `Detected Activity Confirmed` event.",Home Screen,,LIVE,ACTIVE,,detected activity dismissed,Event,100.0,0
+575,Event,Discovery Generated,,,,,,UNEXPECTED,ACTIVE,,discovery generated,Event,100.0,0
+580,Event,Duplicate Workout Discarded,,,,,,UNEXPECTED,ACTIVE,,duplicate workout discarded,Event,100.0,0
+583,Event,Edit Activity Clicked,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,edit activity clicked,Event,100.0,0
+585,Event,Edit Activity Goal Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,edit activity goal clicked,Event,100.0,0
+586,Event,Edu Layer Accordion Collapsed,,,,,,UNEXPECTED,ACTIVE,,edu layer accordion collapsed,Event,100.0,0
+588,Event,Edu Layer Accordion Expanded,,,,,,UNEXPECTED,ACTIVE,,edu layer accordion expanded,Event,100.0,0
+590,Event,Education Layer Closed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,education layer closed,Event,100.0,0
+593,Event,EIM Date Changed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,eim date changed,Event,100.0,0
+597,Event,EIM Reviewed Members Visibility Toggled,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,eim reviewed members visibility toggled,Event,100.0,0
+601,Event,EIM Score Threshold Changed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,eim score threshold changed,Event,100.0,0
+606,Event,Email Bounced,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,email bounced,Event,100.0,0
+619,Event,Email Created,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,email created,Event,100.0,0
+620,Event,Email Deleted,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,email deleted,Event,100.0,0
+621,Event,Email Delivered,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,email delivered,Event,100.0,0
+633,Event,Email Link Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,email link clicked,Event,100.0,0
+646,Event,Email Made Primary,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,email made primary,Event,100.0,0
+647,Event,Email Marked as Spam,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,email marked as spam,Event,100.0,0
+653,Event,Email OOS Notification Signup,,,,,,UNEXPECTED,ACTIVE,,email oos notification signup,Event,100.0,0
+667,Event,Email Opened,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,email opened,Event,100.0,0
+679,Event,Email Sent,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,email sent,Event,100.0,0
+691,Event,Email Signup Completed,,,,,,UNEXPECTED,ACTIVE,,email signup completed,Event,100.0,0
+704,Event,Email Soft Bounced,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,email soft bounced,Event,100.0,0
+717,Event,Entitlement Customer Found,,,,,,UNEXPECTED,ACTIVE,,entitlement customer found,Event,100.0,0
+722,Event,Entitlement Subscription Created,,,,,,UNEXPECTED,ACTIVE,,entitlement subscription created,Event,100.0,0
+727,Event,Experiment Cancelled,,laura.furman@ouraring.com,,,,LIVE,ACTIVE,,experiment cancelled,Event,100.0,0
+729,Event,Experiment Enrolled,,laura.furman@ouraring.com,,,,LIVE,ACTIVE,,experiment enrolled,Event,100.0,0
+731,Event,Experiment Entered from Discovery Card,,,,,,UNEXPECTED,ACTIVE,,experiment entered from discovery card,Event,100.0,0
+732,Event,Experiment Home Viewed,,laura.furman@ouraring.com,,,,LIVE,ACTIVE,,experiment home viewed,Event,100.0,0
+734,Event,Experiment Result Viewed from Discovery Card,,,,,,UNEXPECTED,ACTIVE,,experiment result viewed from discovery card,Event,100.0,0
+737,Event,Explore Category Clicked,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,explore category clicked,Event,100.0,0
+741,Event,Explore Filter Clicked,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,explore filter clicked,Event,100.0,0
+744,Event,Explore Session Clicked,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,explore session clicked,Event,100.0,0
+753,Event,extapi-connected,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,extapi connected,Event,100.0,0
+758,Event,extapi-disconnected,,lauren.maymar@ouraring.com,,,,LIVE,ACTIVE,,extapi disconnected,Event,100.0,0
+762,Event,extapiv2_api_request,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,extapiv2 api request,Event,100.0,0
+768,Event,Factory Reset Completed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,factory reset completed,Event,100.0,0
+770,Event,Factory Reset Failed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,factory reset failed,Event,100.0,0
+772,Event,Factory Reset Started,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,factory reset started,Event,100.0,0
+774,Event,Feature Announcement Card Clicked,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,feature announcement card clicked,Event,100.0,0
+778,Event,Feature Announcement Card Shown,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,feature announcement card shown,Event,100.0,0
+781,Event,Feature Onboarding Completed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,feature onboarding completed,Event,100.0,0
+784,Event,Feature Onboarding Dismissed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,feature onboarding dismissed,Event,100.0,0
+787,Event,Fertile Window Chance Of Conception Information Clicked,,,,,,UNEXPECTED,ACTIVE,,fertile window chance of conception information clicked,Event,100.0,0
+789,Event,Fertile Window Instructions For Use Button Clicked,,,,,,UNEXPECTED,ACTIVE,,fertile window instructions for use button clicked,Event,100.0,0
+790,Event,Fertile Window Prediction Calender Open Main Calender,,,,,,UNEXPECTED,ACTIVE,,fertile window prediction calender open main calender,Event,100.0,0
+792,Event,Fertile Window Regulatory Button Clicked,,,,,,UNEXPECTED,ACTIVE,,fertile window regulatory button clicked,Event,100.0,0
+794,Event,Google Fit Settings Toggled,,ivan.markevich@ouraring.com,"The user has toggled one or more of the options on the page for Google Fit settings, which is shown after clicking on the Google Fit option on the Settings screen","Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,google fit settings toggled,Event,100.0,0
+798,Event,Google Health Connect Settings Toggled,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,google health connect settings toggled,Event,100.0,0
+819,Event,Graph Long Pressed,,,,,,UNEXPECTED,ACTIVE,,graph long pressed,Event,100.0,0
+822,Event,Group Analysis Date Changed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,group analysis date changed,Event,100.0,0
+826,Event,Group Analysis Layer Toggled,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,group analysis layer toggled,Event,100.0,0
+831,Event,Group Analysis Member Visibility Toggled,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,group analysis member visibility toggled,Event,100.0,0
+835,Event,Group Analysis Metric Added,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,group analysis metric added,Event,100.0,0
+839,Event,Group Analysis Metric Changed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,group analysis metric changed,Event,100.0,0
+843,Event,Group Analysis Metric Removed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,group analysis metric removed,Event,100.0,0
+847,Event,Group member tag selection changed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,group member tag selection changed,Event,100.0,0
+849,Event,Hamburger Clicked,,,,,,UNEXPECTED,ACTIVE,,hamburger clicked,Event,100.0,0
+867,Event,Health Kit Settings Toggled,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,health kit settings toggled,Event,100.0,0
+871,Event,Healthkit Workout Deleted,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,healthkit workout deleted,Event,100.0,0
+872,Event,Healthkit Workout Imported,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,healthkit workout imported,Event,100.0,0
+875,Event,Healthkit Workout Modified,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,healthkit workout modified,Event,100.0,0
+876,Event,Hello!,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,hello,Event,100.0,0
+877,Event,Help Center Support Ticket Envelope Clicked,,,,,,UNEXPECTED,ACTIVE,,help center support ticket envelope clicked,Event,100.0,0
+879,Event,Help Center Support Ticket Selected,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,help center support ticket selected,Event,100.0,0
+881,Event,Help Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,help clicked,Event,100.0,0
+882,Event,Help Icon Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,help icon clicked,Event,100.0,0
+884,Event,Hide Calories Toggled,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,hide calories toggled,Event,100.0,0
+887,Event,Home Content Card Clicked,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,home content card clicked,Event,100.0,0
+890,Event,Home Content Card Hidden,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,home content card hidden,Event,100.0,0
+893,Event,Home Content Card Read,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,home content card read,Event,100.0,0
+896,Event,Home Screen Day Swipe,,ivan.markevich@ouraring.com,The user swipes day-by-day on the Home screen,,,LIVE,ACTIVE,,home screen day swipe,Event,100.0,0
+897,Event,Home Screen Quick Action Used,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,home screen quick action used,Event,100.0,0
+899,Event,Horizon Upgrade Completed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,horizon upgrade completed,Event,100.0,0
+900,Event,HRM Automatic Guidance Toggled,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,hrm automatic guidance toggled,Event,100.0,0
+902,Event,HRM Date Changed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,hrm date changed,Event,100.0,0
+906,Event,HRM Guidance Contact Info Changed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,hrm guidance contact info changed,Event,100.0,0
+910,Event,HRM Guidance Contact Visibility Toggled,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,hrm guidance contact visibility toggled,Event,100.0,0
+912,Event,HRM Guidance Message Contact-Oura-to-edit Clicked,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,hrm guidance message contact oura to edit clicked,Event,100.0,0
+913,Event,HRM Guidance Message Opened,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,hrm guidance message opened,Event,100.0,0
+914,Event,HRM Member Reviewed Toggled,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,hrm member reviewed toggled,Event,100.0,0
+916,Event,HRM Non-Wear Members List Downloaded,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,hrm non wear members list downloaded,Event,100.0,0
+920,Event,HRM Reviewed Members Visibility Toggled,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,hrm reviewed members visibility toggled,Event,100.0,0
+924,Event,HRM Score Threshold Changed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,hrm score threshold changed,Event,100.0,0
+928,Event,In-App Message Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,in app message clicked,Event,100.0,0
+940,Event,In-App Message Viewed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,in app message viewed,Event,100.0,0
+951,Event,Incomplete WHR Sync Confirmed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,incomplete whr sync confirmed,Event,100.0,0
+952,Event,Insight Button Clicked,,ivan.markevich@ouraring.com,A user clicks on a button that is placed on an Insight Card.,,,LIVE,ACTIVE,,insight button clicked,Event,100.0,0
+956,Event,Insight Card Clicked,,ivan.markevich@ouraring.com,"A user clicks on a card shown on the Home screen. The specific card the user clicks, the ID of the message shown, and the ID of the rule used to generate the messaging are specified by three parameters",Home Screen,,LIVE,ACTIVE,,insight card clicked,Event,100.0,0
+966,Event,Insight Content Clicked,,ivan.markevich@ouraring.com,"The user arrives at an Insight ""landing page"" (after clicking on an Insight card on Home) and clicks on the ""landing page""/content to be brought to the Readiness, Activity, or Sleep screen associated with the specific Insight",,,LIVE,ACTIVE,,insight content clicked,Event,100.0,0
+976,Event,Insight Share Button Clicked,,ivan.markevich@ouraring.com,"The user clicks on the share button at the top right of the Insight ""landing page""/content page (shown after clicking on an Insight card on Home)",,,LIVE,ACTIVE,,insight share button clicked,Event,100.0,0
+978,Event,Insight Share Completed,,ivan.markevich@ouraring.com,The user has completed the process of sharing an Insight,,,LIVE,ACTIVE,,insight share completed,Event,100.0,0
+981,Event,Insight Share Destination Selected,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,insight share destination selected,Event,100.0,0
+983,Event,Insight Slide Month Swipe,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,insight slide month swipe,Event,100.0,0
+986,Event,Insight Slide Viewed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,insight slide viewed,Event,100.0,0
+988,Event,Integration connection failed,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,integration connection failed,Event,100.0,0
+991,Event,Integration connection succeeded,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,integration connection succeeded,Event,100.0,0
+994,Event,Integration disconnect failed,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,integration disconnect failed,Event,100.0,0
+997,Event,Integration disconnect succeeded,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,integration disconnect succeeded,Event,100.0,0
+1000,Event,Legacy Customer Found,,,,,,UNEXPECTED,ACTIVE,,legacy customer found,Event,100.0,0
+1005,Event,Legend Clicked,,ivan.markevich@ouraring.com,"User clicks on one of the four legend elements below a score's chart on the Sleep, Readiness, or Activity screen (for example, on the Readiness screen: resting_heart_rate, heart_rate_variability, temperature, respiratory_rate). Two parameters indicate which screen the legend element is on and the specific name of the legend element.",,,LIVE,ACTIVE,,legend clicked,Event,100.0,0
+1008,Event,Lets Get Started Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,lets get started clicked,Event,100.0,0
+1009,Event,Link Clicked,,,,,,UNEXPECTED,ACTIVE,,link clicked,Event,100.0,0
+1015,Event,link_clicked,,,,,,UNEXPECTED,ACTIVE,,link clicked,Event,100.0,0
+1050,Event,Live HR Icon Clicked,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,live hr icon clicked,Event,100.0,0
+1052,Event,Live HR Measuring Failed,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,live hr measuring failed,Event,100.0,0
+1053,Event,Live HR Measuring Started,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,live hr measuring started,Event,100.0,0
+1054,Event,Loaded a Page,,,,,,UNEXPECTED,ACTIVE,,loaded a page,Event,100.0,0
+1076,Event,Location Access Allowed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,location access allowed,Event,100.0,0
+1078,Event,Location Access Denied,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,location access denied,Event,100.0,0
+1080,Event,Log Period Start Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,log period start clicked,Event,100.0,0
+1082,Event,Login Failed,,,,,,UNEXPECTED,ACTIVE,,login failed,Event,100.0,0
+1086,Event,Low Probability Activity Selected,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,low probability activity selected,Event,100.0,0
+1087,Event,Magic Moment Finger Wear Check,,,,,,UNEXPECTED,ACTIVE,,magic moment finger wear check,Event,100.0,0
+1089,Event,Magic Moment Heart Rate Was Measured,,,,,,UNEXPECTED,ACTIVE,,magic moment heart rate was measured,Event,100.0,0
+1091,Event,Manual Vo2Max Input,,,,,,UNEXPECTED,ACTIVE,,manual vo2max input,Event,100.0,0
+1094,Event,Marketing Opt-In - Attentive,,,,,,UNEXPECTED,ACTIVE,,marketing opt in   attentive,Event,100.0,0
+1098,Event,Marketing Opt-In - Footer,,,,,,UNEXPECTED,ACTIVE,,marketing opt in   footer,Event,100.0,0
+1111,Event,Marketing Opt-In - Purchase,,,,,,UNEXPECTED,ACTIVE,,marketing opt in   purchase,Event,100.0,0
+1119,Event,Meal Logging Entry,,,,,,UNEXPECTED,ACTIVE,,meal logging entry,Event,100.0,0
+1121,Event,Meal Logging Interrupted,,,,,,UNEXPECTED,ACTIVE,,meal logging interrupted,Event,100.0,0
+1123,Event,Meal Logging Method,,,,,,UNEXPECTED,ACTIVE,,meal logging method,Event,100.0,0
+1125,Event,Meal Logging Success,,,,,,UNEXPECTED,ACTIVE,,meal logging success,Event,100.0,0
+1126,Event,Membership Plan Selected,,,,,,UNEXPECTED,ACTIVE,,membership plan selected,Event,100.0,0
+1131,Event,Membership Plan Selected(A),,,,,,UNEXPECTED,ACTIVE,,membership plan selected a,Event,100.0,0
+1135,Event,Membership Plan Selected(B),,,,,,UNEXPECTED,ACTIVE,,membership plan selected b,Event,100.0,0
+1140,Event,Membership Plan Updated,,,,,,UNEXPECTED,ACTIVE,,membership plan updated,Event,100.0,0
+1144,Event,Membership Successfully Upgraded,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,membership successfully upgraded,Event,100.0,0
+1145,Event,Menu Clicked,,ivan.markevich@ouraring.com,User clicks on the hamburger menu icon at the top left of the Home screen,,,LIVE,ACTIVE,,menu clicked,Event,100.0,0
+1146,Event,Menu Item Clicked,,ivan.markevich@ouraring.com,User clicks on an option shown in the menu. The specific item that the user clicks is specified by a parameter.,,,LIVE,ACTIVE,,menu item clicked,Event,100.0,0
+1148,Event,Metric Rating Popup Opened,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,metric rating popup opened,Event,100.0,0
+1153,Event,Modal Opened,,,,,,UNEXPECTED,ACTIVE,,modal opened,Event,100.0,0
+1160,Event,Model Encryption Key Downloaded,,,,,,UNEXPECTED,ACTIVE,,model encryption key downloaded,Event,100.0,0
+1162,Event,Module Clicked,,,,,,UNEXPECTED,ACTIVE,,module clicked,Event,100.0,0
+1180,Event,Moment Check Body Status Clicked,,ivan.markevich@ouraring.com,The user clicks on the Check Body Status tile on the Moment screen,Moment,,LIVE,ACTIVE,,moment check body status clicked,Event,100.0,0
+1182,Event,Moment Disable Screen Auto Lock Toggled,,ivan.markevich@ouraring.com,"The user toggles the ""Disable screen auto-lock"" option on the screen for a Presence, Rest or Body Status Moment session",Moment,,LIVE,ACTIVE,,moment disable screen auto lock toggled,Event,100.0,0
+1183,Event,Moment How You Feel Selected,,ivan.markevich@ouraring.com,"The user clicks on one of the options on the ""How do you feel?"" screen after completing a Moment session",Moment,,LIVE,ACTIVE,,moment how you feel selected,Event,100.0,0
+1185,Event,Moment Open Session Ended,,ivan.markevich@ouraring.com,The user ends an Open-Ended Moment session,Moment,,LIVE,ACTIVE,,moment open session ended,Event,100.0,0
+1187,Event,Moment Presence Clicked,,ivan.markevich@ouraring.com,The user clicks on one of the Presence tiles on the Moment screen,Moment,,LIVE,ACTIVE,,moment presence clicked,Event,100.0,0
+1189,Event,Moment Rest Clicked,,ivan.markevich@ouraring.com,The user clicks on one of the Rest tiles on the Moment screen,Moment,,LIVE,ACTIVE,,moment rest clicked,Event,100.0,0
+1191,Event,Moment Restart Previous Session Clicked,,ivan.markevich@ouraring.com,"The user clicks on the ""restart previous session"" card at the top of the Take a Moment Screen",Moment,,LIVE,ACTIVE,,moment restart previous session clicked,Event,100.0,0
+1192,Event,Moment Results Deleted,,ivan.markevich@ouraring.com,The user deletes a completed Moment session,Moment,,LIVE,ACTIVE,,moment results deleted,Event,100.0,0
+1193,Event,Moment Session Cancel Clicked,,ivan.markevich@ouraring.com,"Prior to the start of a Moment session, the user clicks on the Cancel button when the countdown timer is presented.",Moment,,LIVE,ACTIVE,,moment session cancel clicked,Event,100.0,0
+1194,Event,Moment Session Completed,,ivan.markevich@ouraring.com,The user completes a Moment session without ending early,Moment,,LIVE,ACTIVE,,moment session completed,Event,100.0,0
+1200,Event,Moment Session End Early Clicked,,ivan.markevich@ouraring.com,"The user clicks on the ""End early"" button after starting a Moment session",Moment,,LIVE,ACTIVE,,moment session end early clicked,Event,100.0,0
+1206,Event,Moment Session History Clicked,,ivan.markevich@ouraring.com,"The user clicks on the counterclockwise, circular arrow icon at the top right of the Take a Moment screen to view their Moment session history",Moment,,LIVE,ACTIVE,,moment session history clicked,Event,100.0,0
+1207,Event,Moment Session Start Clicked,,ivan.markevich@ouraring.com,"The user starts a Moment session by clicking on the Start button on the Presence, Rest, or Body Status screens",Moment,,LIVE,ACTIVE,,moment session start clicked,Event,100.0,0
+1213,Event,Movement Goal Changed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,movement goal changed,Event,100.0,0
+1216,Event,Movement Goals Option Selected,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,movement goals option selected,Event,100.0,0
+1218,Event,Movement Goals Updated,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,movement goals updated,Event,100.0,0
+1222,Event,My Oura Ring Icon Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,my oura ring icon clicked,Event,100.0,0
+1227,Event,My Oura Ring Option Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,my oura ring option clicked,Event,100.0,0
+1230,Event,My Oura Ring Swipe,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,my oura ring swipe,Event,100.0,0
+1231,Event,Name Modified,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,name modified,Event,100.0,0
+1232,Event,Nap Confirmation Shown,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,nap confirmation shown,Event,100.0,0
+1234,Event,Nap Labelled,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,nap labelled,Event,100.0,0
+1238,Event,Nap Reward Card Dismissed,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,nap reward card dismissed,Event,100.0,0
+1240,Event,Nap Reward Card Show Details Tapped,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,nap reward card show details tapped,Event,100.0,0
+1241,Event,Nap Reward Card Shown,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,nap reward card shown,Event,100.0,0
+1246,Event,Nap Tab Page Change,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,nap tab page change,Event,100.0,0
+1248,Event,Nap Tab Shown,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,nap tab shown,Event,100.0,0
+1249,Event,Natural Cycles Card Dismissed,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,natural cycles card dismissed,Event,100.0,0
+1252,Event,Natural Cycles Card Tapped,,lauren.maymar@ouraring.com,,,,LIVE,ACTIVE,,natural cycles card tapped,Event,100.0,0
+1255,Event,Natural Cycles Card Viewed,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,natural cycles card viewed,Event,100.0,0
+1258,Event,Nighttime Movement Graph Collapsed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,nighttime movement graph collapsed,Event,100.0,0
+1259,Event,Nighttime Movement Graph Expanded,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,nighttime movement graph expanded,Event,100.0,0
+1260,Event,No Notifications Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,no notifications clicked,Event,100.0,0
+1261,Event,No Ring to Connect Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,no ring to connect clicked,Event,100.0,0
+1263,Event,No Ring Yet Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,no ring yet clicked,Event,100.0,0
+1264,Event,Not My Ring Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,not my ring clicked,Event,100.0,0
+1266,Event,Note Popup Opened,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,note popup opened,Event,100.0,0
+1270,Event,Notification Posted,,ivan.markevich@ouraring.com,,,,LIVE,INACTIVE,,notification posted,Event,100.0,0
+1272,Event,Notification Tapped,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,notification tapped,Event,100.0,0
+1274,Event,Onboarding Allow Google Fit Workout Import Clicked,,ivan.markevich@ouraring.com,"After signing in to the Oura App on Android, the second onboarding screen presents the option to ""Import your workouts from Google Fit"". The user clicks ""Allow workout imports"" button.",Onboarding,,LIVE,ACTIVE,,onboarding allow google fit workout import clicked,Event,100.0,0
+1275,Event,Onboarding Allow Health Workout Import Clicked,,ivan.markevich@ouraring.com,"After signing in to the Oura App on iOS, the second onboarding screen presents the option to ""Import your workouts from Health"". The user clicks ""Allow workout imports"" button",Onboarding,,LIVE,ACTIVE,,onboarding allow health workout import clicked,Event,100.0,0
+1276,Event,Onboarding Connect to Google Fit Clicked,,ivan.markevich@ouraring.com,"After signing in to the Oura App on Android, the user is brought to a screen presenting the option to ""Connect to Google Fit"". The user clicks the ""Connect to Google Fit"" button",Onboarding,,LIVE,ACTIVE,,onboarding connect to google fit clicked,Event,100.0,0
+1277,Event,Onboarding Connect to Health Clicked,,ivan.markevich@ouraring.com,"After signing in to the Oura App on iOS, the user is brought to a screen presenting the option to ""Connect to Health"". The user clicks the ""Connect to Health"" button",Onboarding,,LIVE,ACTIVE,,onboarding connect to health clicked,Event,100.0,0
+1279,Event,Onboarding CTA Clicked,,ivan.markevich@ouraring.com,,Onboarding,,LIVE,ACTIVE,,onboarding cta clicked,Event,100.0,0
+1283,Event,Onboarding Device Registration Failed,,,,,,UNEXPECTED,ACTIVE,,onboarding device registration failed,Event,100.0,0
+1285,Event,Onboarding No Connection to Google Fit Clicked,,ivan.markevich@ouraring.com,"After signing in to the Oura App on Android, the user is brought to a screen presenting the option to ""Connect to Google Fit"". The user clicks the ""No thanks"" option",Onboarding,,LIVE,ACTIVE,,onboarding no connection to google fit clicked,Event,100.0,0
+1286,Event,Onboarding No Connection to Health Clicked,,ivan.markevich@ouraring.com,"After signing in to the Oura App on iOS, the user is brought to a screen presenting the option to ""Connect to Health"". The user clicks the ""No thanks"" option",Onboarding,,LIVE,ACTIVE,,onboarding no connection to health clicked,Event,100.0,0
+1288,Event,Onboarding No Google Fit Workout Import Clicked,,ivan.markevich@ouraring.com,"After signing in to the Oura App on Android, the second onboarding screen presents the option to ""Import your workouts from Google Fit"". The user clicks the ""No thanks"" option",Onboarding,,LIVE,ACTIVE,,onboarding no google fit workout import clicked,Event,100.0,0
+1289,Event,Onboarding No Health Workout Import Clicked,,ivan.markevich@ouraring.com,"After signing in to the Oura App on iOS, the second onboarding screen presents the option to ""Import your workouts from Health"". The user clicks the ""No thanks"" option",Onboarding,,LIVE,ACTIVE,,onboarding no health workout import clicked,Event,100.0,0
+1290,Event,Onboarding Question Answered,,ivan.markevich@ouraring.com,,Onboarding,,LIVE,ACTIVE,,onboarding question answered,Event,100.0,0
+1292,Event,Order Completed,,,,,,UNEXPECTED,ACTIVE,,order completed,Event,100.0,0
+1339,Event,Organization Settings Modified,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,organization settings modified,Event,100.0,0
+1343,Event,Page Scrolled,,,,,,UNEXPECTED,ACTIVE,,page scrolled,Event,100.0,0
+1359,Event,Participation Deleted,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,participation deleted,Event,100.0,0
+1360,Event,Partner App Permission Clicked,,,,,,UNEXPECTED,ACTIVE,,partner app permission clicked,Event,100.0,0
+1362,Event,Partner App Settings Changed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,partner app settings changed,Event,100.0,0
+1366,Event,Partner Connected,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,partner connected,Event,100.0,0
+1368,Event,Partner Disconnected,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,partner disconnected,Event,100.0,0
+1370,Event,Partner Link Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,partner link clicked,Event,100.0,0
+1373,Event,Partner Workout Deleted,,,,,,UNEXPECTED,ACTIVE,,partner workout deleted,Event,100.0,0
+1375,Event,Partner Workout Exported,,,"This event tracks when a user's Workout (recorded with WHR) is exported to a partner (Strava, etc)",Partner Integration,partner,LIVE,ACTIVE,,partner workout exported,Event,100.0,0
+1379,Event,Partner Workout Imported,,,,,,UNEXPECTED,ACTIVE,,partner workout imported,Event,100.0,0
+1383,Event,Partner Workout Updated,,,,,,UNEXPECTED,ACTIVE,,partner workout updated,Event,100.0,0
+1385,Event,partner_integration_gateway_export_event,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,partner integration gateway export event,Event,100.0,0
+1390,Event,partner_integration_gateway_import_event,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,partner integration gateway import event,Event,100.0,0
+1395,Event,Password changed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,password changed,Event,100.0,0
+1396,Event,Paying Customer Found,,,,,,UNEXPECTED,ACTIVE,,paying customer found,Event,100.0,0
+1402,Event,Payment Method Updated,,,,,,UNEXPECTED,ACTIVE,,payment method updated,Event,100.0,0
+1411,Event,Period Prediction About Beta Selected,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction about beta selected,Event,100.0,0
+1412,Event,Period Prediction Calendar Period Clicked,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction calendar period clicked,Event,100.0,0
+1413,Event,Period Prediction Calendar Prediction Clicked,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction calendar prediction clicked,Event,100.0,0
+1414,Event,Period Prediction Cycle Duration Days Changed,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction cycle duration days changed,Event,100.0,0
+1416,Event,Period Prediction Info Button Tapped,,lauren.maymar@ouraring.com,,,,LIVE,ACTIVE,,period prediction info button tapped,Event,100.0,0
+1417,Event,Period Prediction Info Natural Cycles Button Tapped,,,,,,UNEXPECTED,ACTIVE,,period prediction info natural cycles button tapped,Event,100.0,0
+1418,Event,Period Prediction Intro Card No,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,period prediction intro card no,Event,100.0,0
+1419,Event,Period Prediction Intro Card Yes,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,period prediction intro card yes,Event,100.0,0
+1420,Event,Period Prediction Intro Completed,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction intro completed,Event,100.0,0
+1421,Event,Period Prediction Intro Exited,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction intro exited,Event,100.0,0
+1422,Event,Period Prediction Intro Next Clicked,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction intro next clicked,Event,100.0,0
+1424,Event,Period Prediction Joined,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction joined,Event,100.0,0
+1425,Event,Period Prediction Left,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction left,Event,100.0,0
+1426,Event,Period Prediction Logging Exited,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,period prediction logging exited,Event,100.0,0
+1427,Event,Period Prediction Manual Logging Started,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction manual logging started,Event,100.0,0
+1429,Event,Period Prediction Notification Confirmed,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction notification confirmed,Event,100.0,0
+1431,Event,Period Prediction Notification Dismissed,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction notification dismissed,Event,100.0,0
+1433,Event,Period Prediction Notification No Period,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction notification no period,Event,100.0,0
+1435,Event,Period Prediction Notification Shown,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction notification shown,Event,100.0,0
+1437,Event,Period Prediction Onboarding Background Info Continue,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction onboarding background info continue,Event,100.0,0
+1438,Event,Period Prediction Onboarding Completed,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction onboarding completed,Event,100.0,0
+1442,Event,Period Prediction Onboarding Cycle Length Selected,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction onboarding cycle length selected,Event,100.0,0
+1443,Event,Period Prediction Onboarding Cycle Regularity Selected,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction onboarding cycle regularity selected,Event,100.0,0
+1444,Event,Period Prediction Onboarding Start Date Selected,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction onboarding start date selected,Event,100.0,0
+1445,Event,Period Prediction Period Irregularity Changed,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction period irregularity changed,Event,100.0,0
+1447,Event,Period Prediction Privacy Link Clicked,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction privacy link clicked,Event,100.0,0
+1448,Event,Period Prediction Privacy Notice Accepted,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction privacy notice accepted,Event,100.0,0
+1449,Event,Period Prediction Privacy Notice Cancelled,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction privacy notice cancelled,Event,100.0,0
+1450,Event,Period Prediction Privacy Notice Selected,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period prediction privacy notice selected,Event,100.0,0
+1451,Event,Period Start Changed,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period start changed,Event,100.0,0
+1454,Event,Period Start Deleted,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,period start deleted,Event,100.0,0
+1456,Event,Period Start Logged,,ivan.markevich@ouraring.com,,Period Prediction,,LIVE,ACTIVE,,period start logged,Event,100.0,0
+1463,Event,Place Order Button Clicked,,,,,,UNEXPECTED,ACTIVE,,place order button clicked,Event,100.0,0
+1472,Event,Plus Button Clicked,,ivan.markevich@ouraring.com,A user clicks on the Plus Button on the Home screen,,,LIVE,ACTIVE,,plus button clicked,Event,100.0,0
+1473,Event,Plus Button Option Clicked,,ivan.markevich@ouraring.com,A user clicks on an option behind the Plus button. The specific plus button option clicked on is specified by a parameter.,,,LIVE,ACTIVE,,plus button option clicked,Event,100.0,0
+1475,Event,Pregnancy Insights Confirm Settings Change,,,,,,UNEXPECTED,ACTIVE,,pregnancy insights confirm settings change,Event,100.0,0
+1477,Event,Pregnancy Insights Feature Toggled,,,,,,UNEXPECTED,ACTIVE,,pregnancy insights feature toggled,Event,100.0,0
+1479,Event,Pregnancy Insights Feedback Tapped,,,,,,UNEXPECTED,ACTIVE,,pregnancy insights feedback tapped,Event,100.0,0
+1480,Event,Pregnancy Insights Offboarding End Date Saved,,,,,,UNEXPECTED,ACTIVE,,pregnancy insights offboarding end date saved,Event,100.0,0
+1482,Event,Pregnancy Insights Offboarding End Reason Saved,,,,,,UNEXPECTED,ACTIVE,,pregnancy insights offboarding end reason saved,Event,100.0,0
+1484,Event,Pregnancy Insights Onboarding Already Know EDD,,,,,,UNEXPECTED,ACTIVE,,pregnancy insights onboarding already know edd,Event,100.0,0
+1485,Event,Pregnancy Insights Onboarding Calculate EDD,,,,,,UNEXPECTED,ACTIVE,,pregnancy insights onboarding calculate edd,Event,100.0,0
+1486,Event,Pregnancy Insights Onboarding Dismissed Early,,,,,,UNEXPECTED,ACTIVE,,pregnancy insights onboarding dismissed early,Event,100.0,0
+1487,Event,Pregnancy Insights Onboarding Done,,,,,,UNEXPECTED,ACTIVE,,pregnancy insights onboarding done,Event,100.0,0
+1489,Event,Pregnancy Insights Onboarding Edit EDD,,,,,,UNEXPECTED,ACTIVE,,pregnancy insights onboarding edit edd,Event,100.0,0
+1490,Event,Pregnancy Insights Settings EDD Selected,,,,,,UNEXPECTED,ACTIVE,,pregnancy insights settings edd selected,Event,100.0,0
+1491,Event,Pregnancy Insights Settings EDD Tapped,,,,,,UNEXPECTED,ACTIVE,,pregnancy insights settings edd tapped,Event,100.0,0
+1492,Event,Pregnancy Insights Welcome Declined,,,,,,UNEXPECTED,ACTIVE,,pregnancy insights welcome declined,Event,100.0,0
+1493,Event,Pregnancy Offboarding Alert Button Tapped,,,,,,UNEXPECTED,ACTIVE,,pregnancy offboarding alert button tapped,Event,100.0,0
+1495,Event,Pregnancy Offboarding Alert Shown,,,,,,UNEXPECTED,ACTIVE,,pregnancy offboarding alert shown,Event,100.0,0
+1496,Event,Privacy Policy Notice Accepted,,,,,,UNEXPECTED,ACTIVE,,privacy policy notice accepted,Event,100.0,0
+1498,Event,Privacy Policy Notice Declined,,,,,,UNEXPECTED,ACTIVE,,privacy policy notice declined,Event,100.0,0
+1500,Event,Product Added,,,,,,UNEXPECTED,ACTIVE,,product added,Event,100.0,0
+1528,Event,Product Purchased,,,,,,UNEXPECTED,ACTIVE,,product purchased,Event,100.0,0
+1538,Event,Product Viewed,,,,,,UNEXPECTED,ACTIVE,,product viewed,Event,100.0,0
+1564,Event,Push Notification Bounced,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,push notification bounced,Event,100.0,0
+1568,Event,Push Notification Sent,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,push notification sent,Event,100.0,0
+1573,Event,Readiness Chart Clicked,,ivan.markevich@ouraring.com,The user clicks on a chart on the Readiness screen. The specific chart the user clicks on is specified by a parameter.,,,LIVE,ACTIVE,,readiness chart clicked,Event,100.0,0
+1575,Event,Readiness Score Clicked,,ivan.markevich@ouraring.com,The user clicks on the Readiness Score on the Readiness screen,,,LIVE,ACTIVE,,readiness score clicked,Event,100.0,0
+1577,Event,Record WHR Home CTA Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,record whr home cta clicked,Event,100.0,0
+1578,Event,Reflections Entry Created,,mats.kyyro@ouraring.com,,,,LIVE,ACTIVE,,reflections entry created,Event,100.0,0
+1587,Event,Reflections Onboarding Completed,,mats.kyyro@ouraring.com,,,,LIVE,ACTIVE,,reflections onboarding completed,Event,100.0,0
+1588,Event,Report Opened,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,report opened,Event,100.0,0
+1590,Event,Report Option Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,report option clicked,Event,100.0,0
+1592,Event,Reports Share Report Button Clicked,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,reports share report button clicked,Event,100.0,0
+1593,Event,Request Teams Access Clicked,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,request teams access clicked,Event,100.0,0
+1594,Event,Resilience Graph Type Toggled,,,,,,UNEXPECTED,ACTIVE,,resilience graph type toggled,Event,100.0,0
+1596,Event,Resilience Stress Link Clicked,,,,,,UNEXPECTED,ACTIVE,,resilience stress link clicked,Event,100.0,0
+1597,Event,Rest Mode Help Icon Clicked,,ivan.markevich@ouraring.com,,Rest Mode,,LIVE,ACTIVE,,rest mode help icon clicked,Event,100.0,0
+1598,Event,Rest Mode Options Closed,,ivan.markevich@ouraring.com,,Rest Mode,,LIVE,ACTIVE,,rest mode options closed,Event,100.0,0
+1599,Event,Rest Mode Tags Shown,,ivan.markevich@ouraring.com,,Rest Mode,,LIVE,ACTIVE,,rest mode tags shown,Event,100.0,0
+1600,Event,Rest Mode Toggled,,ivan.markevich@ouraring.com,,Rest Mode,,LIVE,ACTIVE,,rest mode toggled,Event,100.0,0
+1602,Event,Restful Period Dismissed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,restful period dismissed,Event,100.0,0
+1603,Event,Restful Period Labelled,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,restful period labelled,Event,100.0,0
+1605,Event,Reward Card Clicked,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,reward card clicked,Event,100.0,0
+1608,Event,Reward Card Dismissed,,ivan.markevich@ouraring.com,,Home Screen,,LIVE,ACTIVE,,reward card dismissed,Event,100.0,0
+1612,Event,Ring Disconnected,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,ring disconnected,Event,100.0,0
+1614,Event,Ring Firmware Update Available Card Shown,,matias.karhumaa@ouraring.com,,,,LIVE,ACTIVE,,ring firmware update available card shown,Event,100.0,0
+1617,Event,Ring Firmware Update Completed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,ring firmware update completed,Event,100.0,0
+1622,Event,Ring Firmware Update Failed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,ring firmware update failed,Event,100.0,0
+1628,Event,Ring Firmware Update Started,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,ring firmware update started,Event,100.0,0
+1632,Event,Ring Trouble Connecting Toast Shown,,ivan.markevich@ouraring.com,,,,LIVE,INACTIVE,,ring trouble connecting toast shown,Event,100.0,0
+1633,Event,Screenshot Taken,,ivan.markevich@ouraring.com,When the user takes a screenshot while the app is in the foreground. Only supported by the iOS app.,,,LIVE,ACTIVE,,screenshot taken,Event,100.0,0
+1637,Event,Search Bar Used,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,search bar used,Event,100.0,0
+1639,Event,Section Expanded,,,,,,UNEXPECTED,ACTIVE,,section expanded,Event,100.0,0
+1642,Event,Segment Test Event Name,,,,,,UNEXPECTED,ACTIVE,,segment test event name,Event,100.0,0
+1643,Event,Session Data Summarized,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,session data summarized,Event,100.0,0
+1650,Event,Session How You Feel Selected,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,session how you feel selected,Event,100.0,0
+1652,Event,Session Results Deleted,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,session results deleted,Event,100.0,0
+1653,Event,Settings Back Up Data Clicked,,ivan.markevich@ouraring.com,"On the Settings screen, the user clicks on the ""Back up all data"" option",,,LIVE,ACTIVE,,settings back up data clicked,Event,100.0,0
+1654,Event,Settings Delete Account Cancel Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,settings delete account cancel clicked,Event,100.0,0
+1656,Event,Settings Delete Account Confirmation Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,settings delete account confirmation clicked,Event,100.0,0
+1658,Event,Settings Logout Account Cancel Clicked,,,,,,UNEXPECTED,ACTIVE,,settings logout account cancel clicked,Event,100.0,0
+1659,Event,Settings Logout Account Confirmation Clicked,,lauren.maymar@ouraring.com,,,,LIVE,ACTIVE,,settings logout account confirmation clicked,Event,100.0,0
+1660,Event,Settings Manage Membership Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,settings manage membership clicked,Event,100.0,0
+1662,Event,Settings Option Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,settings option clicked,Event,100.0,0
+1664,Event,Share Background Option Selected,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,share background option selected,Event,100.0,0
+1666,Event,Share Completed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,share completed,Event,100.0,0
+1670,Event,Share CTA Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,share cta clicked,Event,100.0,0
+1672,Event,Share Destination Selected,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,share destination selected,Event,100.0,0
+1674,Event,Share Edit Drawer Collapsed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,share edit drawer collapsed,Event,100.0,0
+1675,Event,Share Edit Drawer Expanded,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,share edit drawer expanded,Event,100.0,0
+1676,Event,Share Icon Tapped,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,share icon tapped,Event,100.0,0
+1678,Event,Share Options Closed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,share options closed,Event,100.0,0
+1679,Event,Share Report Period Selected,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,share report period selected,Event,100.0,0
+1682,Event,Share Report Privacy Consent Continue Button Clicked,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,share report privacy consent continue button clicked,Event,100.0,0
+1683,Event,Share Report Privacy Consent No Thanks Button Clicked,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,share report privacy consent no thanks button clicked,Event,100.0,0
+1684,Event,Share Report Share Canceled,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,share report share canceled,Event,100.0,0
+1687,Event,Share Report Share Destination Selected,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,share report share destination selected,Event,100.0,0
+1691,Event,Share Report Tapped,,,,,,UNEXPECTED,ACTIVE,,share report tapped,Event,100.0,0
+1694,Event,Share Report Update Name Button Clicked,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,share report update name button clicked,Event,100.0,0
+1695,Event,Share Sticker Deleted,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,share sticker deleted,Event,100.0,0
+1698,Event,Share Sticker Moved,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,share sticker moved,Event,100.0,0
+1699,Event,Share Sticker Resized,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,share sticker resized,Event,100.0,0
+1700,Event,Share Sticker Selected,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,share sticker selected,Event,100.0,0
+1703,Event,Shortcut Tapped,,,,,,UNEXPECTED,ACTIVE,,shortcut tapped,Event,100.0,0
+1706,Event,Show All Detected Activities,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,show all detected activities,Event,100.0,0
+1707,Event,Show Yesterday Detected Activities,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,show yesterday detected activities,Event,100.0,0
+1708,Event,Signup Funnel Completed,,,,,,UNEXPECTED,ACTIVE,,signup funnel completed,Event,100.0,0
+1712,Event,Signup Token Valid,,,,,,UNEXPECTED,ACTIVE,,signup token valid,Event,100.0,0
+1718,Event,Slack App Installed,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,slack app installed,Event,100.0,0
+1721,Event,Slack App Uninstalled,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,slack app uninstalled,Event,100.0,0
+1723,Event,Slack Status Updated,,lauren.maymar@ouraring.com,,,,LIVE,ACTIVE,,slack status updated,Event,100.0,0
+1725,Event,Slack User Setting Changed,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,slack user setting changed,Event,100.0,0
+1729,Event,Sleep Chart Clicked,,ivan.markevich@ouraring.com,The user clicks on a chart on the sleep screen. The specific chart the user clicks on is specified by a parameter.,,,LIVE,ACTIVE,,sleep chart clicked,Event,100.0,0
+1731,Event,Sleep Exported To Partner,,,,,,UNEXPECTED,ACTIVE,,sleep exported to partner,Event,100.0,0
+1739,Event,Sleep Phase Bar Clicked,,ivan.markevich@ouraring.com,The user clicks a sleep phase bar on the sleep screen,,,LIVE,ACTIVE,,sleep phase bar clicked,Event,100.0,0
+1741,Event,Sleep Score Clicked,,ivan.markevich@ouraring.com,User clicks on the Sleep Score on the Sleep screen,,,LIVE,ACTIVE,,sleep score clicked,Event,100.0,0
+1743,Event,Sleep Sounds Library Icon Clicked,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,sleep sounds library icon clicked,Event,100.0,0
+1744,Event,Sleep Sounds Wave Icon Clicked,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,sleep sounds wave icon clicked,Event,100.0,0
+1745,Event,Sleep Staging Beta Toggled,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,sleep staging beta toggled,Event,100.0,0
+1747,Event,Slideshow Slide Selected,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,slideshow slide selected,Event,100.0,0
+1752,Event,Soundscape Selected,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,soundscape selected,Event,100.0,0
+1754,Event,Soundscapes Button Clicked,,ivan.markevich@ouraring.com,,Explore & Content,,LIVE,ACTIVE,,soundscapes button clicked,Event,100.0,0
+1756,Event,Started data file download,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,started data file download,Event,100.0,0
+1767,Event,Strava Share Activity Selected,,,,,,UNEXPECTED,ACTIVE,,strava share activity selected,Event,100.0,0
+1768,Event,Strava Share Clicked,,,,,,UNEXPECTED,ACTIVE,,strava share clicked,Event,100.0,0
+1769,Event,Stress Graph Collapsed,,tuomas.romppainen@ouraring.com,,,,LIVE,ACTIVE,,stress graph collapsed,Event,100.0,0
+1771,Event,Stress Graph Expanded,,tuomas.romppainen@ouraring.com,,,,LIVE,ACTIVE,,stress graph expanded,Event,100.0,0
+1773,Event,Subscription Created,,,,,,UNEXPECTED,ACTIVE,,subscription created,Event,100.0,0
+1784,Event,Subscription Group State Changed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,subscription group state changed,Event,100.0,0
+1787,Event,Subscription Renewed,,,,,,UNEXPECTED,ACTIVE,,subscription renewed,Event,100.0,0
+1795,Event,Suggested Content Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,suggested content clicked,Event,100.0,0
+1799,Event,Support Access Revoked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,support access revoked,Event,100.0,0
+1800,Event,System Photo Selected,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,system photo selected,Event,100.0,0
+1801,Event,Tab Selected,,ivan.markevich@ouraring.com,The user selects one of the tabs on the sticky navigation bar at the bottom of the App. The specific tab that the user clicks is specified by a parameter,,,LIVE,ACTIVE,,tab selected,Event,100.0,0
+1803,Event,TAF Card Dismissed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,taf card dismissed,Event,100.0,0
+1804,Event,Tag Added,,ivan.markevich@ouraring.com,"The user has clicked ""done"" on the ""New Note/Tag"" screen, successfully adding a Note/Tag to their Home screen",,,LIVE,ACTIVE,,tag added,Event,100.0,0
+1818,Event,Tag Card Dismissed,,maris.jameson@ouraring.com,,,,LIVE,ACTIVE,,tag card dismissed,Event,100.0,0
+1821,Event,Tag Card Shown,,maris.jameson@ouraring.com,,,,LIVE,ACTIVE,,tag card shown,Event,100.0,0
+1824,Event,Tag Deleted,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,tag deleted,Event,100.0,0
+1829,Event,Tag Drawer Dismissed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,tag drawer dismissed,Event,100.0,0
+1832,Event,Tag Drawer Shown,,maris.jameson@ouraring.com,,,,LIVE,ACTIVE,,tag drawer shown,Event,100.0,0
+1835,Event,Tag Drawer Tag Selected,,maris.jameson@ouraring.com,,,,LIVE,ACTIVE,,tag drawer tag selected,Event,100.0,0
+1840,Event,Tag Search Popup Opened,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,tag search popup opened,Event,100.0,0
+1841,Event,Tag Selection Changed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,tag selection changed,Event,100.0,0
+1843,Event,Tapped Integration Connect Button,,,,,,UNEXPECTED,ACTIVE,,tapped integration connect button,Event,100.0,0
+1846,Event,Tapped Start Button,,,,,,UNEXPECTED,ACTIVE,,tapped start button,Event,100.0,0
+1848,Event,Tapped Submit Button,,,,,,UNEXPECTED,ACTIVE,,tapped submit button,Event,100.0,0
+1850,Event,Tapped Survey Close Button,,,,,,UNEXPECTED,ACTIVE,,tapped survey close button,Event,100.0,0
+1852,Event,Tapped Survey Start Button,,,,,,UNEXPECTED,ACTIVE,,tapped survey start button,Event,100.0,0
+1854,Event,Tapped Survey Submit Button,,,,,,UNEXPECTED,ACTIVE,,tapped survey submit button,Event,100.0,0
+1856,Event,Teams Clicked Tag,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams clicked tag,Event,100.0,0
+1860,Event,Teams Coach Invitation Removed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams coach invitation removed,Event,100.0,0
+1862,Event,Teams Coach Invitation Resent,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams coach invitation resent,Event,100.0,0
+1864,Event,Teams Coach Invited,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams coach invited,Event,100.0,0
+1866,Event,Teams Coach Removed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams coach removed,Event,100.0,0
+1868,Event,Teams Coach Role Modified,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams coach role modified,Event,100.0,0
+1870,Event,Teams Data File Downloaded,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams data file downloaded,Event,100.0,0
+1877,Event,Teams Group Archived,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams group archived,Event,100.0,0
+1880,Event,Teams Group Created,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams group created,Event,100.0,0
+1886,Event,Teams Group Dashboard Sorted,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams group dashboard sorted,Event,100.0,0
+1891,Event,Teams Group Deleted,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams group deleted,Event,100.0,0
+1894,Event,Teams Group Member Invitation Removed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams group member invitation removed,Event,100.0,0
+1897,Event,Teams Group Member Invitation Resent,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams group member invitation resent,Event,100.0,0
+1900,Event,Teams Group Member Invited,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams group member invited,Event,100.0,0
+1903,Event,Teams Group Member Modified,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams group member modified,Event,100.0,0
+1908,Event,Teams Group Member Removed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams group member removed,Event,100.0,0
+1911,Event,Teams Group Modified,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams group modified,Event,100.0,0
+1915,Event,Teams Group Tag Listing Toggle Opened,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams group tag listing toggle opened,Event,100.0,0
+1918,Event,Teams Invitation Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,teams invitation clicked,Event,100.0,0
+1920,Event,Teams Member Labels/Tags Tab Changed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams member labels tags tab changed,Event,100.0,0
+1924,Event,Teams Metric Set Active Set Changed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams metric set active set changed,Event,100.0,0
+1928,Event,Teams Metric Set Order Changed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams metric set order changed,Event,100.0,0
+1931,Event,Teams Metric Set Removed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams metric set removed,Event,100.0,0
+1934,Event,Teams New Metric Set Created,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams new metric set created,Event,100.0,0
+1937,Event,Teams Note Popup Opened,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams note popup opened,Event,100.0,0
+1941,Event,Teams Organization Deleted,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams organization deleted,Event,100.0,0
+1943,Event,Teams Organization Modified,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams organization modified,Event,100.0,0
+1945,Event,Teams Private Group Role Added,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams private group role added,Event,100.0,0
+1948,Event,Teams Private Group Role Modified,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams private group role modified,Event,100.0,0
+1950,Event,Teams Private Group Role Removed,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams private group role removed,Event,100.0,0
+1953,Event,Teams RAM Restriction Period Created,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,teams ram restriction period created,Event,100.0,0
+1958,Event,Tell a Friend Share Completed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,tell a friend share completed,Event,100.0,0
+1960,Event,Tell a Friend Share Destination Selected,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,tell a friend share destination selected,Event,100.0,0
+1962,Event,Test Event Name,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,test event name,Event,100.0,0
+1966,Event,The Pulse Blog Opened,,lauren.maymar@ouraring.com,,,,LIVE,ACTIVE,,the pulse blog opened,Event,100.0,0
+1968,Event,Timeseries Realm Status,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,timeseries realm status,Event,100.0,0
+1970,Event,Tips And Guidance Card Clicked,,,,,,UNEXPECTED,ACTIVE,,tips and guidance card clicked,Event,100.0,0
+1972,Event,Tips And Guidance Scrolled,,,,,,UNEXPECTED,ACTIVE,,tips and guidance scrolled,Event,100.0,0
+1975,Event,Top Date Selector Scroll,,ivan.markevich@ouraring.com,A user scrolls across dates using the date selector at the top of the screen. This is not the day-by-day swiping action to navigate between days,,,LIVE,ACTIVE,,top date selector scroll,Event,100.0,0
+1976,Event,Trend Clicked,,ivan.markevich@ouraring.com,The user clicks on a metric under the Trends screen. The specific trend the user clicks is specified by a parameter,,,LIVE,ACTIVE,,trend clicked,Event,100.0,0
+1979,Event,Trend Grain Clicked,,ivan.markevich@ouraring.com,"The user clicks on the ""weekly"" or ""monthly"" grain when viewing a trend to change it from a daily grain view. The specific grain the user clicks is specified by a parameter",,,LIVE,ACTIVE,,trend grain clicked,Event,100.0,0
+1981,Event,Trends Category Selected,,ivan.markevich@ouraring.com,"The user selects the Sleep, Readiness, or Activity category under the Trends screen",,,LIVE,ACTIVE,,trends category selected,Event,100.0,0
+1983,Event,Trouble Connecting Ring Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,trouble connecting ring clicked,Event,100.0,0
+1985,Event,Turn Off Rest Mode Confirmed,,ivan.markevich@ouraring.com,the user confirms turning off Rest Mode by dismissing the Rest mode is off pop-up card Home by pressing “Got It” or tapping the card,Rest Mode,,LIVE,ACTIVE,,turn off rest mode confirmed,Event,100.0,0
+1986,Event,Tutorial Viewed,,,,,,UNEXPECTED,ACTIVE,,tutorial viewed,Event,100.0,0
+1988,Event,Unsubscribed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,unsubscribed,Event,100.0,0
+1999,Event,Update Payment Method Success,,,,,,UNEXPECTED,ACTIVE,,update payment method success,Event,100.0,0
+2004,Event,Updating Payment Method Failed,,,,,,UNEXPECTED,ACTIVE,,updating payment method failed,Event,100.0,0
+2009,Event,Upgrade Card Clicked,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,upgrade card clicked,Event,100.0,0
+2011,Event,Upgrade Card Dismissed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,upgrade card dismissed,Event,100.0,0
+2013,Event,User Attribute Changed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,user attribute changed,Event,100.0,0
+2017,Event,User Billing Address Captured,,,,,,UNEXPECTED,ACTIVE,,user billing address captured,Event,100.0,0
+2025,Event,User Bounced,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,user bounced,Event,100.0,0
+2026,Event,User Clicked One Click Payment Button,,,,,,UNEXPECTED,ACTIVE,,user clicked one click payment button,Event,100.0,0
+2032,Event,User Email Captured,,,,,,UNEXPECTED,ACTIVE,,user email captured,Event,100.0,0
+2048,Event,User Exited One Click Payment Modal,,,,,,UNEXPECTED,ACTIVE,,user exited one click payment modal,Event,100.0,0
+2056,Event,User Shared,,,,,,UNEXPECTED,ACTIVE,,user shared,Event,100.0,0
+2059,Event,User Shipping Address Captured,,,,,,UNEXPECTED,ACTIVE,,user shipping address captured,Event,100.0,0
+2074,Event,Viewed Activity Intro Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed activity intro screen,Event,100.0,0
+2076,Event,Viewed Activity Screen,,ivan.markevich@ouraring.com,The user views the Activity Screen,,,LIVE,ACTIVE,,viewed activity screen,Event,100.0,0
+2079,Event,Viewed Body Clock Detail Screen,,lauren.maymar@ouraring.com,,,,LIVE,ACTIVE,,viewed body clock detail screen,Event,100.0,0
+2081,Event,Viewed Cardio Capacity Details Screen,,,,,,UNEXPECTED,ACTIVE,,viewed cardio capacity details screen,Event,100.0,0
+2084,Event,Viewed Cardio Capacity EduLayer Screen,,,,,,UNEXPECTED,ACTIVE,,viewed cardio capacity edulayer screen,Event,100.0,0
+2087,Event,Viewed Cardiovascular Age Details Screen,,,,,,UNEXPECTED,ACTIVE,,viewed cardiovascular age details screen,Event,100.0,0
+2090,Event,Viewed Cardiovascular Age Education Screen,,,,,,UNEXPECTED,ACTIVE,,viewed cardiovascular age education screen,Event,100.0,0
+2093,Event,Viewed Chatbot Screen,,,,,,UNEXPECTED,ACTIVE,,viewed chatbot screen,Event,100.0,0
+2095,Event,Viewed Chronotype Detail Screen,,henri.huttunen@ouraring.com,,,,LIVE,ACTIVE,,viewed chronotype detail screen,Event,100.0,0
+2097,Event,Viewed Cloud Dashboard – Activity Page,,ivan.markevich@ouraring.com,,Oura on the Web,,LIVE,ACTIVE,,viewed cloud dashboard   activity page,Event,100.0,0
+2105,Event,Viewed Cloud Dashboard – Readiness Page,,ivan.markevich@ouraring.com,,Oura on the Web,,LIVE,ACTIVE,,viewed cloud dashboard   readiness page,Event,100.0,0
+2113,Event,Viewed Cloud Dashboard – Sleep Page,,ivan.markevich@ouraring.com,,Oura on the Web,,LIVE,ACTIVE,,viewed cloud dashboard   sleep page,Event,100.0,0
+2121,Event,Viewed Cloud Guide Page,,ivan.markevich@ouraring.com,,Oura on the Web,,LIVE,ACTIVE,,viewed cloud guide page,Event,100.0,0
+2130,Event,Viewed Cloud My Account Page,,lauren.maymar@ouraring.com,,,,LIVE,ACTIVE,,viewed cloud my account page,Event,100.0,0
+2138,Event,Viewed Cloud Trends Page,,ivan.markevich@ouraring.com,,Oura on the Web,,LIVE,ACTIVE,,viewed cloud trends page,Event,100.0,0
+2146,Event,Viewed Cloud Verify Account and Set Password Page,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed cloud verify account and set password page,Event,100.0,0
+2155,Event,Viewed Day 0 Activity Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed day 0 activity screen,Event,100.0,0
+2157,Event,Viewed Day 0 Readiness Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed day 0 readiness screen,Event,100.0,0
+2159,Event,Viewed Day 0 Sleep Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed day 0 sleep screen,Event,100.0,0
+2161,Event,Viewed Daytime Heart Rate Details Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed daytime heart rate details screen,Event,100.0,0
+2163,Event,Viewed Daytime HR Onboarding Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed daytime hr onboarding screen,Event,100.0,0
+2166,Event,Viewed Daytime Stress Onboarding Screen,,tuomas.romppainen@ouraring.com,,,,LIVE,ACTIVE,,viewed daytime stress onboarding screen,Event,100.0,0
+2168,Event,Viewed Daytime Stress Screen,,tuomas.romppainen@ouraring.com,,,,LIVE,ACTIVE,,viewed daytime stress screen,Event,100.0,0
+2171,Event,Viewed Detected Activities Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed detected activities screen,Event,100.0,0
+2173,Event,Viewed Edit Activity Goal Screen,,maris.jameson@ouraring.com,,,,LIVE,ACTIVE,,viewed edit activity goal screen,Event,100.0,0
+2175,Event,Viewed Education Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed education screen,Event,100.0,0
+2179,Event,Viewed EIM Enterprise Illness Management Page,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed eim enterprise illness management page,Event,100.0,0
+2187,Event,Viewed Explore Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed explore screen,Event,100.0,0
+2189,Event,Viewed Feature Intro Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed feature intro screen,Event,100.0,0
+2192,Event,Viewed Feature Onboarding Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed feature onboarding screen,Event,100.0,0
+2195,Event,Viewed Heart Health Details Screen,,,,,,UNEXPECTED,ACTIVE,,viewed heart health details screen,Event,100.0,0
+2197,Event,Viewed Home Screen,,ivan.markevich@ouraring.com,The user views the home screen of the App,,,LIVE,ACTIVE,,viewed home screen,Event,100.0,0
+2207,Event,Viewed HRM Coaches List Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed hrm coaches list page,Event,100.0,0
+2215,Event,Viewed HRM Group List Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed hrm group list page,Event,100.0,0
+2224,Event,Viewed HRM Group Members List Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed hrm group members list page,Event,100.0,0
+2233,Event,Viewed HRM Group Settings Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed hrm group settings page,Event,100.0,0
+2242,Event,Viewed HRM Group Statistics Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed hrm group statistics page,Event,100.0,0
+2251,Event,Viewed HRM Health Risk Management Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed hrm health risk management page,Event,100.0,0
+2261,Event,Viewed HRM Organization Settings Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed hrm organization settings page,Event,100.0,0
+2269,Event,Viewed Insight Screen,,ivan.markevich@ouraring.com,"The user views the Insight screen, which is shown after a user clicks on an Insight card on the Home screen",,,LIVE,ACTIVE,,viewed insight screen,Event,100.0,0
+2273,Event,Viewed Integrations Detail Page,,,,,,UNEXPECTED,ACTIVE,,viewed integrations detail page,Event,100.0,0
+2280,Event,Viewed Integrations Page,,,,,,UNEXPECTED,ACTIVE,,viewed integrations page,Event,100.0,0
+2286,Event,Viewed Integrations Page Viewed,,,,,,UNEXPECTED,ACTIVE,,viewed integrations page viewed,Event,100.0,0
+2291,Event,Viewed Moment Screen,,ivan.markevich@ouraring.com,The user views the Moment screen after clicking on Take a Moment,,,LIVE,ACTIVE,,viewed moment screen,Event,100.0,0
+2293,Event,Viewed Moment Session History Screen,,ivan.markevich@ouraring.com,User views the Session History screen for Moment,,,LIVE,ACTIVE,,viewed moment session history screen,Event,100.0,0
+2295,Event,Viewed My Health Screen,,,,,,UNEXPECTED,ACTIVE,,viewed my health screen,Event,100.0,0
+2296,Event,Viewed My Profile Screen,,ivan.markevich@ouraring.com,User views the My Profile screen,,,LIVE,ACTIVE,,viewed my profile screen,Event,100.0,0
+2298,Event,Viewed New Workout Details Screen,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,viewed new workout details screen,Event,100.0,0
+2300,Event,Viewed Onboarding Notifications Permissions Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed onboarding notifications permissions screen,Event,100.0,0
+2302,Event,Viewed Partner Page Viewed,,,,,,UNEXPECTED,ACTIVE,,viewed partner page viewed,Event,100.0,0
+2309,Event,Viewed Privacy Policy Notice Viewed Screen,,,,,,UNEXPECTED,ACTIVE,,viewed privacy policy notice viewed screen,Event,100.0,0
+2312,Event,Viewed Public Accept TOS and PP Page,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed public accept tos and pp page,Event,100.0,0
+2319,Event,Viewed Public Account Instructions Page,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed public account instructions page,Event,100.0,0
+2328,Event,Viewed Public Chatbot Session Request Page,,,,,,UNEXPECTED,ACTIVE,,viewed public chatbot session request page,Event,100.0,0
+2336,Event,Viewed Public Circles Invite Page,,lauren.maymar@ouraring.com,,,,LIVE,ACTIVE,,viewed public circles invite page,Event,100.0,0
+2344,Event,Viewed Public Forgot Password Page,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed public forgot password page,Event,100.0,0
+2352,Event,Viewed Public Invitation Sign In Page,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed public invitation sign in page,Event,100.0,0
+2361,Event,Viewed Public Invitation Sign Up Page,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed public invitation sign up page,Event,100.0,0
+2370,Event,Viewed Public Reset Password Page,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed public reset password page,Event,100.0,0
+2378,Event,Viewed Public Sign In Page,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed public sign in page,Event,100.0,0
+2387,Event,Viewed Public Support Access Right Request Page,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed public support access right request page,Event,100.0,0
+2395,Event,Viewed Public Verify Account and Set Password Page,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed public verify account and set password page,Event,100.0,0
+2404,Event,Viewed Public Verify Email Page,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed public verify email page,Event,100.0,0
+2412,Event,Viewed Readiness Intro Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed readiness intro screen,Event,100.0,0
+2414,Event,Viewed Readiness Screen,,ivan.markevich@ouraring.com,The user views the Readiness screen,,,LIVE,ACTIVE,,viewed readiness screen,Event,100.0,0
+2417,Event,Viewed Reflections Create Entry Screen,,mats.kyyro@ouraring.com,,,,LIVE,ACTIVE,,viewed reflections create entry screen,Event,100.0,0
+2419,Event,Viewed Reflections History Screen,,mats.kyyro@ouraring.com,,,,LIVE,ACTIVE,,viewed reflections history screen,Event,100.0,0
+2421,Event,Viewed Resilience Calibration Screen,,,,,,UNEXPECTED,ACTIVE,,viewed resilience calibration screen,Event,100.0,0
+2423,Event,Viewed Resilience Onboarding Screen,,,,,,UNEXPECTED,ACTIVE,,viewed resilience onboarding screen,Event,100.0,0
+2425,Event,Viewed Resilience Screen,,,,,,UNEXPECTED,ACTIVE,,viewed resilience screen,Event,100.0,0
+2428,Event,Viewed Rest Mode Education Card Screen,,ivan.markevich@ouraring.com,,Rest Mode,,LIVE,ACTIVE,,viewed rest mode education card screen,Event,100.0,0
+2430,Event,Viewed Rest Mode Options Screen,,ivan.markevich@ouraring.com,,Rest Mode,,LIVE,ACTIVE,,viewed rest mode options screen,Event,100.0,0
+2432,Event,Viewed Settings Screen,,ivan.markevich@ouraring.com,The user views the Settings screen,,,LIVE,ACTIVE,,viewed settings screen,Event,100.0,0
+2434,Event,Viewed Share Report Privacy Consent Screen Screen,,dora.ulysse@ouraring.com,,,,LIVE,ACTIVE,,viewed share report privacy consent screen screen,Event,100.0,0
+2435,Event,Viewed Sleep Details Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed sleep details screen,Event,100.0,0
+2437,Event,Viewed Sleep Intro Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed sleep intro screen,Event,100.0,0
+2439,Event,Viewed Sleep Screen,,ivan.markevich@ouraring.com,The user views the Sleep screen,,,LIVE,ACTIVE,,viewed sleep screen,Event,100.0,0
+2442,Event,Viewed Sleep Sounds Library Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed sleep sounds library screen,Event,100.0,0
+2444,Event,Viewed Start Page,,,,,,UNEXPECTED,ACTIVE,,viewed start page,Event,100.0,0
+2449,Event,Viewed Success Page,,,,,,UNEXPECTED,ACTIVE,,viewed success page,Event,100.0,0
+2454,Event,Viewed Survey Page,,,,,,UNEXPECTED,ACTIVE,,viewed survey page,Event,100.0,0
+2461,Event,Viewed Survey Start Page,,,,,,UNEXPECTED,ACTIVE,,viewed survey start page,Event,100.0,0
+2467,Event,Viewed Survey Success Page,,,,,,UNEXPECTED,ACTIVE,,viewed survey success page,Event,100.0,0
+2473,Event,Viewed Tags Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed tags screen,Event,100.0,0
+2478,Event,Viewed Teams Coaches List Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams coaches list page,Event,100.0,0
+2486,Event,Viewed Teams Dashboard – Activity Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams dashboard   activity page,Event,100.0,0
+2494,Event,Viewed Teams Dashboard – Readiness Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams dashboard   readiness page,Event,100.0,0
+2502,Event,Viewed Teams Dashboard – Sleep Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams dashboard   sleep page,Event,100.0,0
+2510,Event,Viewed Teams Data Export Page Page,,,,,,UNEXPECTED,ACTIVE,,viewed teams data export page page,Event,100.0,0
+2518,Event,Viewed Teams Group Analysis Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams group analysis page,Event,100.0,0
+2528,Event,Viewed Teams Group Dashboard Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams group dashboard page,Event,100.0,0
+2538,Event,Viewed Teams Group Data Files Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams group data files page,Event,100.0,0
+2548,Event,Viewed Teams Group List Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams group list page,Event,100.0,0
+2557,Event,Viewed Teams Group Members List Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams group members list page,Event,100.0,0
+2567,Event,Viewed Teams Group Settings Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams group settings page,Event,100.0,0
+2576,Event,Viewed Teams Group Statistics Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams group statistics page,Event,100.0,0
+2585,Event,Viewed Teams Guide Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams guide page,Event,100.0,0
+2594,Event,Viewed Teams Information Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams information page,Event,100.0,0
+2602,Event,Viewed Teams New Export Page Page,,,,,,UNEXPECTED,ACTIVE,,viewed teams new export page page,Event,100.0,0
+2610,Event,Viewed Teams Organization Settings Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams organization settings page,Event,100.0,0
+2618,Event,Viewed Teams Reports Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams reports page,Event,100.0,0
+2626,Event,Viewed Teams Select Organization Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams select organization page,Event,100.0,0
+2633,Event,Viewed Teams Trends Page,,ivan.markevich@ouraring.com,,Teams / HRM,,LIVE,ACTIVE,,viewed teams trends page,Event,100.0,0
+2641,Event,Viewed Tell a Friend Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed tell a friend screen,Event,100.0,0
+2643,Event,Viewed Trends Screen,,ivan.markevich@ouraring.com,The user views the Trends Screen,,,LIVE,ACTIVE,,viewed trends screen,Event,100.0,0
+2645,Event,Viewed Unrouted Workout Details Screen,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,viewed unrouted workout details screen,Event,100.0,0
+2647,Event,Viewed Vitals Screen,,,,,,UNEXPECTED,ACTIVE,,viewed vitals screen,Event,100.0,0
+2649,Event,Viewed Walking Test Error State Screen,,,,,,UNEXPECTED,ACTIVE,,viewed walking test error state screen,Event,100.0,0
+2652,Event,Viewed Walking Test No Results Screen,,,,,,UNEXPECTED,ACTIVE,,viewed walking test no results screen,Event,100.0,0
+2654,Event,Viewed Watch Home Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed watch home screen,Event,100.0,0
+2658,Event,Viewed Welcome Onboard Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed welcome onboard screen,Event,100.0,0
+2660,Event,Viewed WHR Select Workout Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed whr select workout screen,Event,100.0,0
+2662,Event,Viewed Workout Details Placeholder Screen,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,viewed workout details placeholder screen,Event,100.0,0
+2664,Event,Viewed Workout Details Screen,,lauren.maymar@ouraring.com,,,,LIVE,ACTIVE,,viewed workout details screen,Event,100.0,0
+2674,Event,Viewed Workout HR Screen,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,viewed workout hr screen,Event,100.0,0
+2677,Event,Vitals Row Tapped,,,,,,UNEXPECTED,ACTIVE,,vitals row tapped,Event,100.0,0
+2679,Event,Walking Test Button Clicked,,,,,,UNEXPECTED,ACTIVE,,walking test button clicked,Event,100.0,0
+2681,Event,Walking Test Cancelled,,,,,,UNEXPECTED,ACTIVE,,walking test cancelled,Event,100.0,0
+2682,Event,Walking Test Error,,,,,,UNEXPECTED,ACTIVE,,walking test error,Event,100.0,0
+2684,Event,Walking Test No Results Close Tapped,,,,,,UNEXPECTED,ACTIVE,,walking test no results close tapped,Event,100.0,0
+2685,Event,Walking Test No Results Restart Tapped,,,,,,UNEXPECTED,ACTIVE,,walking test no results restart tapped,Event,100.0,0
+2686,Event,Walking Test Onboarding CTA Button Clicked,,,,,,UNEXPECTED,ACTIVE,,walking test onboarding cta button clicked,Event,100.0,0
+2688,Event,Walking Test Quality Info Button Tapped,,,,,,UNEXPECTED,ACTIVE,,walking test quality info button tapped,Event,100.0,0
+2690,Event,Walking Test Started,,,,,,UNEXPECTED,ACTIVE,,walking test started,Event,100.0,0
+2691,Event,Walking Test Successful,,,,,,UNEXPECTED,ACTIVE,,walking test successful,Event,100.0,0
+2693,Event,WHR Workout Selected,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,whr workout selected,Event,100.0,0
+2695,Event,Widget Added,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,widget added,Event,100.0,0
+2698,Event,Widget Removed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,widget removed,Event,100.0,0
+2701,Event,Widget Tapped,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,widget tapped,Event,100.0,0
+2703,Event,Womens Health Delete Data Learn More Tapped,,,,,,UNEXPECTED,ACTIVE,,womens health delete data learn more tapped,Event,100.0,0
+2704,Event,Womens Health Delete Data Tapped,,,,,,UNEXPECTED,ACTIVE,,womens health delete data tapped,Event,100.0,0
+2705,Event,Workout Added,,ivan.markevich@ouraring.com,"After clicking on the Add a Workout button (shown after clicking on the Plus Button), the user has chosen an activity, and then clicks Done at the top right of the screen for the given activity. Note: this is also firing for AAD activities, so be sure to only use this event in a funnel with the plus button events","Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,workout added,Event,100.0,0
+2717,Event,Workout Deleted,,ivan.markevich@ouraring.com,,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,workout deleted,Event,100.0,0
+2719,Event,Workout HR Promo Viewed,,ivan.markevich@ouraring.com,"Triggered when a user views the location onboarding screens.  This will be shown through these entry points:
+
+* Detected Activities page
+
+* Save AAD activity
+
+Once you view the onboarding one time we will not surface it again from those locations.",,,LIVE,ACTIVE,,workout hr promo viewed,Event,100.0,0
+2720,Event,Workout HR Recording Canceled,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,workout hr recording canceled,Event,100.0,0
+2721,Event,Workout HR Recording Ended,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,workout hr recording ended,Event,100.0,0
+2722,Event,Workout HR Recording Paused,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,workout hr recording paused,Event,100.0,0
+2723,Event,Workout HR Recording Resumed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,workout hr recording resumed,Event,100.0,0
+2724,Event,Workout HR Recording Screen Closed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,workout hr recording screen closed,Event,100.0,0
+2726,Event,Workout HR Recording Started,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,workout hr recording started,Event,100.0,0
+2727,Event,Workout HR Sync Failed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,workout hr sync failed,Event,100.0,0
+2728,Event,Workout Imported,,ivan.markevich@ouraring.com,The user imports a workout from an external source,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,workout imported,Event,100.0,0
+2742,Event,Workout Modified,,ivan.markevich@ouraring.com,The user modifies a workout imported from an external source,"Activity - AAD, Workouts, Daytime HR",,LIVE,ACTIVE,,workout modified,Event,100.0,0
+2748,Event,Yesterday Detected Activities Dismissed,,ivan.markevich@ouraring.com,,,,LIVE,ACTIVE,,yesterday detected activities dismissed,Event,100.0,0
