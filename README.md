@@ -39,7 +39,7 @@ npm run dev    # Vite dev server → http://localhost:5173
 
 1. Click **Generate Fix File**.
 
-2. Review table (see _Appendix A – Reviewable-CSV schema_).
+2. Review table (see _Appendix A - Data Specs – Reviewable-CSV schema_).
 
 3. Mark `Approve = Y` where desired → **Download Approved CSV**.
 
