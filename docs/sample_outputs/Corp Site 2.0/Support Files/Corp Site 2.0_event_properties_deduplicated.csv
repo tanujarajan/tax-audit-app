@@ -1,0 +1,1591 @@
+Event Property Name,Property Type,Property Group Names,Property Description,Property Value Type,Property Schema Status,Property Required,Property Is Array,Property First Seen,Property Last Seen
+$price,Event Property,,,any,LIVE,False,False,2021-07-28,2021-07-28
+$productId,Event Property,,,any,LIVE,False,False,2021-07-28,2021-07-28
+$quantity,Event Property,,,any,LIVE,False,False,2021-07-28,2021-07-28
+$revenue,Event Property,,,any,LIVE,False,False,2021-07-28,2021-07-28
+$revenueType,Event Property,,,any,LIVE,False,False,2021-07-28,2021-07-28
+(opt) Business Case Definition,Event Property,,,any,LIVE,False,False,2022-06-01,2025-02-12
+(opt) Champion Persona,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+(opt) Champion has prior Amplitude exp,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-11
+(opt) Go-Live Date,Event Property,,,any,LIVE,False,False,2022-06-08,2025-03-11
+(opt) MSA Review Complete,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+(opt) Mutual Action Plan Link,Event Property,,,any,LIVE,False,False,2022-06-02,2025-03-13
+(opt) Roll Out Plan & Partner Services,Event Property,,,any,LIVE,False,False,2022-06-08,2023-06-14
+(opt) SDR Qualification Call: Gong Link,Event Property,,,any,LIVE,False,False,2022-06-02,2025-02-26
+(opt) SDR Qualification Call: Notes,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-11
+0,Event Property,,,any,LIVE,False,False,,
+1,Event Property,,,any,LIVE,False,False,,
+10,Event Property,,,any,LIVE,False,False,,
+100,Event Property,,,any,LIVE,False,False,,
+101,Event Property,,,any,LIVE,False,False,,
+102,Event Property,,,any,LIVE,False,False,,
+103,Event Property,,,any,LIVE,False,False,,
+104,Event Property,,,any,LIVE,False,False,,
+105,Event Property,,,any,LIVE,False,False,,
+106,Event Property,,,any,LIVE,False,False,,
+107,Event Property,,,any,LIVE,False,False,,
+108,Event Property,,,any,LIVE,False,False,,
+109,Event Property,,,any,LIVE,False,False,,
+11,Event Property,,,any,LIVE,False,False,,
+110,Event Property,,,any,LIVE,False,False,,
+111,Event Property,,,any,LIVE,False,False,,
+112,Event Property,,,any,LIVE,False,False,,
+113,Event Property,,,any,LIVE,False,False,,
+114,Event Property,,,any,LIVE,False,False,,
+115,Event Property,,,any,LIVE,False,False,,
+116,Event Property,,,any,LIVE,False,False,,
+117,Event Property,,,any,LIVE,False,False,,
+118,Event Property,,,any,LIVE,False,False,,
+119,Event Property,,,any,LIVE,False,False,,
+12,Event Property,,,any,LIVE,False,False,,
+120,Event Property,,,any,LIVE,False,False,,
+121,Event Property,,,any,LIVE,False,False,,
+122,Event Property,,,any,LIVE,False,False,,
+123,Event Property,,,any,LIVE,False,False,,
+124,Event Property,,,any,LIVE,False,False,,
+125,Event Property,,,any,LIVE,False,False,,
+126,Event Property,,,any,LIVE,False,False,,
+127,Event Property,,,any,LIVE,False,False,,
+128,Event Property,,,any,LIVE,False,False,,
+129,Event Property,,,any,LIVE,False,False,,
+13,Event Property,,,any,LIVE,False,False,,
+130,Event Property,,,any,LIVE,False,False,,
+131,Event Property,,,any,LIVE,False,False,,
+132,Event Property,,,any,LIVE,False,False,,
+133,Event Property,,,any,LIVE,False,False,,
+134,Event Property,,,any,LIVE,False,False,,
+135,Event Property,,,any,LIVE,False,False,,
+136,Event Property,,,any,LIVE,False,False,,
+137,Event Property,,,any,LIVE,False,False,,
+138,Event Property,,,any,LIVE,False,False,,
+139,Event Property,,,any,LIVE,False,False,,
+14,Event Property,,,any,LIVE,False,False,,
+140,Event Property,,,any,LIVE,False,False,,
+141,Event Property,,,any,LIVE,False,False,,
+142,Event Property,,,any,LIVE,False,False,,
+143,Event Property,,,any,LIVE,False,False,,
+144,Event Property,,,any,LIVE,False,False,,
+145,Event Property,,,any,LIVE,False,False,,
+146,Event Property,,,any,LIVE,False,False,,
+147,Event Property,,,any,LIVE,False,False,,
+148,Event Property,,,any,LIVE,False,False,,
+149,Event Property,,,any,LIVE,False,False,,
+15,Event Property,,,any,LIVE,False,False,,
+150,Event Property,,,any,LIVE,False,False,,
+151,Event Property,,,any,LIVE,False,False,,
+152,Event Property,,,any,LIVE,False,False,,
+153,Event Property,,,any,LIVE,False,False,,
+154,Event Property,,,any,LIVE,False,False,,
+155,Event Property,,,any,LIVE,False,False,,
+156,Event Property,,,any,LIVE,False,False,,
+157,Event Property,,,any,LIVE,False,False,,
+158,Event Property,,,any,LIVE,False,False,,
+159,Event Property,,,any,LIVE,False,False,,
+16,Event Property,,,any,LIVE,False,False,,
+160,Event Property,,,any,LIVE,False,False,,
+161,Event Property,,,any,LIVE,False,False,,
+162,Event Property,,,any,LIVE,False,False,,
+163,Event Property,,,any,LIVE,False,False,,
+164,Event Property,,,any,LIVE,False,False,,
+165,Event Property,,,any,LIVE,False,False,,
+166,Event Property,,,any,LIVE,False,False,,
+167,Event Property,,,any,LIVE,False,False,,
+168,Event Property,,,any,LIVE,False,False,,
+169,Event Property,,,any,LIVE,False,False,,
+16LYdrHsGmiCCKqYYOQ0yw,Event Property,,,any,LIVE,False,False,,
+17,Event Property,,,any,LIVE,False,False,,
+170,Event Property,,,any,LIVE,False,False,,
+171,Event Property,,,any,LIVE,False,False,,
+172,Event Property,,,any,LIVE,False,False,,
+173,Event Property,,,any,LIVE,False,False,,
+174,Event Property,,,any,LIVE,False,False,,
+175,Event Property,,,any,LIVE,False,False,,
+176,Event Property,,,any,LIVE,False,False,,
+177,Event Property,,,any,LIVE,False,False,,
+178,Event Property,,,any,LIVE,False,False,,
+179,Event Property,,,any,LIVE,False,False,,
+18,Event Property,,,any,LIVE,False,False,,
+180,Event Property,,,any,LIVE,False,False,,
+181,Event Property,,,any,LIVE,False,False,,
+182,Event Property,,,any,LIVE,False,False,,
+183,Event Property,,,any,LIVE,False,False,,
+184,Event Property,,,any,LIVE,False,False,,
+185,Event Property,,,any,LIVE,False,False,,
+186,Event Property,,,any,LIVE,False,False,,
+187,Event Property,,,any,LIVE,False,False,,
+188,Event Property,,,any,LIVE,False,False,,
+189,Event Property,,,any,LIVE,False,False,,
+19,Event Property,,,any,LIVE,False,False,,
+190,Event Property,,,any,LIVE,False,False,,
+191,Event Property,,,any,LIVE,False,False,,
+192,Event Property,,,any,LIVE,False,False,,
+193,Event Property,,,any,LIVE,False,False,,
+194,Event Property,,,any,LIVE,False,False,,
+195,Event Property,,,any,LIVE,False,False,,
+196,Event Property,,,any,LIVE,False,False,,
+197,Event Property,,,any,LIVE,False,False,,
+198,Event Property,,,any,LIVE,False,False,,
+199,Event Property,,,any,LIVE,False,False,,
+19TKZXswTQGeEKiKgKwaaw,Event Property,,,any,LIVE,False,False,,
+2,Event Property,,,any,LIVE,False,False,,
+20,Event Property,,,any,LIVE,False,False,,
+200,Event Property,,,any,LIVE,False,False,,
+201,Event Property,,,any,LIVE,False,False,,
+202,Event Property,,,any,LIVE,False,False,,
+203,Event Property,,,any,LIVE,False,False,,
+204,Event Property,,,any,LIVE,False,False,,
+205,Event Property,,,any,LIVE,False,False,,
+206,Event Property,,,any,LIVE,False,False,,
+207,Event Property,,,any,LIVE,False,False,,
+208,Event Property,,,any,LIVE,False,False,,
+209,Event Property,,,any,LIVE,False,False,,
+20Uz7rfdwk2uMoccoCCSiE,Event Property,,,any,LIVE,False,False,,
+21,Event Property,,,any,LIVE,False,False,,
+210,Event Property,,,any,LIVE,False,False,,
+211,Event Property,,,any,LIVE,False,False,,
+212,Event Property,,,any,LIVE,False,False,,
+213,Event Property,,,any,LIVE,False,False,,
+214,Event Property,,,any,LIVE,False,False,,
+215,Event Property,,,any,LIVE,False,False,,
+216,Event Property,,,any,LIVE,False,False,,
+217,Event Property,,,any,LIVE,False,False,,
+218,Event Property,,,any,LIVE,False,False,,
+219,Event Property,,,any,LIVE,False,False,,
+22,Event Property,,,any,LIVE,False,False,,
+220,Event Property,,,any,LIVE,False,False,,
+221,Event Property,,,any,LIVE,False,False,,
+222,Event Property,,,any,LIVE,False,False,,
+223,Event Property,,,any,LIVE,False,False,,
+224,Event Property,,,any,LIVE,False,False,,
+225,Event Property,,,any,LIVE,False,False,,
+226,Event Property,,,any,LIVE,False,False,,
+227,Event Property,,,any,LIVE,False,False,,
+228,Event Property,,,any,LIVE,False,False,,
+229,Event Property,,,any,LIVE,False,False,,
+23,Event Property,,,any,LIVE,False,False,,
+230,Event Property,,,any,LIVE,False,False,,
+231,Event Property,,,any,LIVE,False,False,,
+232,Event Property,,,any,LIVE,False,False,,
+233,Event Property,,,any,LIVE,False,False,,
+234,Event Property,,,any,LIVE,False,False,,
+235,Event Property,,,any,LIVE,False,False,,
+236,Event Property,,,any,LIVE,False,False,,
+237,Event Property,,,any,LIVE,False,False,,
+238,Event Property,,,any,LIVE,False,False,,
+239,Event Property,,,any,LIVE,False,False,,
+24,Event Property,,,any,LIVE,False,False,,
+240,Event Property,,,any,LIVE,False,False,,
+241,Event Property,,,any,LIVE,False,False,,
+242,Event Property,,,any,LIVE,False,False,,
+243,Event Property,,,any,LIVE,False,False,,
+244,Event Property,,,any,LIVE,False,False,,
+245,Event Property,,,any,LIVE,False,False,,
+246,Event Property,,,any,LIVE,False,False,,
+247,Event Property,,,any,LIVE,False,False,,
+248,Event Property,,,any,LIVE,False,False,,
+249,Event Property,,,any,LIVE,False,False,,
+25,Event Property,,,any,LIVE,False,False,,
+250,Event Property,,,any,LIVE,False,False,,
+251,Event Property,,,any,LIVE,False,False,,
+252,Event Property,,,any,LIVE,False,False,,
+253,Event Property,,,any,LIVE,False,False,,
+254,Event Property,,,any,LIVE,False,False,,
+255,Event Property,,,any,LIVE,False,False,,
+256,Event Property,,,any,LIVE,False,False,,
+257,Event Property,,,any,LIVE,False,False,,
+258,Event Property,,,any,LIVE,False,False,,
+259,Event Property,,,any,LIVE,False,False,,
+26,Event Property,,,any,LIVE,False,False,,
+260,Event Property,,,any,LIVE,False,False,,
+261,Event Property,,,any,LIVE,False,False,,
+262,Event Property,,,any,LIVE,False,False,,
+263,Event Property,,,any,LIVE,False,False,,
+264,Event Property,,,any,LIVE,False,False,,
+265,Event Property,,,any,LIVE,False,False,,
+266,Event Property,,,any,LIVE,False,False,,
+267,Event Property,,,any,LIVE,False,False,,
+268,Event Property,,,any,LIVE,False,False,,
+269,Event Property,,,any,LIVE,False,False,,
+27,Event Property,,,any,LIVE,False,False,,
+270,Event Property,,,any,LIVE,False,False,,
+271,Event Property,,,any,LIVE,False,False,,
+272,Event Property,,,any,LIVE,False,False,,
+273,Event Property,,,any,LIVE,False,False,,
+274,Event Property,,,any,LIVE,False,False,,
+275,Event Property,,,any,LIVE,False,False,,
+276,Event Property,,,any,LIVE,False,False,,
+277,Event Property,,,any,LIVE,False,False,,
+278,Event Property,,,any,LIVE,False,False,,
+279,Event Property,,,any,LIVE,False,False,,
+28,Event Property,,,any,LIVE,False,False,,
+280,Event Property,,,any,LIVE,False,False,,
+281,Event Property,,,any,LIVE,False,False,,
+282,Event Property,,,any,LIVE,False,False,,
+283,Event Property,,,any,LIVE,False,False,,
+284,Event Property,,,any,LIVE,False,False,,
+285,Event Property,,,any,LIVE,False,False,,
+286,Event Property,,,any,LIVE,False,False,,
+287,Event Property,,,any,LIVE,False,False,,
+288,Event Property,,,any,LIVE,False,False,,
+289,Event Property,,,any,LIVE,False,False,,
+29,Event Property,,,any,LIVE,False,False,,
+290,Event Property,,,any,LIVE,False,False,,
+291,Event Property,,,any,LIVE,False,False,,
+292,Event Property,,,any,LIVE,False,False,,
+293,Event Property,,,any,LIVE,False,False,,
+294,Event Property,,,any,LIVE,False,False,,
+295,Event Property,,,any,LIVE,False,False,,
+296,Event Property,,,any,LIVE,False,False,,
+297,Event Property,,,any,LIVE,False,False,,
+298,Event Property,,,any,LIVE,False,False,,
+299,Event Property,,,any,LIVE,False,False,,
+3,Event Property,,,any,LIVE,False,False,,
+30,Event Property,,,any,LIVE,False,False,,
+300,Event Property,,,any,LIVE,False,False,,
+301,Event Property,,,any,LIVE,False,False,,
+302,Event Property,,,any,LIVE,False,False,,
+303,Event Property,,,any,LIVE,False,False,,
+304,Event Property,,,any,LIVE,False,False,,
+305,Event Property,,,any,LIVE,False,False,,
+306,Event Property,,,any,LIVE,False,False,,
+307,Event Property,,,any,LIVE,False,False,,
+308,Event Property,,,any,LIVE,False,False,,
+309,Event Property,,,any,LIVE,False,False,,
+31,Event Property,,,any,LIVE,False,False,,
+310,Event Property,,,any,LIVE,False,False,,
+311,Event Property,,,any,LIVE,False,False,,
+312,Event Property,,,any,LIVE,False,False,,
+313,Event Property,,,any,LIVE,False,False,,
+314,Event Property,,,any,LIVE,False,False,,
+315,Event Property,,,any,LIVE,False,False,,
+316,Event Property,,,any,LIVE,False,False,,
+317,Event Property,,,any,LIVE,False,False,,
+318,Event Property,,,any,LIVE,False,False,,
+319,Event Property,,,any,LIVE,False,False,,
+32,Event Property,,,any,LIVE,False,False,,
+320,Event Property,,,any,LIVE,False,False,,
+321,Event Property,,,any,LIVE,False,False,,
+322,Event Property,,,any,LIVE,False,False,,
+323,Event Property,,,any,LIVE,False,False,,
+324,Event Property,,,any,LIVE,False,False,,
+325,Event Property,,,any,LIVE,False,False,,
+326,Event Property,,,any,LIVE,False,False,,
+327,Event Property,,,any,LIVE,False,False,,
+328,Event Property,,,any,LIVE,False,False,,
+329,Event Property,,,any,LIVE,False,False,,
+33,Event Property,,,any,LIVE,False,False,,
+330,Event Property,,,any,LIVE,False,False,,
+331,Event Property,,,any,LIVE,False,False,,
+332,Event Property,,,any,LIVE,False,False,,
+333,Event Property,,,any,LIVE,False,False,,
+334,Event Property,,,any,LIVE,False,False,,
+335,Event Property,,,any,LIVE,False,False,,
+336,Event Property,,,any,LIVE,False,False,,
+337,Event Property,,,any,LIVE,False,False,,
+338,Event Property,,,any,LIVE,False,False,,
+339,Event Property,,,any,LIVE,False,False,,
+34,Event Property,,,any,LIVE,False,False,,
+340,Event Property,,,any,LIVE,False,False,,
+341,Event Property,,,any,LIVE,False,False,,
+342,Event Property,,,any,LIVE,False,False,,
+343,Event Property,,,any,LIVE,False,False,,
+344,Event Property,,,any,LIVE,False,False,,
+345,Event Property,,,any,LIVE,False,False,,
+346,Event Property,,,any,LIVE,False,False,,
+347,Event Property,,,any,LIVE,False,False,,
+348,Event Property,,,any,LIVE,False,False,,
+349,Event Property,,,any,LIVE,False,False,,
+35,Event Property,,,any,LIVE,False,False,,
+350,Event Property,,,any,LIVE,False,False,,
+351,Event Property,,,any,LIVE,False,False,,
+352,Event Property,,,any,LIVE,False,False,,
+353,Event Property,,,any,LIVE,False,False,,
+354,Event Property,,,any,LIVE,False,False,,
+355,Event Property,,,any,LIVE,False,False,,
+356,Event Property,,,any,LIVE,False,False,,
+357,Event Property,,,any,LIVE,False,False,,
+358,Event Property,,,any,LIVE,False,False,,
+36,Event Property,,,any,LIVE,False,False,,
+37,Event Property,,,any,LIVE,False,False,,
+38,Event Property,,,any,LIVE,False,False,,
+39,Event Property,,,any,LIVE,False,False,,
+4,Event Property,,,any,LIVE,False,False,,
+40,Event Property,,,any,LIVE,False,False,,
+41,Event Property,,,any,LIVE,False,False,,
+42,Event Property,,,any,LIVE,False,False,,
+43,Event Property,,,any,LIVE,False,False,,
+44,Event Property,,,any,LIVE,False,False,,
+45,Event Property,,,any,LIVE,False,False,,
+46,Event Property,,,any,LIVE,False,False,,
+47,Event Property,,,any,LIVE,False,False,,
+48,Event Property,,,any,LIVE,False,False,,
+49,Event Property,,,any,LIVE,False,False,,
+4L8bjhAU76euAwucw26ow,Event Property,,,any,LIVE,False,False,,
+4eaDxylXnaUskKy4MEWcgC,Event Property,,,any,LIVE,False,False,,
+5,Event Property,,,any,LIVE,False,False,,
+50,Event Property,,,any,LIVE,False,False,,
+51,Event Property,,,any,LIVE,False,False,,
+52,Event Property,,,any,LIVE,False,False,,
+53,Event Property,,,any,LIVE,False,False,,
+54,Event Property,,,any,LIVE,False,False,,
+55,Event Property,,,any,LIVE,False,False,,
+56,Event Property,,,any,LIVE,False,False,,
+57,Event Property,,,any,LIVE,False,False,,
+58,Event Property,,,any,LIVE,False,False,,
+59,Event Property,,,any,LIVE,False,False,,
+6,Event Property,,,any,LIVE,False,False,,
+60,Event Property,,,any,LIVE,False,False,,
+61,Event Property,,,any,LIVE,False,False,,
+62,Event Property,,,any,LIVE,False,False,,
+63,Event Property,,,any,LIVE,False,False,,
+64,Event Property,,,any,LIVE,False,False,,
+65,Event Property,,,any,LIVE,False,False,,
+66,Event Property,,,any,LIVE,False,False,,
+67,Event Property,,,any,LIVE,False,False,,
+68,Event Property,,,any,LIVE,False,False,,
+69,Event Property,,,any,LIVE,False,False,,
+6LsSKilqZqSQ484Cm0SEEc,Event Property,,,any,LIVE,False,False,,
+6nmN6OVe7hWOzkobphPqN7,Event Property,,,any,LIVE,False,False,,
+7,Event Property,,,any,LIVE,False,False,,
+70,Event Property,,,any,LIVE,False,False,,
+71,Event Property,,,any,LIVE,False,False,,
+72,Event Property,,,any,LIVE,False,False,,
+73,Event Property,,,any,LIVE,False,False,,
+74,Event Property,,,any,LIVE,False,False,,
+75,Event Property,,,any,LIVE,False,False,,
+76,Event Property,,,any,LIVE,False,False,,
+77,Event Property,,,any,LIVE,False,False,,
+78,Event Property,,,any,LIVE,False,False,,
+79,Event Property,,,any,LIVE,False,False,,
+7xWmbCHZnOYqIwAuGy2yga,Event Property,,,any,LIVE,False,False,,
+8,Event Property,,,any,LIVE,False,False,,
+80,Event Property,,,any,LIVE,False,False,,
+81,Event Property,,,any,LIVE,False,False,,
+82,Event Property,,,any,LIVE,False,False,,
+83,Event Property,,,any,LIVE,False,False,,
+84,Event Property,,,any,LIVE,False,False,,
+85,Event Property,,,any,LIVE,False,False,,
+86,Event Property,,,any,LIVE,False,False,,
+87,Event Property,,,any,LIVE,False,False,,
+88,Event Property,,,any,LIVE,False,False,,
+89,Event Property,,,any,LIVE,False,False,,
+9,Event Property,,,any,LIVE,False,False,,
+90,Event Property,,,any,LIVE,False,False,,
+91,Event Property,,,any,LIVE,False,False,,
+92,Event Property,,,any,LIVE,False,False,,
+93,Event Property,,,any,LIVE,False,False,,
+94,Event Property,,,any,LIVE,False,False,,
+95,Event Property,,,any,LIVE,False,False,,
+96,Event Property,,,any,LIVE,False,False,,
+97,Event Property,,,any,LIVE,False,False,,
+98,Event Property,,,any,LIVE,False,False,,
+99,Event Property,,,any,LIVE,False,False,,
+AE First Meeting Occured?,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+AE Handoff Call: Gong Link,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+ARR,Event Property,,,,UNEXPECTED,False,False,2025-02-18,2025-03-13
+AWS Account Owner Email,Event Property,,,,UNEXPECTED,False,False,2024-04-04,2025-03-13
+AWS Account Owner Name,Event Property,,,,UNEXPECTED,False,False,2024-04-04,2025-03-13
+AWS Monthly Revenue,Event Property,,,,UNEXPECTED,False,False,2024-03-08,2025-03-13
+A_Role__c (SFDC Lead),Event Property,,,any,LIVE,False,False,,
+Account Entry Point,Event Property,,,any,LIVE,False,False,2022-06-01,2023-07-05
+Account Name,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Account Owner,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Account Plan Link,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Acquisition Use Cases,Event Property,,,,UNEXPECTED,False,False,2023-10-22,2025-03-13
+Active Users 4wk,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Activity Metric,Event Property,,,,UNEXPECTED,False,False,2023-08-03,2025-03-13
+Address,Event Property,,,any,LIVE,False,False,2020-09-18,2024-11-26
+Admin Update Counter,Event Property,,,any,LIVE,False,False,2022-06-01,2025-01-11
+Admin_CMArchive,Event Property,,,any,LIVE,False,False,2022-06-01,2025-01-10
+Admin_Originating_Contact,Event Property,,,any,LIVE,False,False,2022-06-01,2025-01-10
+Amended Contract,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Amplitude Org Id,Event Property,,,any,LIVE,False,False,2018-12-26,2023-09-22
+Amplitude Plan Sold,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Amplitude Plan Type,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Amplitude Preferred Vendor,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Amplitude Preferred Vendor for EB,Event Property,,,,UNEXPECTED,False,False,2025-02-12,2025-03-13
+Analytics ARR (Change),Event Property,,,any,LIVE,False,False,,
+Application Created Date,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+Assigned SC (Lookup),Event Property,,,any,LIVE,False,False,2022-06-01,2024-03-08
+Assigned SE (Lookup),Event Property,,,,UNEXPECTED,False,False,2024-03-08,2025-03-13
+Assigned Support SC,Event Property,,,,UNEXPECTED,False,False,2024-02-21,2024-03-07
+Assigned Support SE,Event Property,,,,UNEXPECTED,False,False,2024-03-11,2025-03-12
+At-Risk Trend,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Attributed Finished Sequences,Event Property,,,,UNEXPECTED,False,False,2024-03-11,2025-03-13
+Audiences Syncs & Models ARR (Ending),Event Property,,,,UNEXPECTED,False,False,2022-10-24,2025-02-21
+Audiences Syncs & Models ARR (Forecast),Event Property,,,,UNEXPECTED,False,False,2022-10-24,2025-02-21
+Audiences Syncs ARR (Ending),Event Property,,,,UNEXPECTED,False,False,2022-10-24,2025-02-21
+Audiences Syncs ARR (Forecast),Event Property,,,,UNEXPECTED,False,False,2022-10-24,2025-02-21
+Auto Renewal,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Auto Renewal Effort,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Auto Renewal Eligibility,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Auto Renewal Notification Selected,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Auto Renewal Outcome,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Auto Renewal Override,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Available to Renew (ATR),Event Property,,,,UNEXPECTED,False,False,2025-02-18,2025-03-13
+BL 4wk,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Bambu_blaid__c,Event Property,,,any,LIVE,False,False,2020-09-09,2025-05-06
+Beginning ACV,Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+Beginning ARR,Event Property,,,any,LIVE,False,False,2022-06-01,2025-02-18
+Beginning Average ARR,Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+Beginning MRR,Event Property,,,,UNEXPECTED,False,False,2023-01-11,2025-03-13
+Bill To Tier,Event Property,,,any,LIVE,False,False,2022-06-01,2023-12-15
+Bill To Tier (IO),Event Property,,,,UNEXPECTED,False,False,2023-09-06,2024-08-16
+Billing Frequency,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Budget Confirmed,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Business Pain & Impact of Solution,Event Property,,,any,LIVE,False,False,2022-06-01,2023-07-05
+Business Pain (Why buy anything?),Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Button,Event Property,,,any,LIVE,False,False,2020-07-22,2022-02-27
+CP: Staging,Event Property,,,any,LIVE,False,False,,
+CPM,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+CS Account Assignment Feedback,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+CSM,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+CSM Renewal Outlook,Event Property,,,any,LIVE,False,False,2022-06-08,2025-03-13
+CSM Renewal Outlook(Account),Event Property,,,,UNEXPECTED,False,False,2024-09-26,2025-03-13
+Campaign Attribution,Event Property,,,any,LIVE,False,False,2022-06-01,2025-01-11
+Campaign Offer,Event Property,,,any,LIVE,False,False,2020-03-05,2023-09-22
+Campaign Sourced By,Event Property,,,any,LIVE,False,False,2022-06-01,2025-01-11
+Campaign Type,Event Property,,,any,LIVE,False,False,2020-03-05,2023-09-22
+Category,Event Property,,,any,LIVE,False,False,2020-07-21,2024-02-13
+Celigo Update,Event Property,,,any,LIVE,False,False,2022-06-01,2023-12-15
+Champion (Contact),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Champion Approved,Event Property,,,,UNEXPECTED,False,False,2023-10-02,2025-03-13
+Change in ARR,Event Property,,,any,LIVE,False,False,2022-06-01,2025-02-18
+Change in Average ARR,Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+Change in MRR,Event Property,,,,UNEXPECTED,False,False,2023-01-21,2025-03-13
+Chart Compute Totals 4wk,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Chart Compute Users 4wk,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+CheckBox,Event Property,,,any,LIVE,False,False,,
+Churn ARR,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Churn Average ARR,Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+Churn MRR,Event Property,,,,UNEXPECTED,False,False,2023-01-21,2025-03-13
+Churn Reason,Event Property,,,any,LIVE,False,False,2022-06-01,2024-10-01
+Churn Recognition Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Churn Result,Event Property,,,any,LIVE,False,False,2022-06-01,2024-10-01
+Churn Type,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+City,Event Property,,,any,LIVE,False,False,2020-09-23,2024-11-26
+Close Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Closed,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Closed Lost / Churn Notes,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Closed Lost Reason(s),Event Property,,,,UNEXPECTED,False,False,2022-10-13,2024-04-19
+Closed | Annual Revenue,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Closed | Customer Segment,Event Property,,,any,LIVE,False,False,2022-06-01,2025-02-25
+Closed | Employee Count,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Closed | MASTER Annual Revenue,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Closed | MASTER Employee Count,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Closed | MASTER Region,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Closed | Region,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Company,Event Property,,,any,LIVE,False,False,2018-10-24,2025-06-07
+Compelling Event(s) (Why buy now?),Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Competition,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+ConfirmEmail,Event Property,,,any,LIVE,False,False,2019-07-20,2020-10-14
+Contact Converted From Lead,Event Property,,,any,LIVE,False,False,2018-12-19,2023-09-22
+Contact_Sales_Notes__c,Event Property,,,any,LIVE,False,False,2018-10-24,2023-08-10
+Contract End Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Contract Event Volume (MM),Event Property,,,any,LIVE,False,False,2022-06-01,2023-01-10
+Contract Length (months),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Contract Opportunity (IO),Event Property,,,,UNEXPECTED,False,False,2023-09-06,2024-08-16
+Contract Renewal Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Contract Signature Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Contract Start Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Contract URL (Dropbox),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Contracted,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Converted from Lead?,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Copy,Event Property,,,any,LIVE,False,False,2020-06-17,2020-09-04
+Country,Event Property,,,any,LIVE,False,False,2018-10-24,2025-06-07
+Country site,Event Property,,,string,LIVE,False,False,2020-11-10,2023-07-10
+Create Contracted Prices,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Create | Current Plan,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Create | DataFox Account Score,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Create | Heat Map Grade,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Create | MASTER Parent Account Employees,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Create | MK Likelihood to Buy Score,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Create | Projected Usage%|CurrentPeriod,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Created By,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Created Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Credit Terms,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+Current_Amplitude_Customers__c,Event Property,,,any,LIVE,False,False,2020-09-18,2020-10-19
+Current_Companies_Engaged__c,Event Property,,,any,LIVE,False,False,2020-09-18,2020-10-19
+Customer,Event Property,,,any,LIVE,False,False,2020-07-22,2021-04-28
+Customer Data Platform (CDP),Event Property,,,any,LIVE,False,False,2022-06-01,2025-01-31
+Customer Health,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Customer Notification Date,Event Property,,,any,LIVE,False,False,2022-06-02,2025-03-12
+Customer Persona,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Customer Renewal Readiness Call Date,Event Property,,,,UNEXPECTED,False,False,2023-10-25,2025-03-13
+Customer Segment,Event Property,,,any,LIVE,False,False,2022-06-01,2024-07-29
+D&B Address,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Application ID,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Auto Trigger Status,Event Property,,,any,LIVE,False,False,2023-02-03,2025-03-13
+D&B Avg High Credit,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B City,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Company Name,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Country/Region,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B DUNS Number,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Delinquency Class,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Delinquency Score,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Delinquency Score (Raw),Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Employees,Event Property,,,,UNEXPECTED,False,False,2023-02-06,2025-03-13
+D&B Failure Class,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Failure Score,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Failure Score (Raw),Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B High Credit,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B PAYDEX,Event Property,,,,UNEXPECTED,False,False,2023-02-04,2025-03-13
+D&B Primary NAICS,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Primary SIC,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Rating,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B State/Province,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Viability - Company Profile,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Viability - Data Depth Indicator,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Viability - Portfolio Comparison,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Viability - Viability Score,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Viability Rating,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Years in Business,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+D&B Zip/Postal Code,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+DSCORGPKG__Job_Function__c,Event Property,,,any,LIVE,False,False,2023-02-08,2025-06-06
+Data Access Purchased,Event Property,,,any,LIVE,False,False,2022-06-26,2024-04-19
+Date Assigned to Partner,Event Property,,,any,LIVE,False,False,2022-06-02,2025-03-04
+Days To Close,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Days in Stage,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Deal Lost To,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Deal Velocity,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Decision Criteria,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Decision Timeline,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Deleted,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Delinquency Override,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Demo Data Set Used,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-12
+Digital Product Description,Event Property,,,any,LIVE,False,False,2022-06-01,2025-02-26
+Direct Competition,Event Property,,,any,LIVE,False,False,2022-06-02,2025-03-12
+DnB Trigger,Event Property,,,,UNEXPECTED,False,False,2024-02-05,2025-03-13
+EBR Date,Event Property,,,,UNEXPECTED,False,False,2023-07-10,2025-03-13
+EBR Notes,Event Property,,,,UNEXPECTED,False,False,2023-07-10,2025-03-13
+EBR Participants,Event Property,,,,UNEXPECTED,False,False,2023-07-10,2025-03-13
+Early Payment Discount,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+Early Termination,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Economic Buyer (Contact),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Economic Buyer Approved,Event Property,,,,UNEXPECTED,False,False,2023-10-02,2025-03-13
+Email,Event Property,,,any,LIVE,False,False,2018-10-24,2025-06-07
+Ending ACV,Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+Ending ARR,Event Property,,,any,LIVE,False,False,2022-06-01,2025-02-18
+Ending Average ARR,Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+Ending MRR,Event Property,,,,UNEXPECTED,False,False,2023-01-11,2025-03-13
+Engage ARR,Event Property,,,any,LIVE,False,False,2022-06-01,2025-02-21
+Engage ARR (Forecast),Event Property,,,any,LIVE,False,False,2022-06-01,2025-02-21
+Engagement Level (People.ai),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Evaluation Data Integration Strategy,Event Property,,,any,LIVE,False,False,2022-06-03,2025-03-12
+Evaluation End Date,Event Property,,,any,LIVE,False,False,2022-06-08,2025-03-12
+Evaluation Plan Link,Event Property,,,any,LIVE,False,False,2022-06-03,2025-03-13
+Evaluation Start Date,Event Property,,,any,LIVE,False,False,2022-06-03,2025-03-12
+Evaluation Type,Event Property,,,any,LIVE,False,False,2022-06-02,2025-03-13
+Event Description,Event Property,,,any,LIVE,False,False,2019-06-22,2023-09-22
+Event End Time,Event Property,,,any,LIVE,False,False,2019-06-22,2023-09-22
+Event Id,Event Property,,,any,LIVE,False,False,2019-06-22,2023-09-22
+Event Location,Event Property,,,any,LIVE,False,False,2019-06-22,2023-07-26
+Event Start Time,Event Property,,,any,LIVE,False,False,2019-06-22,2023-09-22
+Event Subject,Event Property,,,any,LIVE,False,False,2019-06-22,2023-09-22
+Event Volume (MM),Event Property,,,any,LIVE,False,False,2022-06-01,2023-01-20
+Event Volume Term,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Event What Name,Event Property,,,any,LIVE,False,False,2019-06-22,2023-09-22
+Event What Type,Event Property,,,any,LIVE,False,False,2019-06-22,2023-09-22
+Event Who Email,Event Property,,,any,LIVE,False,False,2019-06-22,2023-09-22
+Event Who Name,Event Property,,,any,LIVE,False,False,2019-06-22,2023-09-22
+Events Per MTU Limit,Event Property,,,,UNEXPECTED,False,False,2023-01-31,2024-09-28
+Events Streamed (MM),Event Property,,,,UNEXPECTED,False,False,2022-08-22,2025-03-13
+Exec Feedback,Event Property,,,any,LIVE,False,False,2022-06-14,2022-12-28
+Exempt from Forecasting,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Existing Event Analytics Vendor(s),Event Property,,,any,LIVE,False,False,2022-06-01,2024-04-19
+Exit ACV,Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+Expected ARR,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Expected Revenue,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Experiment ARR (Change),Event Property,,,any,LIVE,False,False,,
+Experiment ARR (Ending),Event Property,,,any,LIVE,False,False,2022-06-01,2025-02-21
+Experiment ARR (Forecast),Event Property,,,any,LIVE,False,False,2022-06-01,2025-02-21
+FLM Validation of MEDDPICC Criteria,Event Property,,,,UNEXPECTED,False,False,2024-11-08,2025-03-13
+FLM: Validation of 3 Whys,Event Property,,,,UNEXPECTED,False,False,2024-11-08,2025-03-13
+FLM: Validation of Customer Pain Point,Event Property,,,,UNEXPECTED,False,False,2023-07-11,2024-11-07
+First Campaign Touch,Event Property,,,any,LIVE,False,False,2022-06-01,2025-01-10
+First Touch (People.ai),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+FirstName,Event Property,,,any,LIVE,False,False,2018-10-24,2025-06-07
+Fiscal Period,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Footer Link,Event Property,,,any,LIVE,False,False,2020-08-28,2021-06-14
+Forecast Category,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+FullName,Event Property,,,any,LIVE,False,False,2019-03-28,2019-05-03
+GCLID__c,Event Property,,,any,LIVE,False,False,2020-08-26,2025-06-07
+Gainsight CSM Sentiment Color,Event Property,,,,UNEXPECTED,False,False,2024-09-26,2025-03-13
+Gainsight Overall Score Color,Event Property,,,,UNEXPECTED,False,False,2024-09-26,2025-03-13
+Gainsight_Product_Usage_Color,Event Property,,,,UNEXPECTED,False,False,2024-09-26,2025-03-13
+Geographic_Focus__c,Event Property,,,any,LIVE,False,False,2020-09-18,2020-10-19
+Global 2000 ?,Event Property,,,,UNEXPECTED,False,False,2024-10-25,2025-03-13
+Gong Count,Event Property,,,any,LIVE,False,False,2022-06-01,2024-08-08
+Google Click ID,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Has Line Item,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Has Open Activity,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Has Opportunity Product,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Has Overdue Task,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Has Updates for AWS.,Event Property,,,,UNEXPECTED,False,False,2024-03-08,2025-03-13
+Health Risk,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Heat Map Grade,Event Property,,,any,LIVE,False,False,2022-06-01,2022-06-29
+Held first renewal conversation?,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Holdover Notes,Event Property,,,any,LIVE,False,False,2022-06-02,2025-03-13
+Holdover Opportunity,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+I Confirm CSM Handoff Fields Are Correct,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Implementation Resources Confirmed?,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Implementation Service Waived,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Implementation Services,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Incumbent Solutions,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-11
+Incumbent Vendor(s),Event Property,,,,UNEXPECTED,False,False,2024-04-20,2025-03-13
+Initial Sales Meeting Set via:,Event Property,,,,UNEXPECTED,False,False,2024-06-24,2025-03-13
+Integration_Status__c,Event Property,,,any,LIVE,False,False,2020-10-06,2020-10-19
+Integration_Type__c,Event Property,,,any,LIVE,False,False,2020-10-06,2020-10-15
+Integration_Validation__c,Event Property,,,any,LIVE,False,False,2020-10-06,2020-10-19
+Internal Renewal Review Date,Event Property,,,,UNEXPECTED,False,False,2023-10-25,2025-03-13
+Ironclad Workflow Link,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Is Deal Registration,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Is Split,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Is_Influenced,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Job_Level__c,Event Property,,,any,LIVE,False,False,2020-08-24,2025-06-06
+Journey Stage,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+KPI Segment,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Key Value Drivers,Event Property,,,,UNEXPECTED,False,False,2023-10-22,2025-03-13
+Key_Joint_Customers__c,Event Property,,,any,LIVE,False,False,2020-09-18,2020-10-15
+Last Activity,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Last Campaign,Event Property,,,any,LIVE,False,False,2018-12-24,2025-03-13
+Last Campaign Touch,Event Property,,,any,LIVE,False,False,2022-06-01,2025-01-10
+Last EBR,Event Property,,,,UNEXPECTED,False,False,2023-02-20,2024-03-29
+Last Email Received Date (People.ai),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Last Email Received From (People.ai),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Last Email Sent Date (People.ai),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Last Email Sent From (People.ai),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Last Lead Source,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Last Meeting Date (People.ai),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Last Modified By,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Last Modified Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Last Referenced Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Last Stage Change Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Last Touch (People.ai),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Last Touch Sequence,Event Property,,,,UNEXPECTED,False,False,2024-03-11,2025-03-13
+Last Viewed Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Last human activity,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+LastName,Event Property,,,any,LIVE,False,False,2018-10-24,2025-06-07
+Lead Account Name,Event Property,,,any,LIVE,False,False,2018-12-19,2018-12-19
+Lead Company,Event Property,,,any,LIVE,False,False,2018-12-19,2023-09-22
+Lead Companyc,Event Property,,,any,LIVE,False,False,2018-12-24,2019-01-24
+Lead Customer Fit Score,Event Property,,,any,LIVE,False,False,2018-12-19,2018-12-19
+Lead Customer Fit Segment,Event Property,,,any,LIVE,False,False,2018-12-19,2018-12-19
+Lead Email,Event Property,,,any,LIVE,False,False,2018-12-19,2023-09-22
+Lead Id,Event Property,,,any,LIVE,False,False,2019-03-27,2023-09-22
+Lead MadKudu Fit Score,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Lead MadKudu Fit Segment,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Lead Market Segment,Event Property,,,any,LIVE,False,False,2018-12-19,2023-09-22
+Lead Name,Event Property,,,any,LIVE,False,False,2018-12-19,2019-05-10
+Lead Owner Email,Event Property,,,any,LIVE,False,False,2018-12-19,2023-09-22
+Lead Owner Name,Event Property,,,any,LIVE,False,False,2018-12-19,2023-09-22
+Lead Region,Event Property,,,any,LIVE,False,False,2018-12-19,2023-09-22
+Lead Source,Event Property,,,any,LIVE,False,False,2018-12-19,2025-03-13
+Lead Source Details,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Lead Status,Event Property,,,any,LIVE,False,False,2018-12-19,2023-09-22
+LeadSource,Event Property,,,,UNEXPECTED,False,False,2024-08-23,2025-06-07
+LeadStatus,Event Property,,,any,LIVE,False,False,2020-09-18,2020-10-19
+Link to InfoSec Docs,Event Property,,,,UNEXPECTED,False,False,2024-01-08,2025-03-12
+Link to Product Commit Doc,Event Property,,,,UNEXPECTED,False,False,2024-08-31,2025-01-31
+Location,Event Property,,,,UNEXPECTED,False,False,2021-03-04,2022-04-17
+MASTER Parent Account Name,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+MASTER Parent Account Region,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+MASTER Parent Market Segment,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+MEDDIC Score %,Event Property,,,,UNEXPECTED,False,False,2023-06-23,2025-02-11
+MEDDICC Validation Decision Criteria,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+MEDDICC Validation Decision Process,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+MEDDICC Validation Identify Pain,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+MEDDICC Validation Metrics,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+MEDDPICC Score,Event Property,,,,UNEXPECTED,False,False,2025-02-12,2025-03-13
+ML Project Created,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+MTU,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+MadKudu Lead Grade Score,Event Property,,,any,LIVE,False,False,2019-01-29,2023-09-22
+MadKudu Lead Grade Segment,Event Property,,,any,LIVE,False,False,2019-01-29,2023-09-22
+MadKudu Likelihood to Buy Score,Event Property,,,any,LIVE,False,False,2019-01-29,2023-09-22
+MadKudu Likelihood to Buy Segment,Event Property,,,any,LIVE,False,False,2019-01-29,2023-09-22
+Manager Forecast,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Market Segment,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Marketing Rights,Event Property,,,any,LIVE,False,False,2022-06-26,2022-08-30
+Marketo Opportunity Analysis,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Member Campaign Name,Event Property,,,any,LIVE,False,False,2019-07-15,2023-09-22
+Member Contact Name,Event Property,,,any,LIVE,False,False,2019-07-15,2023-09-18
+Member Created Date,Event Property,,,any,LIVE,False,False,2019-07-18,2023-09-22
+Member Description,Event Property,,,any,LIVE,False,False,2019-07-15,2023-09-22
+Member First Responded Date,Event Property,,,any,LIVE,False,False,2019-07-18,2023-09-22
+Member Lead Name,Event Property,,,any,LIVE,False,False,2019-07-15,2023-09-22
+Member Lead Source,Event Property,,,any,LIVE,False,False,2019-07-15,2023-09-22
+Member Status,Event Property,,,any,LIVE,False,False,2019-07-15,2023-09-22
+Member Title,Event Property,,,any,LIVE,False,False,2019-07-15,2023-09-22
+Module,Event Property,,,any,LIVE,False,False,2020-07-22,2024-02-13
+Module name,Event Property,,,any,LIVE,False,False,2020-10-06,2022-02-11
+Monetization Use Cases,Event Property,,,,UNEXPECTED,False,False,2023-10-23,2025-03-13
+Name,Event Property,,,any,LIVE,False,False,2020-10-14,2021-03-17
+Net New ARR,Event Property,,,,UNEXPECTED,False,False,2025-02-18,2025-03-13
+NetSuite Originated Order (IO),Event Property,,,,UNEXPECTED,False,False,2023-09-06,2024-08-16
+New ARR,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+New ARR Range,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+New Average ARR,Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+New MRR,Event Property,,,,UNEXPECTED,False,False,2023-01-21,2025-03-13
+Next Meeting Date (People.ai),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Next Step Following First Call,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Next Steps,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Next Steps Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Next Steps Last Updated Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Non-Recurring,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Non-Standard Deal Indicator,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Non-Standard MSA Signature Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Notes on Marketing Rights and Reference,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Notes__c,Event Property,,,any,LIVE,False,False,2020-09-18,2020-10-15
+Notify Partner,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Opportunity Account Name,Event Property,,,any,LIVE,False,False,2018-11-21,2023-09-22
+Opportunity Amount,Event Property,,,,UNEXPECTED,False,False,2018-11-29,2023-09-22
+Opportunity Close Date,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Opportunity Closed Lost Reason(s),Event Property,,,any,LIVE,False,False,2018-12-24,2023-02-28
+Opportunity Counter,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Opportunity Created Time,Event Property,,,any,LIVE,False,False,2018-11-21,2023-09-22
+Opportunity Currency,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Opportunity Description,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Opportunity First Campaign Touch,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Opportunity Forecast Category Name,Event Property,,,any,LIVE,False,False,2018-11-21,2023-09-22
+Opportunity ID,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Opportunity Id,Event Property,,,any,LIVE,False,False,2019-03-27,2019-05-10
+Opportunity Id (18),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Opportunity Last Campaign Touch,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Opportunity Latest Stage,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Opportunity Lead Source,Event Property,,,any,LIVE,False,False,2018-11-21,2023-09-22
+Opportunity Market Segment,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Opportunity Master Parent Account Name,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Opportunity Master Parent Market Segment,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Opportunity Name,Event Property,,,any,LIVE,False,False,2018-11-21,2025-03-13
+Opportunity Name Detail,Event Property,,,any,LIVE,False,False,2022-06-01,2025-01-31
+Opportunity New ARR,Event Property,,,any,LIVE,False,False,2018-11-21,2019-05-10
+Opportunity Owner,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Opportunity Owner Email,Event Property,,,any,LIVE,False,False,2018-11-21,2023-09-22
+Opportunity Owner Name,Event Property,,,any,LIVE,False,False,2018-11-21,2023-09-22
+Opportunity Owner Role,Event Property,,,,UNEXPECTED,False,False,2024-07-18,2025-03-13
+Opportunity Previous Stage Name,Event Property,,,any,LIVE,False,False,2019-01-29,2019-05-10
+Opportunity Primary Campaign Source,Event Property,,,any,LIVE,False,False,2019-01-29,2023-09-22
+Opportunity Probability,Event Property,,,any,LIVE,False,False,2018-11-21,2023-09-22
+Opportunity Probabilityf,Event Property,,,any,LIVE,False,False,2018-12-24,2019-01-29
+Opportunity Record Type,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Opportunity Region,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Opportunity Renewal ARR,Event Property,,,any,LIVE,False,False,2018-11-21,2023-09-22
+Opportunity Sales ARR,Event Property,,,any,LIVE,False,False,2018-11-21,2019-05-10
+Opportunity Source,Event Property,,,any,LIVE,False,False,2022-06-01,2024-12-10
+Opportunity Stage Name,Event Property,,,any,LIVE,False,False,2018-11-21,2023-09-22
+Opportunity Type,Event Property,,,any,LIVE,False,False,2018-11-21,2023-09-22
+Option,Event Property,,,any,LIVE,False,False,2020-07-22,2024-02-13
+Ordered,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Org ID,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Originated From NetSuite,Event Property,,,any,LIVE,False,False,2022-06-01,2023-12-15
+Originating Contact Email,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Originating Contact Name,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Other Compelling Event,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Other Use Cases,Event Property,,,,UNEXPECTED,False,False,2023-10-22,2025-03-13
+Other_Analytics_Solutions__c,Event Property,,,any,LIVE,False,False,2020-09-18,2020-10-15
+Owner Business Line,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Owner CS Service Team,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Owner Close Date Ramp Month,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Owner Region 0,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Owner Role Type,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Owner Segment,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Owner Sub-Business,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Owner Team,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Owner Territory,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+POC Approval Date,Event Property,,,any,LIVE,False,False,2022-09-09,2023-03-30
+PS Services Notes,Event Property,,,,UNEXPECTED,False,False,2025-02-11,2025-03-13
+PS | Mavenlink Project Disqualification,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+PS | Project Name Field,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Page Name,Event Property,,,any,LIVE,False,False,2020-10-14,2022-03-16
+Page name,Event Property,,,any,LIVE,False,False,2020-10-16,2022-01-26
+Paper Process,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Partner Account,Event Property,,,any,LIVE,False,False,2022-06-02,2025-03-13
+Partner Contact,Event Property,,,any,LIVE,False,False,2022-06-02,2025-03-13
+Partner Details,Event Property,,,any,LIVE,False,False,2022-06-07,2025-03-13
+Partner Last Modified Date,Event Property,,,,UNEXPECTED,False,False,2023-09-22,2024-07-08
+Partner Opportunity Acceptance,Event Property,,,any,LIVE,False,False,2022-06-02,2025-03-04
+Partner Relationship,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Partner Role,Event Property,,,,UNEXPECTED,False,False,2025-02-07,2025-03-13
+Partner Sales Manager,Event Property,,,,UNEXPECTED,False,False,2023-10-25,2025-03-13
+Partner SubCo Eligible,Event Property,,,,UNEXPECTED,False,False,2023-06-14,2025-03-13
+Partner-Led Services,Event Property,,,,UNEXPECTED,False,False,2023-09-08,2025-03-13
+Partnership_Type__c,Event Property,,,any,LIVE,False,False,2020-10-06,2020-10-19
+Payment Terms,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+Phone,Event Property,,,any,LIVE,False,False,2018-10-24,2025-06-07
+Pipeline Source,Event Property,,,,UNEXPECTED,False,False,2025-01-10,2025-03-13
+Pipeline Source Sub-Type,Event Property,,,,UNEXPECTED,False,False,2025-02-03,2025-03-13
+Pipeline Source Type,Event Property,,,,UNEXPECTED,False,False,2025-02-03,2025-03-13
+Plan Link,Event Property,,,,UNEXPECTED,False,False,2024-12-19,2025-01-14
+Plan Next Steps,Event Property,,,,UNEXPECTED,False,False,2024-12-19,2025-01-14
+Plan Status,Event Property,,,,UNEXPECTED,False,False,2024-12-19,2025-01-14
+Plan to send data to Amplitude,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Platform,Event Property,,,any,LIVE,False,False,2020-10-14,2021-03-17
+Platform Value Metric,Event Property,,,,UNEXPECTED,False,False,2023-01-11,2025-03-13
+PostalCode,Event Property,,,,UNEXPECTED,False,False,2024-11-04,2024-11-26
+Previous Contact Converted From Lead,Event Property,,,any,LIVE,False,False,2019-05-21,2023-04-27
+Previous Event Description,Event Property,,,any,LIVE,False,False,2019-06-22,2023-09-22
+Previous Event End Time,Event Property,,,any,LIVE,False,False,2019-06-22,2023-09-22
+Previous Event Location,Event Property,,,any,LIVE,False,False,2019-06-24,2023-04-19
+Previous Event Start Time,Event Property,,,any,LIVE,False,False,2019-06-22,2023-09-22
+Previous Event Subject,Event Property,,,any,LIVE,False,False,2019-06-24,2023-09-22
+Previous Last Campaign,Event Property,,,any,LIVE,False,False,2019-05-03,2023-09-22
+Previous Last Lead Source,Event Property,,,any,LIVE,False,False,2019-05-03,2023-09-22
+Previous Lead Company,Event Property,,,any,LIVE,False,False,2019-05-03,2023-09-22
+Previous Lead Email,Event Property,,,any,LIVE,False,False,2019-05-05,2023-09-22
+Previous Lead MadKudu Fit Score,Event Property,,,any,LIVE,False,False,2019-05-03,2023-09-22
+Previous Lead MadKudu Fit Segment,Event Property,,,any,LIVE,False,False,2019-05-03,2023-09-22
+Previous Lead Market Segment,Event Property,,,any,LIVE,False,False,2019-05-03,2023-09-22
+Previous Lead Region,Event Property,,,any,LIVE,False,False,2019-05-03,2023-09-22
+Previous Lead Source,Event Property,,,any,LIVE,False,False,2019-05-03,2023-09-22
+Previous Lead Status,Event Property,,,any,LIVE,False,False,2019-05-03,2023-09-22
+Previous MadKudu Lead Grade Score,Event Property,,,any,LIVE,False,False,2019-05-04,2023-09-22
+Previous MadKudu Lead Grade Segment,Event Property,,,any,LIVE,False,False,2019-05-04,2023-09-22
+Previous MadKudu Likelihood to Buy Score,Event Property,,,any,LIVE,False,False,2019-05-04,2023-09-22
+Previous MadKudu Likelihood to Buy Segment,Event Property,,,any,LIVE,False,False,2019-05-04,2023-09-22
+Previous Member Description,Event Property,,,any,LIVE,False,False,2019-09-10,2020-07-27
+Previous Member First Responded Date,Event Property,,,any,LIVE,False,False,2019-07-22,2023-08-20
+Previous Member Lead Source,Event Property,,,any,LIVE,False,False,2019-12-19,2021-03-09
+Previous Member Status,Event Property,,,any,LIVE,False,False,2019-07-17,2023-09-18
+Previous Member Title,Event Property,,,any,LIVE,False,False,2019-07-16,2020-11-19
+Previous Opportunity Amount,Event Property,,,any,LIVE,False,False,2019-05-04,2023-09-22
+Previous Opportunity Close Date,Event Property,,,any,LIVE,False,False,2019-05-04,2023-09-22
+Previous Opportunity Closed Lost Reason(s),Event Property,,,any,LIVE,False,False,2019-05-06,2023-02-28
+Previous Opportunity Created Time,Event Property,,,any,LIVE,False,False,2019-05-04,2023-09-22
+Previous Opportunity Forecast Category Name,Event Property,,,any,LIVE,False,False,2019-05-04,2023-09-22
+Previous Opportunity Lead Source,Event Property,,,any,LIVE,False,False,2019-05-06,2023-05-17
+Previous Opportunity Market Segment,Event Property,,,any,LIVE,False,False,2019-05-19,2023-09-14
+Previous Opportunity Master Parent Account Name,Event Property,,,any,LIVE,False,False,2019-05-10,2023-09-15
+Previous Opportunity Master Parent Market Segment,Event Property,,,any,LIVE,False,False,2019-05-10,2023-09-14
+Previous Opportunity Name,Event Property,,,any,LIVE,False,False,2019-05-06,2023-09-22
+Previous Opportunity Probability,Event Property,,,any,LIVE,False,False,2019-05-04,2023-09-22
+Previous Opportunity Renewal ARR,Event Property,,,any,LIVE,False,False,2019-05-04,2023-09-22
+Previous Opportunity Stage Name,Event Property,,,any,LIVE,False,False,2019-05-04,2023-09-22
+Previous Opportunity Type,Event Property,,,any,LIVE,False,False,2019-05-07,2023-09-22
+Previous Task Description,Event Property,,,any,LIVE,False,False,2019-05-05,2023-09-22
+Previous Task Status,Event Property,,,any,LIVE,False,False,2019-05-03,2023-09-20
+Previous Task Subject,Event Property,,,any,LIVE,False,False,2019-05-04,2023-09-22
+Previous Task Type,Event Property,,,any,LIVE,False,False,2019-05-06,2023-09-21
+Price Book,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Primary Campaign Source,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Primary Campaign Source Type,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Primary Churn Reason,Event Property,,,,UNEXPECTED,False,False,2024-10-02,2025-03-12
+Primary Closed Lost Reason,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Primary Industry,Event Property,,,,UNEXPECTED,False,False,2024-06-27,2025-03-13
+Primary Quote,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Primary Use Case,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2024-07-29
+Probability (%),Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Product Extension Purchased,Event Property,,,any,LIVE,False,False,2022-06-26,2025-03-13
+Product Feedback,Event Property,,,any,LIVE,False,False,2022-06-02,2025-03-11
+Product Usage Health,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Product Usage Health|90 Days To Renewal,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Product(s) Involved in Deal,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Production Data Integration Method,Event Property,,,any,LIVE,False,False,2022-06-06,2025-03-10
+Progress,Event Property,,,any,LIVE,False,False,2020-10-14,2022-03-16
+Project Success Metrics,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Projected Vol Usage(%) | Current Period,Event Property,,,,UNEXPECTED,False,False,2024-09-26,2025-03-13
+Push As NetSuite Opportunity,Event Property,,,any,LIVE,False,False,2022-06-01,2023-12-15
+Push As NetSuite Project,Event Property,,,any,LIVE,False,False,2022-06-01,2023-12-15
+Push To NetSuite,Event Property,,,any,LIVE,False,False,2022-06-01,2023-12-15
+Qualified Stage,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Quarterly Transaction Timing,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Question,Event Property,,,any,LIVE,False,False,2020-07-22,2021-03-12
+Quip Doc URL,Event Property,,,,UNEXPECTED,False,False,2024-09-26,2025-03-05
+Quote End Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Quote Start Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Recommend Models ARR (Change),Event Property,,,any,LIVE,False,False,,
+Recommend Models ARR (Ending),Event Property,,,any,LIVE,False,False,2022-06-01,2022-10-24
+Recommend Models ARR (Forecast),Event Property,,,any,LIVE,False,False,2022-06-01,2022-10-24
+Recommend Syncs ARR (Change),Event Property,,,any,LIVE,False,False,,
+Recommend Syncs ARR (Ending),Event Property,,,any,LIVE,False,False,2022-06-01,2022-10-24
+Recommend Syncs ARR (Forecast),Event Property,,,any,LIVE,False,False,2022-06-01,2022-10-24
+Recommended Credit Limit,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+RecordTypeId,Event Property,,,any,LIVE,False,False,2020-09-18,2020-10-19
+Referenceable,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Renewal,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Renewal ARR,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Renewal Average ARR,Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+Renewal Base Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Renewal Forecast Date,Event Property,,,,UNEXPECTED,False,False,2024-05-30,2025-03-13
+Renewal MRR,Event Property,,,,UNEXPECTED,False,False,2023-01-21,2025-03-13
+Renewal Management / Velocity Handover,Event Property,,,,UNEXPECTED,False,False,2025-01-10,2025-03-13
+Renewal Operations Specialist,Event Property,,,,UNEXPECTED,False,False,2024-02-28,2025-02-21
+Renewal Quote Exists Before Amend,Event Property,,,,UNEXPECTED,False,False,2024-09-19,2025-03-13
+Renewal Quote Source,Event Property,,,,UNEXPECTED,False,False,2024-01-19,2025-03-13
+Renewal Risks,Event Property,,,any,LIVE,False,False,2022-06-29,2022-10-24
+Renewed Contract,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Replacement Opportunity,Event Property,,,any,LIVE,False,False,2022-06-02,2024-02-23
+Replacement Opportunity Next Steps,Event Property,,,any,LIVE,False,False,2022-06-30,2023-12-22
+Replacement Opportunity Notes,Event Property,,,any,LIVE,False,False,2022-06-03,2024-05-28
+Request SC,Event Property,,,any,LIVE,False,False,2022-06-01,2024-03-08
+Request SE,Event Property,,,,UNEXPECTED,False,False,2024-03-08,2025-03-13
+Resource,Event Property,,,any,LIVE,False,False,2021-03-04,2022-04-12
+Response ID,Event Property,,,any,LIVE,False,False,2022-06-01,2025-01-10
+Retention Use Cases,Event Property,,,,UNEXPECTED,False,False,2023-10-22,2025-03-13
+S0 Meeting Date,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+S0 Qualification Notes,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+S1 Qualification Notes,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+S2 Date,Event Property,,,,UNEXPECTED,False,False,2024-05-08,2024-05-08
+S2 Qualification Notes,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+SAO Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+SC Closed Lost Notes,Event Property,,,any,LIVE,False,False,2022-06-02,2024-02-15
+SC Investment,Event Property,,,any,LIVE,False,False,2022-06-01,2024-03-08
+SC Manager Forecast Notes,Event Property,,,any,LIVE,False,False,2022-06-02,2024-03-08
+SC Notes (Active Deal Cycle),Event Property,,,any,LIVE,False,False,2022-06-01,2024-03-08
+SC Priority,Event Property,,,any,LIVE,False,False,2022-06-01,2024-03-08
+SC Product Feedback,Event Property,,,any,LIVE,False,False,2022-06-07,2023-12-22
+SC Score,Event Property,,,,UNEXPECTED,False,False,2023-09-26,2024-03-08
+SC Technical Stage,Event Property,,,any,LIVE,False,False,2022-06-01,2024-03-08
+SC Technical Win Forecast Category,Event Property,,,any,LIVE,False,False,2022-06-02,2024-03-08
+SC Technical Win Solution Fit,Event Property,,,any,LIVE,False,False,2022-06-01,2024-03-08
+SE Closed Lost Notes,Event Property,,,,UNEXPECTED,False,False,2024-08-21,2024-10-07
+SE Investment,Event Property,,,,UNEXPECTED,False,False,2024-03-08,2025-03-13
+SE Manager Forecast Notes,Event Property,,,,UNEXPECTED,False,False,2024-03-08,2025-03-13
+SE Notes (Active Deal Cycle),Event Property,,,,UNEXPECTED,False,False,2024-03-08,2025-03-13
+SE Priority,Event Property,,,,UNEXPECTED,False,False,2024-03-08,2025-03-13
+SE Score,Event Property,,,,UNEXPECTED,False,False,2024-03-08,2025-03-13
+SE Technical Stage,Event Property,,,,UNEXPECTED,False,False,2024-03-11,2025-03-11
+SE Technical Win Forecast Category,Event Property,,,,UNEXPECTED,False,False,2024-03-13,2025-03-11
+SE Technical Win Solution Fit,Event Property,,,,UNEXPECTED,False,False,2024-03-08,2025-03-13
+SRM Owned,Event Property,,,,UNEXPECTED,False,False,2023-11-02,2024-03-29
+Sales Channel,Event Property,,,,UNEXPECTED,False,False,2024-01-26,2025-03-13
+Sales Insight,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Sales Manager Notes,Event Property,,,any,LIVE,False,False,2022-06-02,2025-03-13
+Sales Play,Event Property,,,,UNEXPECTED,False,False,2024-09-28,2025-03-13
+Sales Territory,Event Property,,,,UNEXPECTED,False,False,2024-12-30,2025-03-13
+SalesForce Object Type,Event Property,,,any,LIVE,False,False,2018-12-19,2018-12-19
+Salesforce Object Type,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Scale,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Scholarship_Partner__c,Event Property,,,any,LIVE,False,False,2019-10-03,2025-06-06
+Secondary Churn Reason,Event Property,,,,UNEXPECTED,False,False,2024-10-02,2025-03-12
+Secondary Closed Lost Reason,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Secondary Use Case,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2024-07-29
+Security Request Due Date,Event Property,,,any,LIVE,False,False,2022-06-02,2024-06-28
+Security Request Recieved,Event Property,,,any,LIVE,False,False,2022-06-10,2023-03-01
+Security Review Completed,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Security Review Initiated,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Security Review Link,Event Property,,,any,LIVE,False,False,2022-06-02,2024-01-05
+Send as test record to IO,Event Property,,,,UNEXPECTED,False,False,2023-09-06,2024-08-16
+Sequence Attributed?,Event Property,,,,UNEXPECTED,False,False,2024-02-29,2025-03-13
+Service Offering Notes,Event Property,,,,UNEXPECTED,False,False,2024-07-15,2025-03-13
+Service Offerings,Event Property,,,,UNEXPECTED,False,False,2024-07-15,2025-03-13
+Service Team,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Service Tier,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Services Partner Account,Event Property,,,,UNEXPECTED,False,False,2023-09-11,2025-03-13
+Ship To Tier,Event Property,,,any,LIVE,False,False,2022-06-01,2023-12-15
+Ship To Tier (IO),Event Property,,,,UNEXPECTED,False,False,2023-09-06,2024-08-16
+Signatory,Event Property,,,any,LIVE,False,False,2022-07-17,2023-06-27
+Skip Export To NetSuite (IO),Event Property,,,,UNEXPECTED,False,False,2023-09-06,2024-08-16
+Sourcing Rep,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Sourcing Rep Name,Event Property,,,any,LIVE,False,False,2018-12-24,2023-09-22
+Sourcing Rep Role,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Sourcing Rep Team,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Stage,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Stage 1 Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Stage 2 Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Stage 3 Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Stage 4 Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Stage 5 Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Stage 6 Date,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Stage SC Was Added,Event Property,,,,UNEXPECTED,False,False,2022-09-07,2022-09-07
+Standard MSA?,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+State,Event Property,,,any,LIVE,False,False,2020-08-28,2025-06-02
+Status,Event Property,,,,UNEXPECTED,False,False,2023-02-03,2025-03-13
+Step Approved,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Step Up Opportunity,Event Property,,,,UNEXPECTED,False,False,2024-08-26,2025-03-13
+Sub-Type,Event Property,,,,UNEXPECTED,False,False,2023-08-11,2025-03-13
+Summarize Decision Process,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Summarize prospect's business,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Sync In Progress,Event Property,,,any,LIVE,False,False,2022-06-01,2023-12-15
+Sync to Outreach,Event Property,,,,UNEXPECTED,False,False,2024-03-07,2025-03-13
+Sync_with_SFDC__c,Event Property,,,,UNEXPECTED,False,False,2025-01-08,2025-06-07
+System Modstamp,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Target Account Grade,Event Property,,,any,LIVE,False,False,2022-06-30,2025-03-13
+Task Account Name,Event Property,,,any,LIVE,False,False,2019-02-01,2023-09-22
+Task Description,Event Property,,,any,LIVE,False,False,2019-02-01,2023-09-22
+Task Id,Event Property,,,any,LIVE,False,False,2019-03-27,2023-09-22
+Task Status,Event Property,,,any,LIVE,False,False,2019-05-03,2023-09-22
+Task Subject,Event Property,,,any,LIVE,False,False,2019-02-01,2023-09-22
+Task Type,Event Property,,,any,LIVE,False,False,2019-02-01,2023-09-22
+Task What Name,Event Property,,,any,LIVE,False,False,2019-02-01,2023-09-22
+Task What Type,Event Property,,,any,LIVE,False,False,2019-02-01,2023-09-22
+Task Who Email,Event Property,,,any,LIVE,False,False,2019-05-03,2023-09-22
+Task Who Name,Event Property,,,any,LIVE,False,False,2019-02-01,2023-09-22
+Task Who Type,Event Property,,,any,LIVE,False,False,2019-02-01,2019-05-10
+TaskOwner Name,Event Property,,,any,LIVE,False,False,2019-02-01,2023-09-22
+Tech Partners in Evaluation,Event Property,,,any,LIVE,False,False,2022-06-02,2025-02-18
+Technical Champion,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Technical Pain (Why buy from Amplitude?),Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Technical Win confirmed,Event Property,,,,UNEXPECTED,False,False,2023-07-06,2025-03-13
+Technology_Category__c,Event Property,,,any,LIVE,False,False,2020-10-06,2020-10-19
+Test Record,Event Property,,,,UNEXPECTED,False,False,2024-03-15,2025-03-13
+Thanks,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Title,Event Property,,,any,LIVE,False,False,2018-10-24,2025-06-07
+Total Amount,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Transition Plan Link,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Trigger Opportunity Notification,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Type,Event Property,,,any,LIVE,False,False,2020-04-08,2025-03-13
+Types_of_Services__c,Event Property,,,any,LIVE,False,False,2020-09-18,2020-10-15
+Uplift ARR,Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+Usage Quota,Event Property,,,,UNEXPECTED,False,False,2023-01-11,2025-03-13
+Usage Term,Event Property,,,,UNEXPECTED,False,False,2023-01-11,2025-03-13
+Value Map (link),Event Property,,,,UNEXPECTED,False,False,2023-10-23,2025-03-13
+Velocity to Emerging Hand-off,Event Property,,,,UNEXPECTED,False,False,2024-09-13,2025-03-13
+WLU 4wk,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Website,Event Property,,,any,LIVE,False,False,2019-11-09,2025-06-06
+Website__c,Event Property,,,any,LIVE,False,False,,
+Weekly Allotment %,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Why they bought Amplitude,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Win Report Sent,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Won,Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+Workshop Scheduled,Event Property,,,,UNEXPECTED,False,False,2024-06-21,2025-03-13
+ZZZ-Amplitude Preferred Vendor,Event Property,,,any,LIVE,False,False,2022-06-01,2023-07-05
+ZZZ-Aud Syncs & Models ARR (Ending),Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+ZZZ-Aud Syncs & Models ARR (Forecast),Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+ZZZ-Audiences Syncs ARR (Ending),Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+ZZZ-Audiences Syncs ARR (Forecast),Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+ZZZ-Authority,Event Property,,,any,LIVE,False,False,2022-06-01,2023-08-25
+ZZZ-Champion is,Event Property,,,any,LIVE,False,False,2022-06-01,2023-04-03
+ZZZ-Decision Criteria,Event Property,,,any,LIVE,False,False,2022-06-02,2023-05-26
+ZZZ-Decision Process,Event Property,,,any,LIVE,False,False,2022-06-01,2023-05-26
+ZZZ-Engage ARR,Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+ZZZ-Engage ARR (Forecast),Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+ZZZ-Engagement with Economics Buyer,Event Property,,,any,LIVE,False,False,2022-06-02,2023-10-30
+ZZZ-Experiment ARR (Ending),Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+ZZZ-Experiment ARR (Forecast),Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+ZZZ-Identify Pain,Event Property,,,any,LIVE,False,False,2022-06-01,2024-01-10
+ZZZ-Identify Pain (Detail),Event Property,,,any,LIVE,False,False,2022-06-01,2024-01-10
+ZZZ-Metrics,Event Property,,,any,LIVE,False,False,2022-06-01,2023-05-26
+ZZZ-Paper Process,Event Property,,,any,LIVE,False,False,2022-06-02,2022-07-20
+ZZZ-Previous Solutions Attempted,Event Property,,,any,LIVE,False,False,2022-06-02,2023-10-03
+"ZZZ-Procurement, Legal, Security Engaged",Event Property,,,any,LIVE,False,False,2022-06-01,2025-03-13
+ZZZ-Testing Activities - Champion,Event Property,,,any,LIVE,False,False,2022-06-02,2022-12-28
+ZZZ-Usage Quota,Event Property,,,,UNEXPECTED,False,False,2025-02-21,2025-03-13
+[6sense] City (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Company Name,Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Company Name (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Country (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Domain (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Employee Count (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Employee Range (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Industry (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Intent Score (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Naics (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Naics Description,Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Naics Description (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Profile Fit (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Region (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Revenue Range (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Sic (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] Sic Description (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[6sense] State (Ev),Event Property,,,any,UNEXPECTED,False,False,2022-09-07,2022-09-07
+[Amplitude] Element Aria Label,Event Property,,"The aria-label of the element. Aria labels are intended for interactive elements without visible text in the DOM, and can be useful to further define your click events.
+
+For example, if the element clicked was:
+
+<button aria-label=""Close"" onclick=""myDialog.close()""></button>
+
+The value would be: Close",any,LIVE,False,False,2024-04-30,2025-06-07
+[Amplitude] Element Class,Event Property,,"The class attribute of the HTML element.
+
+For example, if the element clicked was:
+
+<a id=""myID"">Home</a>
+
+The property value would be: myClass",any,LIVE,False,False,2024-04-30,2025-06-07
+[Amplitude] Element Href,Event Property,,"The href attribute, specifying the URL for a link. Only applies to <a> tags on the Element Clicked event.
+
+For example, if the element clicked was:
+
+<a href=”https://www.amplitude.com”>Home</a>
+
+The property value would be: https://www.amplitude.com",any,LIVE,False,False,2024-04-30,2025-06-07
+[Amplitude] Element ID,Event Property,,"The id attribute of the HTML element.
+
+For example, if the element clicked was:
+
+<a id=""myID"">Home</a>
+
+The property value would be: myID",any,LIVE,False,False,2024-04-30,2025-06-07
+[Amplitude] Element Parent Label,Event Property,,"The text label in the parent element (or upper ancestors if not found in one level parent) of the element.
+
+For example, if the element clicked was:
+
+<div><span>Amplitude</span><a id=""myID"">Home</a></div>
+
+The value would be: Amplitude",any,LIVE,False,False,2024-04-30,2025-06-07
+[Amplitude] Element Position Left,Event Property,,"Captures the distance of the element from the left of the screen view in pixels.
+
+For example, a value of 600 means the element clicked was 600 pixels from the left of the screen view.",any,LIVE,False,False,2024-04-30,2025-06-07
+[Amplitude] Element Position Top,Event Property,,"Captures the distance of the element from the top of the screen view in pixels.
+
+For example, a value of 400 means the element clicked was 400 pixels from the top of the screen view.",any,LIVE,False,False,2024-04-30,2025-06-07
+[Amplitude] Element Selector,Event Property,,,string,LIVE,False,False,2024-04-30,2025-06-07
+[Amplitude] Element Tag,Event Property,,"The tag name of the HTML element.
+
+For example, if the element clicked was:
+
+<a href=”#”>Home</a>
+
+The property value would be: a",any,LIVE,False,False,2024-04-30,2025-06-07
+[Amplitude] Element Text,Event Property,,"The text content (innerText) of the HTML element. Only applies to the Element Clicked event.
+
+For example, if the element clicked was:
+
+<a href=”#”>Home</a>
+
+The property value would be: Home",any,LIVE,False,False,2024-04-30,2025-06-07
+[Amplitude] Form Destination,Event Property,,,string,LIVE,False,False,2023-06-06,2025-06-07
+[Amplitude] Form ID,Event Property,,,string,LIVE,False,False,2023-06-07,2025-06-07
+[Amplitude] Form Name,Event Property,,,string,LIVE,False,False,2023-07-28,2025-06-07
+[Amplitude] Page Title,Event Property,,"Captures the page title of the page where the element was clicked.
+
+For example, if the page where the element was clicked has: <title>Amplitude</title>
+
+The value would be: Amplitude",any,LIVE,False,False,2023-04-05,2025-06-07
+[Amplitude] Page URL,Event Property,,,string,LIVE,False,False,2023-04-05,2025-06-07
+[Amplitude] Session Recorded,Event Property,,,boolean,LIVE,False,False,2023-08-01,2025-06-05
+[Amplitude] Session Replay ID,Event Property,,,string,LIVE,False,False,2023-12-15,2025-06-07
+[Amplitude] Viewport Height,Event Property,,,number,LIVE,False,False,2024-04-30,2025-06-07
+[Amplitude] Viewport Width,Event Property,,,number,LIVE,False,False,2024-04-30,2025-06-07
+[Experiment] Endpoint,Event Property,,,any,LIVE,False,False,2021-05-27,2025-06-07
+[Experiment] Environment ID,Event Property,,,any,LIVE,False,False,2021-05-27,2025-06-07
+[Experiment] Environment Name,Event Property,,,any,LIVE,False,False,2021-05-27,2025-06-07
+[Guides-Surveys] Engagement.level,Event Property,,,any,UNEXPECTED,False,False,2025-06-05,2025-06-06
+[Guides-Surveys] Engagement.type,Event Property,,,any,UNEXPECTED,False,False,2025-05-30,2025-06-06
+[Guides-Surveys] Is From Debug Mode,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Is Last Step,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Key,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Lifecycle UUID,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Page.domain,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Page.path,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Page.query,Event Property,,,any,UNEXPECTED,False,False,2025-06-06,2025-06-06
+[Guides-Surveys] Page.title,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Source.properties.triggerType,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Source.type,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Step ID,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Step Index,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Step Title,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Survey Response,Event Property,,,any,UNEXPECTED,False,False,2025-06-06,2025-06-06
+[Guides-Surveys] Survey Response Number,Event Property,,,any,UNEXPECTED,False,False,2025-06-06,2025-06-06
+[Guides-Surveys] Survey Response String,Event Property,,,any,UNEXPECTED,False,False,2025-06-06,2025-06-06
+[Guides-Surveys] Tags,Event Property,,,any,UNEXPECTED,False,False,2025-06-05,2025-06-06
+[Guides-Surveys] Type,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Variant ID,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Version,Event Property,,,any,UNEXPECTED,False,False,2025-05-19,2025-06-06
+[Guides-Surveys] Was Completed Via CTA,Event Property,,,any,UNEXPECTED,False,False,2025-06-05,2025-06-06
+[Skylab] Endpoint,Event Property,,,any,LIVE,False,False,2021-03-05,2021-05-25
+[Skylab] Environment ID,Event Property,,,any,LIVE,False,False,2021-03-05,2021-05-25
+[Skylab] Environment Name,Event Property,,,any,LIVE,False,False,2021-03-05,2021-05-25
+[mutiny] audienceSegment,Event Property,,"name of audience segment for Mutiny website personalization. on page load, pull in `audienceSegment` from window.mutinyData object",any,LIVE,False,False,2018-08-07,2020-07-22
+[mutiny] experienceName,Event Property,,name of experience for Mutiny website personalization. pull in `experienceName` from window.mutinyData object.,any,LIVE,False,False,2018-08-07,2020-07-22
+[mutiny] impressionType,Event Property,,"`personalized` - The user was in an audience segment, and the user saw them on that page.
+`control` - The user was in an audience segment, but the user was bucketed for control and did not see them on that page.
+`nothing_to_show` - The user was in an audience segment, but the current page they were viewing had no personalizations configured
+
+pull in `impressionType from window.mutinyData object.",any,LIVE,False,False,2018-08-07,2020-07-22
+[mutiny] personalized,Event Property,,"true/false on whether page load is personalized for Mutiny website personalization. on page load, pull in `personalized` from window.mutinyData object.",any,LIVE,False,False,2018-08-07,2020-07-22
+_mkt_trk,Event Property,,,,UNEXPECTED,False,False,2022-09-01,2025-06-07
+_mktoReferrer,Event Property,,,any,LIVE,False,False,2018-10-24,2025-06-07
+_mkto_trk,Event Property,,,any,LIVE,False,False,,
+action,Event Property,,,string,LIVE,True,False,2019-09-05,2025-06-07
+ad_group_id,Event Property,,,string,LIVE,False,False,2025-05-02,2025-06-07
+ad_group_name,Event Property,,,string,LIVE,False,False,2025-05-02,2025-06-07
+ad_id,Event Property,,,string,LIVE,False,False,2025-05-02,2025-06-07
+ad_metrics.actions.page_engagement,Event Property,,,number,LIVE,False,False,2025-05-02,2025-06-07
+ad_metrics.actions.post_engagement,Event Property,,,number,LIVE,False,False,2025-05-02,2025-06-07
+ad_metrics.clicks,Event Property,,,string,LIVE,False,False,2025-05-02,2025-06-07
+ad_metrics.conversions,Event Property,,,number,LIVE,False,False,2025-05-02,2025-06-07
+ad_metrics.cost,Event Property,,,string,LIVE,False,False,2025-05-02,2025-06-07
+ad_metrics.impressions,Event Property,,,string,LIVE,False,False,2025-05-02,2025-06-07
+ad_name,Event Property,,,string,LIVE,False,False,2025-05-02,2025-06-07
+ad_platform,Event Property,,,string,LIVE,False,False,2025-05-02,2025-06-07
+address,Event Property,,,any,LIVE,False,False,2021-06-09,2023-04-17
+advertising,Event Property,,,string,LIVE,False,False,2020-03-24,2025-06-07
+ahtEpS4QBGE4iQA4uIAWy,Event Property,,,any,LIVE,False,False,,
+all scholarship criteria checked,Event Property,,,any,LIVE,False,False,2019-10-02,2021-03-13
+amp access blocked,Event Property,,,any,LIVE,False,False,2019-06-18,2023-09-26
+amplitude.com blocked,Event Property,,,any,LIVE,False,False,2019-06-18,2023-09-26
+analytics.amplitude.com blocked,Event Property,,,any,LIVE,False,False,2019-06-18,2023-09-26
+api.amplitude.com blocked,Event Property,,,any,LIVE,False,False,2019-06-18,2023-09-26
+audienceSegment,Event Property,,which audience segment the visitor falls into for the personalization experience (ex. industry or company size segment),any,LIVE,False,False,2018-09-16,2025-03-26
+auth method,Event Property,,,any,LIVE,False,False,2020-10-01,2020-12-31
+author,Event Property,,,any,LIVE,False,False,2020-07-21,2022-01-08
+banner name,Event Property,,,any,LIVE,False,False,2019-08-16,2020-07-31
+banner path,Event Property,,,any,LIVE,False,False,2019-08-16,2020-07-31
+banner shown,Event Property,,,any,LIVE,False,False,2019-08-13,2021-05-24
+banner text,Event Property,,,any,LIVE,False,False,2019-08-16,2020-07-31
+banner url,Event Property,,,any,LIVE,False,False,2019-08-16,2020-07-31
+benchmark kind,Event Property,,,string,LIVE,True,False,2023-07-31,2024-10-29
+blaid,Event Property,,,any,LIVE,False,False,2020-09-11,2021-01-04
+block,Event Property,,,any,LIVE,False,False,,
+block name,Event Property,,,any,LIVE,False,False,2019-03-13,2020-08-26
+blockLabel,Event Property,,,any,LIVE,False,False,,
+blockType,Event Property,,,any,LIVE,False,False,,
+blocks,Event Property,,,any,LIVE,False,False,,
+blogPostAuthor,Event Property,,,string,LIVE,False,False,2021-05-24,2025-06-07
+blogPostCategory,Event Property,,,string,LIVE,False,False,2021-05-24,2025-06-07
+blogPostCategoryId,Event Property,,,string,LIVE,False,False,2021-05-24,2025-06-07
+blogPostDate,Event Property,,,string,LIVE,False,False,2021-08-11,2025-06-07
+blogPostId,Event Property,,,string,LIVE,False,False,2021-05-24,2025-06-07
+blogPostName,Event Property,,,string,LIVE,False,False,2021-05-24,2025-06-07
+blogPostUrl,Event Property,,,string,LIVE,False,False,2021-05-24,2025-06-07
+blog_banner_cta.cta,Event Property,,,any,LIVE,False,False,2019-02-05,2019-02-26
+button body,Event Property,,,any,LIVE,False,False,2019-01-18,2021-02-18
+button text,Event Property,,,any,LIVE,False,False,,
+campaign,Event Property,,,any,LIVE,False,False,,
+campaign ID,Event Property,,,any,LIVE,False,False,2019-04-17,2021-03-24
+campaignContent,Event Property,,,any,LIVE,False,False,2018-10-24,2025-06-07
+campaignID,Event Property,,,any,LIVE,False,False,2018-10-24,2025-06-07
+campaignMedium,Event Property,,,any,LIVE,False,False,2018-10-24,2025-06-07
+campaignSource,Event Property,,,any,LIVE,False,False,2018-10-24,2025-06-07
+campaignTerm,Event Property,,,any,LIVE,False,False,2018-10-24,2025-06-07
+campaign_id,Event Property,,,string,LIVE,False,False,2025-05-02,2025-06-07
+campaign_name,Event Property,,,string,LIVE,False,False,2025-05-02,2025-06-07
+capability,Event Property,,partner's capability,any,LIVE,False,False,2018-07-05,2021-02-16
+captchaToken,Event Property,,,,UNEXPECTED,False,False,2024-05-11,2025-05-29
+categories,Event Property,,,any,LIVE,False,False,2020-07-21,2022-01-08
+category,Event Property,,the section of the CTA: pull in URL from the contentful List Link object,any,LIVE,False,False,2018-06-28,2024-02-13
+cbitLinkedInC,Event Property,,,any,LIVE,False,False,2021-11-21,2023-06-28
+channel,Event Property,,,any,LIVE,False,False,2020-10-07,2021-06-08
+chapter,Event Property,,,any,LIVE,False,False,2018-07-16,2021-09-03
+checksum,Event Property,,,,UNEXPECTED,False,False,2022-07-28,2025-06-07
+checksumFields,Event Property,,,,UNEXPECTED,False,False,2022-07-28,2025-06-07
+city,Event Property,,pull in city,any,LIVE,False,False,2018-07-04,2025-04-21
+clearbitCompanyDomain,Event Property,,,any,LIVE,False,False,2022-02-05,2023-09-17
+clearbitCompanyName,Event Property,,,any,LIVE,False,False,2022-02-05,2023-09-17
+clearbitCountryCode,Event Property,,,any,LIVE,False,False,2022-02-05,2023-09-17
+clearbitFormStatus,Event Property,,,,UNEXPECTED,False,False,2023-08-09,2025-06-05
+clearbitLoadedStatus,Event Property,,,,UNEXPECTED,False,False,2023-08-09,2025-06-05
+clickUrl,Event Property,,,any,LIVE,False,False,,
+clicked,Event Property,,,any,LIVE,False,False,,
+company,Event Property,,,string,LIVE,False,False,2019-11-07,2025-06-06
+companylessthan2years,Event Property,,,any,LIVE,False,False,2019-09-16,2019-11-28
+component,Event Property,,The source component of the event,string,LIVE,False,False,2024-05-01,2024-08-05
+contactSalesNotesC,Event Property,,,any,LIVE,False,False,2021-06-08,2024-12-11
+content,Event Property,,,string,LIVE,False,False,2020-03-24,2021-02-01
+contentfulId,Event Property,,,any,LIVE,False,False,,
+contentfulIds,Event Property,,,any,LIVE,False,False,,
+context,Event Property,,,string,LIVE,False,False,,
+conversation ID,Event Property,,,any,LIVE,False,False,2019-01-17,2021-08-26
+cookie,Event Property,,,any,LIVE,False,False,2018-10-24,2021-04-05
+cookie sync state,Event Property,,,enum,LIVE,False,False,2025-01-22,2025-06-07
+count,Event Property,,,any,LIVE,False,False,2024-06-28,2025-05-17
+country,Event Property,,,any,LIVE,False,False,2021-06-08,2025-06-06
+credential picker height,Event Property,,,number,LIVE,False,False,2025-03-17,2025-05-16
+credential picker in dom,Event Property,,,boolean,LIVE,False,False,2025-03-17,2025-06-06
+credential picker width,Event Property,,,number,LIVE,False,False,2025-03-17,2025-05-16
+current tab,Event Property,,,string,LIVE,True,False,2022-11-02,2024-11-07
+current.referrer,Event Property,,,any,LIVE,False,False,,
+current.referring_domain,Event Property,,,any,LIVE,False,False,,
+current.utm_campaign,Event Property,,,any,LIVE,False,False,,
+current.utm_content,Event Property,,,any,LIVE,False,False,,
+current.utm_medium,Event Property,,,any,LIVE,False,False,,
+current.utm_source,Event Property,,,any,LIVE,False,False,,
+currentAmplitudeCustomersC,Event Property,,,any,LIVE,False,False,2021-08-31,2023-04-17
+currentCompaniesEngagedC,Event Property,,,any,LIVE,False,False,2021-08-31,2023-04-17
+customers added,Event Property,,,number,LIVE,False,False,2024-03-28,2025-06-07
+customers end,Event Property,,,number,LIVE,False,False,2024-03-28,2025-06-07
+customers start,Event Property,,,number,LIVE,False,False,2024-03-28,2025-06-07
+data prop count,Event Property,,,number,LIVE,False,False,2025-01-17,2025-06-07
+data source,Event Property,,,string,LIVE,False,False,2025-01-17,2025-06-07
+datacenter,Event Property,,,string,LIVE,True,False,2024-10-03,2024-11-06
+date,Event Property,,pull in date of event. Format: YYYY-MM-DD,any,LIVE,False,False,2018-07-03,2020-08-20
+date last updated,Event Property,,,any,LIVE,False,False,2020-07-21,2022-01-08
+date published,Event Property,,,any,LIVE,False,False,2020-07-21,2022-01-08
+dates,Event Property,,,any,LIVE,False,False,2021-07-28,2021-08-10
+default form id,Event Property,,,string,LIVE,False,False,2025-01-17,2025-06-07
+destination,Event Property,,,string,LIVE,False,False,2021-05-20,2025-06-07
+destination tab,Event Property,,,string,LIVE,True,False,2022-11-02,2024-11-07
+device,Event Property,,,any,LIVE,False,False,2020-07-21,2021-08-19
+dismissed reason,Event Property,,,string,LIVE,False,False,2025-01-09,2025-06-06
+domain,Event Property,,,any,LIVE,False,False,2019-06-25,2023-01-07
+dscorgpkgJobFunctionC,Event Property,,,any,LIVE,False,False,2021-06-08,2023-08-28
+dscorgpkgLinkedInUrlC,Event Property,,,any,LIVE,False,False,2021-06-18,2022-02-17
+duration,Event Property,,,number,LIVE,True,False,2021-05-24,2025-06-07
+element type,Event Property,,,any,LIVE,False,False,2020-11-12,2022-04-25
+email,Event Property,,,string,LIVE,False,False,2018-11-19,2025-06-07
+email-only form,Event Property,,true/false for Mutiny experience 'Email only signup'. user filled out the email-only version of the form. see: https://docs.google.com/document/d/1tVkRE0ofcCNB1bNMheki0-XX0guyeaSyVfpVAMqQoq4/edit#heading=h.8qxu2hb3nvv8,any,LIVE,False,False,2018-09-21,2019-09-12
+error,Event Property,,,string,LIVE,False,False,2020-10-09,2025-06-07
+errorCode,Event Property,,,any,LIVE,False,False,2020-10-09,2020-10-11
+event,Event Property,,,any,LIVE,False,False,,
+event session,Event Property,,,any,LIVE,False,False,2020-08-25,2020-12-28
+event type,Event Property,,pull in event type,any,LIVE,False,False,2018-07-03,2020-08-20
+experience,Event Property,,name of the Mutiny experience,any,LIVE,False,False,2018-09-16,2025-03-26
+experiment key,Event Property,,,any,LIVE,False,False,,
+experimentId,Event Property,,,any,LIVE,False,False,2019-01-24,2024-06-06
+experiment_name,Event Property,,,any,UNEXPECTED,False,False,2024-04-29,2025-06-04
+feature name,Event Property,,,any,LIVE,False,False,2021-12-14,2022-02-27
+fetch status,Event Property,,,string,LIVE,False,False,2025-01-17,2025-06-07
+field name,Event Property,,name of the field,any,LIVE,False,False,2018-10-24,2025-06-07
+filename,Event Property,,,any,UNEXPECTED,False,False,2025-05-14,2025-06-02
+filter category,Event Property,,,string,LIVE,True,False,2023-08-01,2025-05-13
+filter value,Event Property,,,string,LIVE,True,False,2023-08-01,2025-05-13
+firstName,Event Property,,,string,LIVE,False,False,2021-06-08,2025-06-06
+flag key,Event Property,,,any,LIVE,False,False,2020-10-30,2021-01-28
+flag_key,Event Property,,,any,UNEXPECTED,False,False,2025-05-30,2025-05-30
+followupLpId,Event Property,,,any,LIVE,False,False,2020-08-28,2025-06-06
+form layout,Event Property,,,any,LIVE,False,False,2019-02-13,2024-02-13
+form name,Event Property,,matches event name of pageview event for the form page,any,LIVE,False,False,2018-10-24,2025-06-07
+formName,Event Property,,"The only input today is ""Marketo Form"" today for the website.",string,LIVE,False,False,2021-05-24,2025-06-07
+formVid,Event Property,,,,UNEXPECTED,False,False,2022-07-28,2025-06-07
+format,Event Property,,,any,LIVE,False,False,2020-10-06,2021-06-14
+formid,Event Property,,,string,LIVE,False,False,2021-05-24,2025-06-07
+found known user,Event Property,,,boolean,LIVE,False,False,2025-01-17,2025-06-07
+full name,Event Property,,,string,LIVE,True,False,2024-10-03,2024-11-06
+full path,Event Property,,,any,LIVE,False,False,2019-02-14,2024-10-05
+fullName,Event Property,,,any,LIVE,False,False,,
+fullPath,Event Property,,,any,LIVE,False,False,2019-02-20,2019-03-13
+fullpath,Event Property,,,any,LIVE,False,False,2019-12-11,2021-05-18
+functional,Event Property,,,string,LIVE,False,False,2021-02-01,2025-06-07
+fundinglessthan5million,Event Property,,,any,LIVE,False,False,2019-09-16,2019-11-28
+gclid,Event Property,,,any,LIVE,False,False,2020-09-10,2025-06-07
+generic embed,Event Property,,,any,LIVE,False,False,,
+geographicFocusC,Event Property,,,any,LIVE,False,False,2021-08-31,2023-04-17
+greeting,Event Property,,,any,LIVE,False,False,2021-02-09,2021-07-13
+has link data,Event Property,,,any,LIVE,False,False,2020-10-12,2021-03-08
+has link token,Event Property,,,any,LIVE,False,False,2020-10-12,2021-03-08
+howCanWeHelp,Event Property,,,any,LIVE,False,False,2018-10-25,2023-08-22
+href,Event Property,,,any,LIVE,False,False,2020-11-12,2022-04-25
+id,Event Property,,,string,LIVE,True,False,2021-05-24,2025-06-07
+impactTrends,Event Property,,,,UNEXPECTED,False,False,2022-04-27,2023-06-09
+indexOfQuestionBlock,Event Property,,,any,UNEXPECTED,False,False,2024-05-07,2025-01-11
+indexOfReferenceBlock,Event Property,,,any,UNEXPECTED,False,False,2024-05-07,2025-01-11
+infra,Event Property,,,any,LIVE,False,False,2020-07-21,2021-08-19
+initial.utm_campaign,Event Property,,,any,LIVE,False,False,,
+initial.utm_content,Event Property,,,any,LIVE,False,False,,
+initial.utm_medium,Event Property,,,any,LIVE,False,False,,
+initial.utm_source,Event Property,,,any,LIVE,False,False,,
+initialElementsCount,Event Property,,,any,UNEXPECTED,False,False,2024-04-29,2025-06-04
+initial_utm_campaign,Event Property,,,any,LIVE,False,False,,
+initial_utm_content,Event Property,,,any,LIVE,False,False,,
+initial_utm_medium,Event Property,,,any,LIVE,False,False,,
+initial_utm_source,Event Property,,,any,LIVE,False,False,,
+inquiryType,Event Property,,,any,LIVE,False,False,2018-10-25,2023-08-22
+integrationCustomersC,Event Property,,,,UNEXPECTED,False,False,2022-07-25,2023-04-17
+integrationStatusC,Event Property,,,any,LIVE,False,False,2022-03-14,2023-04-17
+integrationTypeC,Event Property,,,any,LIVE,False,False,2022-03-14,2023-04-17
+integrationValidationC,Event Property,,,any,LIVE,False,False,2022-03-14,2023-04-17
+is blocked,Event Property,,,any,LIVE,False,False,2019-06-25,2023-01-07
+is cookied,Event Property,,,any,LIVE,False,False,2020-10-01,2020-12-22
+is dismissed moment,Event Property,,,string,LIVE,False,False,2025-01-09,2025-06-06
+is display moment,Event Property,,,string,LIVE,False,False,2025-01-09,2025-06-06
+is displayed,Event Property,,,string,LIVE,False,False,2025-01-09,2025-06-06
+is known user enabled,Event Property,,,boolean,LIVE,False,False,2025-01-17,2025-06-07
+is known user form,Event Property,,,boolean,LIVE,False,False,2025-01-30,2025-06-07
+is not displayed,Event Property,,,string,LIVE,False,False,2025-01-09,2025-06-06
+is skipped moment,Event Property,,,string,LIVE,False,False,2025-01-09,2025-06-06
+jobLevelC,Event Property,,,string,LIVE,False,False,2021-06-08,2025-06-06
+keepCalm1,Event Property,,,any,LIVE,False,False,2020-03-27,2020-09-15
+keepCalm2,Event Property,,,any,LIVE,False,False,2020-03-27,2020-10-12
+keepCalm3,Event Property,,,any,LIVE,False,False,2020-04-09,2020-10-07
+keepCalm4,Event Property,,,any,LIVE,False,False,2020-04-16,2020-10-07
+keepCalmAll,Event Property,,,any,LIVE,False,False,2020-03-27,2020-05-14
+keyJointCustomersC,Event Property,,,,UNEXPECTED,False,False,2022-07-12,2022-11-10
+known email,Event Property,,,string,LIVE,False,False,2025-01-17,2025-06-07
+lastName,Event Property,,,string,LIVE,False,False,2021-06-08,2025-06-06
+leadSource,Event Property,,,,UNEXPECTED,False,False,2025-01-09,2025-06-05
+leadStatus,Event Property,,,any,LIVE,False,False,2021-08-31,2023-04-17
+lessthan20employees,Event Property,,,any,LIVE,False,False,2019-09-16,2019-11-28
+level,Event Property,,"partner level (1, 2, or 3)",any,LIVE,False,False,2018-07-05,2021-02-16
+link text,Event Property,,,any,LIVE,False,False,2020-10-01,2020-12-10
+link title,Event Property,,pull in title from the Contentful List Link object,any,LIVE,False,False,2018-06-29,2021-02-16
+load_time,Event Property,,,any,LIVE,False,False,2021-07-28,2021-08-10
+local storage marketo cookie,Event Property,,,string,LIVE,False,False,2025-01-17,2025-06-07
+locale,Event Property,,,any,LIVE,False,False,2020-11-19,2023-08-28
+location,Event Property,,"""hero"" or ""bottom""",string,LIVE,False,False,2018-06-29,2025-06-07
+location_path,Event Property,,,any,LIVE,False,False,2020-10-06,2022-02-11
+location_title,Event Property,,,any,LIVE,False,False,2020-10-06,2022-02-11
+lpId,Event Property,,,any,LIVE,False,False,2021-05-24,2025-06-06
+lpurl,Event Property,,,any,LIVE,False,False,2021-05-24,2025-06-06
+marketingOperationsField1,Event Property,,,any,LIVE,False,False,2021-07-15,2025-06-06
+marketingOperationsField2,Event Property,,,any,LIVE,False,False,2021-06-12,2025-06-07
+marketingOperationsField3,Event Property,,,any,LIVE,False,False,2020-08-28,2025-04-17
+marketingOperationsField4,Event Property,,,any,LIVE,False,False,2020-10-09,2022-04-07
+marketingOperationsField5,Event Property,,,any,LIVE,False,False,2021-08-13,2025-04-17
+marketingOperationsField7,Event Property,,,any,LIVE,False,False,2021-08-13,2025-04-17
+marketingOperationsField8,Event Property,,,any,LIVE,False,False,2021-12-15,2024-02-15
+marketing_cookies,Event Property,,,string,LIVE,False,False,2020-03-12,2020-03-26
+marketo cookie,Event Property,,,string,LIVE,False,False,2025-01-17,2025-06-07
+marketo embed,Event Property,,,any,LIVE,False,False,,
+marketo form id,Event Property,,,number,LIVE,False,False,2019-01-30,2024-02-13
+max visible percentage,Event Property,,,any,LIVE,False,False,2018-10-11,2024-06-06
+max visible portion,Event Property,,,any,LIVE,False,False,2019-08-21,2024-03-13
+max visible position,Event Property,,,any,LIVE,False,False,2018-10-11,2024-06-06
+meeting date,Event Property,,,any,LIVE,False,False,2019-01-24,2021-02-02
+meeting duration,Event Property,,,any,LIVE,False,False,2019-01-24,2021-02-02
+message,Event Property,,,string,LIVE,False,False,2025-01-30,2025-06-07
+message id,Event Property,,,string,LIVE,True,False,2025-02-20,2025-02-20
+message value,Event Property,,,string,LIVE,False,False,2025-01-17,2025-06-07
+missing fields,Event Property,,,any,LIVE,False,False,2020-10-01,2020-12-31
+mkt_tok,Event Property,,,,UNEXPECTED,False,False,2022-09-15,2025-06-07
+mktoJobFunctionC,Event Property,,,string,LIVE,False,False,2021-06-08,2025-06-06
+mkto_Job_Function__c,Event Property,,,any,LIVE,False,False,2020-08-24,2025-04-07
+mobileWeb,Event Property,,,any,LIVE,False,False,2021-01-27,2021-01-27
+moment type,Event Property,,,string,LIVE,False,False,2025-01-09,2025-06-06
+munchkinId,Event Property,,,any,LIVE,False,False,2021-01-27,2025-06-07
+mutinyPersonalizedC,Event Property,,,any,LIVE,False,False,2021-08-12,2021-11-09
+name,Event Property,,,any,LIVE,False,False,2020-10-06,2023-10-23
+new-org-activation-form.details,Event Property,,,any,LIVE,False,False,2022-02-12,2023-08-16
+new-org-activation-form.name,Event Property,,,any,LIVE,False,False,2021-07-21,2022-02-11
+new-org-activation-form.rule,Event Property,,,any,LIVE,False,False,2021-07-21,2022-02-11
+new-org-activation-form.variant,Event Property,,,any,LIVE,False,False,2021-07-21,2023-08-16
+new-org-activation-form.version,Event Property,,,any,LIVE,False,False,2021-07-21,2022-02-11
+new-org-activation-short-form.name,Event Property,,,any,LIVE,False,False,2021-07-16,2021-07-16
+new-org-activation-short-form.rule,Event Property,,,any,LIVE,False,False,2021-07-16,2021-07-16
+new-org-activation-short-form.variant,Event Property,,,any,LIVE,False,False,2021-07-16,2021-07-16
+new-org-activation-short-form.version,Event Property,,,any,LIVE,False,False,2021-07-16,2021-07-16
+newContactUsRequest,Event Property,,,any,LIVE,False,False,2021-06-08,2023-08-28
+newInsertionIndex,Event Property,,,any,UNEXPECTED,False,False,2024-05-07,2025-01-11
+not displayed reason,Event Property,,,string,LIVE,False,False,2025-01-09,2025-06-06
+notesC,Event Property,,,any,LIVE,False,False,2021-10-21,2021-11-12
+number property,Event Property,,,number,LIVE,True,False,,
+operation,Event Property,,,string,LIVE,False,False,2025-01-09,2025-04-14
+opportunity_amount,Event Property,,,any,LIVE,False,False,2018-11-28,2018-11-29
+option,Event Property,,"""support"" or ""general""",any,LIVE,False,False,2018-07-03,2019-03-02
+org id,Event Property,,,any,LIVE,False,False,2022-06-17,2025-03-13
+orgTrendLeast,Event Property,,,,UNEXPECTED,False,False,2022-04-27,2023-06-23
+orgTrendMost,Event Property,,,,UNEXPECTED,False,False,2022-04-27,2023-06-23
+outcome,Event Property,,,any,LIVE,False,False,2018-10-11,2024-02-13
+page name,Event Property,,,any,LIVE,False,False,2020-10-14,2024-12-09
+page title,Event Property,,,any,LIVE,False,False,2018-10-11,2024-06-06
+pageName,Event Property,,,string,LIVE,True,False,2021-06-08,2025-06-07
+pageUrl,Event Property,,,string,LIVE,True,False,2021-05-20,2025-06-07
+pagespeed accessibility score,Event Property,,,any,LIVE,False,False,2020-07-21,2021-08-19
+pagespeed best practices score,Event Property,,,any,LIVE,False,False,2020-07-21,2021-08-19
+pagespeed performance score,Event Property,,,any,LIVE,False,False,2020-07-21,2021-08-19
+pagespeed pwa score,Event Property,,,any,LIVE,False,False,2020-07-21,2021-08-19
+pagespeed seo score,Event Property,,,any,LIVE,False,False,2020-07-21,2021-08-19
+partner,Event Property,,name of integration,any,LIVE,False,False,2018-07-03,2021-02-22
+partnerConsent,Event Property,,,any,LIVE,False,False,2021-06-09,2025-06-06
+partnerLeadNotesC,Event Property,,,,UNEXPECTED,False,False,2022-07-12,2022-11-10
+partnershipTypeC,Event Property,,,any,LIVE,False,False,2021-08-31,2023-04-17
+path,Event Property,,URL path of the current page that the form is on,string,LIVE,False,False,2018-06-29,2025-06-07
+path.flow.source.meta,Event Property,,,,UNEXPECTED,False,False,2023-05-10,2023-05-10
+path.flow.strict,Event Property,,,,UNEXPECTED,False,False,2023-05-10,2023-05-10
+path.flow.value,Event Property,,,,UNEXPECTED,False,False,2023-05-10,2023-05-10
+pathname,Event Property,,,any,LIVE,False,False,,
+pausedAt,Event Property,,,number,LIVE,False,False,2021-05-24,2025-06-07
+pdfName,Event Property,,,string,LIVE,True,False,2021-05-24,2025-06-03
+percentage watched,Event Property,,,any,LIVE,False,False,,
+performance,Event Property,,,string,LIVE,False,False,2020-03-24,2025-06-07
+personalized,Event Property,,whether the person saw a personalized (true) or control (false) version of the experience,any,LIVE,False,False,2018-09-16,2025-03-26
+phone,Event Property,,,string,LIVE,False,False,2021-06-08,2025-06-06
+plan,Event Property,,"plan type that user clicked 'Learn more' from (Free, Growth, or Enterprise)",any,LIVE,False,False,2018-06-29,2021-03-16
+plan component,Event Property,,,any,LIVE,False,False,2021-12-14,2022-02-24
+plan name,Event Property,,,any,LIVE,False,False,2021-12-14,2022-02-27
+platform,Event Property,,,any,LIVE,False,False,2020-10-14,2024-12-09
+playbook ID,Event Property,,,any,LIVE,False,False,2019-01-20,2024-08-24
+postalCode,Event Property,,,any,LIVE,False,False,2021-06-09,2021-12-15
+price,Event Property,,,any,UNEXPECTED,False,False,2025-05-30,2025-05-30
+pricing-page-v2.details,Event Property,,,any,LIVE,False,False,2022-02-11,2022-03-11
+pricing-page-v2.name,Event Property,,,any,LIVE,False,False,2021-12-14,2022-02-11
+pricing-page-v2.rule,Event Property,,,any,LIVE,False,False,2021-12-14,2022-02-11
+pricing-page-v2.variant,Event Property,,,any,LIVE,False,False,2021-12-14,2022-03-11
+pricing-page-v2.version,Event Property,,,any,LIVE,False,False,2021-12-14,2022-02-11
+privacyPolicyAgreement,Event Property,,,string,LIVE,False,False,2020-03-05,2025-06-07
+product,Event Property,,,any,LIVE,False,False,2021-12-14,2022-03-17
+product combo,Event Property,,,any,LIVE,False,False,2021-12-14,2022-02-24
+progress,Event Property,,,string,LIVE,True,False,2021-06-08,2025-06-07
+prop1,Event Property,,,any,LIVE,False,False,,
+prop2,Event Property,,,any,LIVE,False,False,,
+prop3,Event Property,,,any,LIVE,False,False,,
+query,Event Property,,,string,LIVE,False,False,2021-05-24,2025-06-07
+question ID,Event Property,,,any,LIVE,False,False,2019-01-18,2021-02-18
+questionnaire,Event Property,,,any,LIVE,False,False,2018-11-17,2019-02-26
+reason,Event Property,,"if success = false, indicate why it failed. Options: ""missing field"", ""email exists"",...anything else?",any,LIVE,False,False,2018-07-04,2025-01-11
+reason.field,Event Property,,,any,LIVE,False,False,2021-01-27,2021-08-19
+reason.message,Event Property,,,any,LIVE,False,False,2021-01-27,2021-08-19
+recordTypeId,Event Property,,,any,LIVE,False,False,2021-08-31,2023-04-17
+ref,Event Property,,,any,LIVE,False,False,2018-10-24,2021-02-22
+referrer,Event Property,,,string,LIVE,False,False,2020-08-26,2025-06-07
+referrer.flow.source.meta,Event Property,,,,UNEXPECTED,False,False,2023-05-10,2023-05-10
+referrer.flow.strict,Event Property,,,,UNEXPECTED,False,False,2023-05-10,2023-05-10
+referring_domain,Event Property,,,any,LIVE,False,False,2020-08-26,2025-06-07
+region,Event Property,,partner's region,any,LIVE,False,False,2018-07-05,2021-02-16
+resolved form id,Event Property,,,string,LIVE,False,False,2025-01-17,2025-06-07
+response property count,Event Property,,,number,LIVE,False,False,2025-01-09,2025-04-14
+rounded max visible percentage,Event Property,,,any,LIVE,False,False,2018-10-16,2024-06-06
+row,Event Property,,"name of row that was expanded (ex. ""Core analytics"", ""Behavioral and predictive reports"")",any,LIVE,False,False,2018-06-28,2024-02-13
+scholarship-short-form.details,Event Property,,,any,LIVE,False,False,2022-02-12,2023-08-16
+scholarship-short-form.name,Event Property,,,any,LIVE,False,False,2021-09-01,2022-02-11
+scholarship-short-form.rule,Event Property,,,any,LIVE,False,False,2021-09-01,2022-02-11
+scholarship-short-form.variant,Event Property,,,any,LIVE,False,False,2021-09-01,2023-08-16
+scholarship-short-form.version,Event Property,,,any,LIVE,False,False,2021-09-01,2022-02-11
+scholarshipPartnerC,Event Property,,,any,LIVE,False,False,2021-06-09,2023-06-07
+score,Event Property,,,any,LIVE,False,False,2019-09-05,2024-02-13
+scroll percent,Event Property,,,any,LIVE,False,False,2021-12-14,2022-06-16
+search,Event Property,,,string,LIVE,False,False,2021-05-21,2025-06-07
+search string,Event Property,,,any,LIVE,False,False,2020-10-16,2021-06-08
+search.flow.source.meta,Event Property,,,,UNEXPECTED,False,False,2023-05-10,2023-05-10
+search.flow.strict,Event Property,,,,UNEXPECTED,False,False,2023-05-10,2023-05-10
+searchResult,Event Property,,,any,LIVE,False,False,2021-05-24,2023-08-21
+segment,Event Property,,,any,LIVE,False,False,2019-02-22,2024-02-13
+select by,Event Property,,,string,LIVE,False,False,2025-01-09,2025-04-14
+selected filters,Event Property,,The combination of selected filters at the time this event was fired.,string,LIVE,True,False,2023-08-01,2025-05-13
+selected filters count,Event Property,,The number of non-default filters selected by the user at the time this event was fired. Useful if you want to know what the most popular combination of 2 or 3 filters is.,number,LIVE,True,False,2023-08-01,2025-05-13
+selection,Event Property,,"what the user selects in the filter. Set this property to ""none"" if no value is chosen from the dropdown",any,LIVE,False,False,2018-07-03,2021-03-17
+selector,Event Property,,,any,LIVE,False,False,2024-06-28,2025-05-17
+sentiment,Event Property,,,string,LIVE,True,False,2025-02-20,2025-02-20
+shippingAddress,Event Property,,,any,LIVE,False,False,2021-10-21,2021-11-09
+shown,Event Property,,,any,LIVE,False,False,2018-11-17,2019-02-01
+skipped reason,Event Property,,,string,LIVE,False,False,2025-01-09,2025-06-06
+slider value selected,Event Property,,,string,LIVE,True,False,2024-06-04,2025-06-07
+source,Event Property,,from url parameter ?ref=,any,LIVE,False,False,2018-07-03,2025-05-14
+stack,Event Property,,,any,LIVE,False,False,2020-07-21,2021-08-19
+state,Event Property,,,any,LIVE,False,False,2021-06-08,2025-05-23
+status,Event Property,,,string,LIVE,True,False,2025-01-30,2025-06-07
+string property,Event Property,,,string,LIVE,True,False,,
+subId,Event Property,,,any,LIVE,False,False,2021-05-24,2025-06-06
+submitted fields,Event Property,,,any,LIVE,False,False,2020-10-30,2020-12-31
+subscribeOptin,Event Property,,,string,LIVE,False,False,2019-01-31,2025-06-07
+success,Event Property,,boolean: true or false,any,LIVE,False,False,2018-07-03,2025-06-07
+success value,Event Property,,,boolean,LIVE,False,False,2025-01-17,2025-06-07
+syncWithSfdcC,Event Property,,,,UNEXPECTED,False,False,2025-01-09,2025-06-05
+tag names,Event Property,,,string,LIVE,True,True,2023-04-03,2025-06-07
+target url,Event Property,,,any,LIVE,False,False,2019-08-16,2020-07-31
+team member,Event Property,,,any,LIVE,False,False,2019-01-24,2021-02-02
+technologyCategoryC,Event Property,,,any,LIVE,False,False,2022-03-14,2023-04-17
+terms and privacy,Event Property,,,string,LIVE,True,False,2024-10-03,2024-11-06
+test_id,Event Property,,,,UNEXPECTED,False,False,2025-05-14,2025-05-14
+test_num,Event Property,,,any,UNEXPECTED,False,False,2025-05-30,2025-05-30
+text,Event Property,,,any,LIVE,False,False,2020-11-12,2025-06-07
+time,Event Property,,,any,LIVE,False,False,,
+timestamp,Event Property,,,any,LIVE,False,False,,
+tinasemail,Event Property,,,any,LIVE,False,False,2020-09-02,2020-09-02
+title,Event Property,,"title of event, pulled from Contentful card (ex. ""New York Product Workshop"")",any,LIVE,False,False,2018-07-03,2025-06-07
+toggle status,Event Property,,,string,LIVE,True,False,2024-06-04,2025-06-07
+topBlockIndex,Event Property,,,any,UNEXPECTED,False,False,2024-05-07,2025-01-11
+topic,Event Property,,"pull in selection from the dropdown ""I have a question about...""",any,LIVE,False,False,2018-07-06,2019-07-17
+tracking_url_template,Event Property,,,string,LIVE,False,False,2025-05-02,2025-06-07
+type,Event Property,,,string,LIVE,True,False,2019-04-13,2025-06-07
+typesOfServicesC,Event Property,,,any,LIVE,False,False,2021-08-31,2022-11-10
+undefined,Event Property,,,any,LIVE,False,False,2020-05-20,2020-09-24
+unexpected property count,Event Property,,,number,LIVE,False,False,2025-01-09,2025-04-14
+url,Event Property,,CTA destination URL,string,LIVE,True,False,2018-07-05,2025-06-07
+url.flow.source.meta,Event Property,,,,UNEXPECTED,False,False,2023-05-10,2023-05-10
+url.flow.strict,Event Property,,,,UNEXPECTED,False,False,2023-05-10,2023-05-10
+url.flow.value,Event Property,,,,UNEXPECTED,False,False,2023-05-10,2023-05-10
+utm_campaign,Event Property,,,any,LIVE,False,False,2020-09-10,2025-06-07
+utm_content,Event Property,,,any,LIVE,False,False,2020-09-10,2025-06-07
+utm_medium,Event Property,,,any,LIVE,False,False,2020-09-10,2025-06-07
+utm_source,Event Property,,,any,LIVE,False,False,2020-09-10,2025-06-07
+utm_term,Event Property,,,any,LIVE,False,False,2020-09-10,2025-06-07
+utmcontent,Event Property,,,,UNEXPECTED,False,False,2025-02-12,2025-02-13
+v5PuvkWHtdIxSGGczc5hn,Event Property,,,any,LIVE,False,False,,
+value,Event Property,,,string,LIVE,True,False,2021-07-29,2025-02-20
+variant,Event Property,,,any,LIVE,False,False,2019-01-24,2025-06-04
+venturePartner,Event Property,,,any,LIVE,False,False,2020-05-06,2020-05-06
+video,Event Property,,,string,LIVE,True,False,2021-05-24,2025-06-07
+video id,Event Property,,,any,LIVE,False,False,,
+video name,Event Property,,,any,LIVE,False,False,,
+viewportHeight,Event Property,,,any,LIVE,False,False,2024-06-28,2025-05-17
+viewportWidth,Event Property,,,any,LIVE,False,False,2024-06-28,2025-05-17
+w_linkedin_url__c,Event Property,,,any,LIVE,False,False,2020-06-18,2020-10-15
+webinarSessionSelections,Event Property,,,any,LIVE,False,False,2020-04-14,2025-06-07
+webinarSignupQuestions,Event Property,,,any,LIVE,False,False,2019-08-06,2020-02-12
+website,Event Property,,,any,LIVE,False,False,2021-06-09,2023-06-29
+x,Event Property,,,any,LIVE,False,False,2024-06-28,2025-05-17
+y,Event Property,,,any,LIVE,False,False,2024-06-28,2025-05-17
+zzz SC Product Feedback,Event Property,,,,UNEXPECTED,False,False,2024-01-17,2024-03-01
+zzz SE Product Feedback,Event Property,,,,UNEXPECTED,False,False,2024-03-11,2025-03-12
+zzz-Partner Contact,Event Property,,,,UNEXPECTED,False,False,2025-02-11,2025-02-25

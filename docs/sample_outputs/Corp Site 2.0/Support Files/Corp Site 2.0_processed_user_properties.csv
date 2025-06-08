@@ -1,0 +1,462 @@
+Property Type,Property Name,Property Description,Property Value Type,Property Schema Status,Property First Seen,Property Last Seen
+User Property,[6sense] City,,,UNEXPECTED,2022-08-31,2025-06-07
+User Property,[6sense] Company Name,,string,LIVE,2022-08-30,2025-06-07
+User Property,[6sense] Country,,,UNEXPECTED,2022-08-30,2025-06-07
+User Property,[6sense] Domain,,,UNEXPECTED,2022-08-30,2025-06-07
+User Property,[6sense] Employee Count,,,UNEXPECTED,2022-08-31,2025-06-07
+User Property,[6sense] Employee Range,,,UNEXPECTED,2022-08-31,2025-06-07
+User Property,[6sense] Industry,,,UNEXPECTED,2022-08-31,2025-06-07
+User Property,[6sense] Intent Score,,,UNEXPECTED,2022-08-30,2025-06-07
+User Property,[6sense] Naics,,,UNEXPECTED,2022-08-31,2025-06-07
+User Property,[6sense] Naics Description,,,UNEXPECTED,2022-08-31,2025-06-07
+User Property,[6sense] Profile Fit,,,UNEXPECTED,2022-08-30,2025-06-07
+User Property,[6sense] Region,,,UNEXPECTED,2022-08-31,2025-06-07
+User Property,[6sense] Revenue Range,,,UNEXPECTED,2022-08-31,2025-06-07
+User Property,[6sense] Segments,,,UNEXPECTED,2022-08-31,2025-06-07
+User Property,[6sense] Sic,,,UNEXPECTED,2022-08-31,2025-06-07
+User Property,[6sense] Sic Description,,,UNEXPECTED,2022-08-31,2025-06-07
+User Property,[6sense] State,,,UNEXPECTED,2022-08-31,2025-06-07
+User Property,[Amplitude] [Flag] form-membership-flow,,any,LIVE,2020-10-30,2025-06-07
+User Property,[Experiment] ampl-web-experiment-11-8,,,UNEXPECTED,2024-11-13,2025-05-16
+User Property,[Experiment] amplitude-analytics-cta-test,,,UNEXPECTED,2023-08-02,2025-06-07
+User Property,[Experiment] careers-page-test,,,UNEXPECTED,2024-04-16,2025-06-07
+User Property,[Experiment] corp-site-nav-signup-cta,,,UNEXPECTED,2023-07-11,2025-06-07
+User Property,[Experiment] corpsite-header-navigation-hover-style,,,UNEXPECTED,2024-02-16,2025-06-07
+User Property,[Experiment] corpsite-header-test,,,UNEXPECTED,2025-04-23,2025-04-23
+User Property,[Experiment] corpsite-xss-test,,,UNEXPECTED,2025-04-23,2025-04-23
+User Property,[Experiment] current,,,UNEXPECTED,2025-04-23,2025-04-23
+User Property,[Experiment] Dummies-Autofill-Short-Form-Jan-2024,,,UNEXPECTED,2024-02-02,2025-06-06
+User Property,[Experiment] enable-article-sidebar,,,UNEXPECTED,2025-01-21,2025-06-07
+User Property,[Experiment] enable-google-one-tap-corpsite,,,UNEXPECTED,2025-01-09,2025-06-07
+User Property,[Experiment] feature-exp-product-page_10292024,,,UNEXPECTED,2024-11-13,2025-06-07
+User Property,[Experiment] free_trial_widget,,,UNEXPECTED,2025-02-19,2025-04-24
+User Property,[Experiment] g-and-s-contact-sales-image-css-override,,,UNEXPECTED,2025-02-10,2025-06-07
+User Property,[Experiment] get-started-copy,,,UNEXPECTED,2023-10-06,2025-06-06
+User Property,[Experiment] get-started-header,,,UNEXPECTED,2023-08-31,2025-06-07
+User Property,[Experiment] get-started-nov-24-rehaul,,,UNEXPECTED,2024-10-28,2025-06-07
+User Property,[Experiment] get-started-on-blog-sticky-nav,,,UNEXPECTED,2025-01-09,2025-06-07
+User Property,[Experiment] get-started-page--social-proof--trust-badges-2025-05-06,,,UNEXPECTED,2025-05-06,2025-06-07
+User Property,[Experiment] get-started-page-cta-optimization-2025-04-22,,,UNEXPECTED,2025-04-22,2025-06-05
+User Property,[Experiment] get-started-sept-24-overhaul,,,UNEXPECTED,2024-10-03,2025-06-07
+User Property,[Experiment] hero-value-prop-split-test-variant-1-2025-05-22,,,UNEXPECTED,2025-05-30,2025-05-30
+User Property,[Experiment] homepage-exp,,,UNEXPECTED,2025-04-23,2025-04-23
+User Property,[Experiment] homepage-exp-2-aug-2024,,,UNEXPECTED,2024-08-13,2025-06-07
+User Property,[Experiment] homepage-gamified-cta--social-proof-2025-04-22,,,UNEXPECTED,2025-04-22,2025-04-22
+User Property,[Experiment] homepage-h1-copy-test-april-2024,,,UNEXPECTED,2024-04-02,2025-06-07
+User Property,[Experiment] homepage-h2-get-started-cta-test-apr-2024,,,UNEXPECTED,2024-04-23,2025-06-07
+User Property,[Experiment] homepage-light-theme,,,UNEXPECTED,2023-08-24,2025-06-07
+User Property,[Experiment] homepage-refresh-may-2024,,,UNEXPECTED,2024-05-01,2025-06-07
+User Property,[Experiment] internal-links-v2,,,UNEXPECTED,2025-02-26,2025-06-07
+User Property,[Experiment] jeffrey-test,,,UNEXPECTED,2025-04-16,2025-05-11
+User Property,[Experiment] lbm-hackathon,,,UNEXPECTED,2024-12-09,2025-05-06
+User Property,[Experiment] lbm-hackathon-tim-test,,,UNEXPECTED,2024-12-09,2025-04-14
+User Property,[Experiment] navbar-exp,,,UNEXPECTED,2025-04-23,2025-04-23
+User Property,[Experiment] new-org-activation-form,,any,LIVE,2021-07-21,2025-06-07
+User Property,[Experiment] new-org-activation-short-form,,any,LIVE,2021-07-16,2025-06-04
+User Property,[Experiment] personalization-at-scale-lead-form--value-prop--social-proof-2025-04-22,,,UNEXPECTED,2025-04-22,2025-05-06
+User Property,[Experiment] pricing-page,,any,LIVE,2021-09-30,2025-06-06
+User Property,[Experiment] pricing-page-enterprise-plan-card,,,UNEXPECTED,2024-09-17,2025-06-07
+User Property,[Experiment] pricing-page-hero-cta-enhancement-2025-06-06,,,UNEXPECTED,2025-06-06,2025-06-06
+User Property,[Experiment] pricing-page-pricing-slider-test-june-2024,,,UNEXPECTED,2024-06-05,2025-06-07
+User Property,[Experiment] pricing-page-v2,,any,LIVE,2021-12-14,2025-06-07
+User Property,[Experiment] pricing-startups-layout,,,UNEXPECTED,2024-04-03,2025-06-07
+User Property,[Experiment] q125-abx-solution-data-page-campaign-cta,,,UNEXPECTED,2025-01-29,2025-06-07
+User Property,[Experiment] q125-blog-conversion-drivers-sidepanel-cta,,,UNEXPECTED,2025-02-19,2025-06-07
+User Property,[Experiment] q125-corpsite-ai-chatgpt,,,UNEXPECTED,2025-04-23,2025-04-23
+User Property,[Experiment] q125-corpsite-ai-chatgpt-traffic-referrer-butter-bar-content,,,UNEXPECTED,2025-03-11,2025-05-20
+User Property,[Experiment] q125-getting-started-dynamic-copy,,,UNEXPECTED,2025-03-03,2025-06-07
+User Property,[Experiment] q125-interactive-product-tour-copriste-homepage-explore-the-demo-cta,,,UNEXPECTED,2025-02-24,2025-06-07
+User Property,[Experiment] q125-pricing-50k-to-10k-mtu-content,,,UNEXPECTED,2025-03-03,2025-06-07
+User Property,[Experiment] q225-campaign-webinars-coffee-chat-known-user-form-redirect,,,UNEXPECTED,2025-04-30,2025-06-07
+User Property,[Experiment] q225-homepage-headline-with-platform-messaging,,,UNEXPECTED,2025-04-07,2025-06-07
+User Property,[Experiment] q225-homepage-scrolled-content,,,UNEXPECTED,2025-04-02,2025-06-07
+User Property,[Experiment] q225-interactive-product-tour-v2-explore-the-demo-cta,,,UNEXPECTED,2025-04-25,2025-06-07
+User Property,[Experiment] q225-navigation-dropdown-engagement-test,,,UNEXPECTED,2025-06-06,2025-06-06
+User Property,[Experiment] q424-ai-generated-headlines-on-get-started,,,UNEXPECTED,2024-11-13,2025-06-07
+User Property,[Experiment] q424-corpsite-homepage-easy-data-setup-module,,,UNEXPECTED,2024-12-12,2025-06-07
+User Property,[Experiment] q424-explore-demo-cta,,,UNEXPECTED,2024-11-13,2025-06-07
+User Property,[Experiment] q424-request-a-demo-experiment,,,UNEXPECTED,2024-11-13,2025-06-07
+User Property,[Experiment] request-a-demo-form-cta,,,UNEXPECTED,2024-11-13,2025-06-07
+User Property,[Experiment] review_extension,,,UNEXPECTED,2025-02-19,2025-04-24
+User Property,[Experiment] scholarship-short-form,,any,LIVE,2021-08-27,2025-05-19
+User Property,[Experiment] sticky-cta-bar-optimization--get-started-page-2025-04-24,,,UNEXPECTED,2025-04-24,2025-04-24
+User Property,[Experiment] test,,,UNEXPECTED,2023-07-14,2025-06-07
+User Property,[Experiment] test-key-kelson,,,UNEXPECTED,2023-07-11,2023-07-11
+User Property,[Experiment] test-sanity_test-override,,,UNEXPECTED,2024-09-17,2025-06-07
+User Property,[Experiment] test-web-experiment,,,UNEXPECTED,2025-03-04,2025-03-06
+User Property,[Experiment] web-ex-redir-test,,,UNEXPECTED,2025-04-08,2025-04-08
+User Property,[Experiment] web-experiment-page-test,,,UNEXPECTED,2024-11-13,2025-06-07
+User Property,[Experiment] xss-test,,,UNEXPECTED,2025-04-08,2025-04-23
+User Property,[Mutiny] _All users a/b/c homepage hero test 030422 - product analytics,,any,LIVE,2022-03-04,2025-06-07
+User Property,[Mutiny] _B2B companies - homepage hero logo bar - 040522,,any,LIVE,2022-04-05,2025-06-07
+User Property,[Mutiny] _B2C Blog Readers,,any,LIVE,2022-03-23,2025-06-06
+User Property,[Mutiny] _E-com companies - homepage hero logo bar - 040522,,any,LIVE,2022-04-05,2025-06-07
+User Property,[Mutiny] _Ecommerce Blog Readers,,any,LIVE,2022-03-23,2025-06-05
+User Property,"[Mutiny] _EMEA - Food Delivery - Contact Us, Home Page logos",,any,LIVE,2022-06-01,2025-01-17
+User Property,[Mutiny] _EMEA Food Delivery Campaign - LinkedIn Paid Ads,,any,LIVE,2022-05-24,2022-06-25
+User Property,[Mutiny] _EMEA Greco Awareness - LinkedIn Paid Social,,any,LIVE,2022-05-24,2022-10-27
+User Property,[Mutiny] _EMEA Greco Awareness - Why I Joined - LinkedIn Paid Social,,any,LIVE,2022-05-20,2022-05-24
+User Property,[Mutiny] _EMEA Greco Awareness Campaign - LinkedIn Paid Social,,any,LIVE,2022-05-19,2025-05-15
+User Property,[Mutiny] _EMEA UK - London Product Club Banner,,any,LIVE,2022-06-03,2025-06-05
+User Property,[Mutiny] _Finserv companies - homepage hero logo bar - 040522,,any,LIVE,2022-04-05,2025-06-07
+User Property,[Mutiny] _First-time blog visitors,,any,LIVE,2022-06-22,2025-06-06
+User Property,[Mutiny] _Get started branded PPC ad-to-LP personalization (051722),,any,LIVE,2022-05-17,2025-06-06
+User Property,[Mutiny] _Homepage hero h1 for enterprise users - build better products,,any,LIVE,2022-02-24,2025-06-04
+User Property,[Mutiny] _Homepage hero h1 for startup companies - product analytics,,any,LIVE,2022-02-24,2025-06-07
+User Property,[Mutiny] _Homepage secondary hero banner CTA - 041422,,any,LIVE,2022-04-14,2025-06-07
+User Property,[Mutiny] _Media Companies - homepage hero logo bar - 040522,,any,LIVE,2022-04-12,2025-06-06
+User Property,[Mutiny] _On demand demo promo bar all pages minus home 041222,,any,LIVE,2022-04-12,2025-06-07
+User Property,[Mutiny] _Retail Companies - homepage hero logo bar - 040522,,any,LIVE,2022-04-12,2025-06-06
+User Property,[Mutiny] _Startup companies,,any,LIVE,2022-02-24,2022-02-28
+User Property,[Mutiny] _Unicorn - Blogs - Ungated,,,UNEXPECTED,2022-11-22,2024-10-16
+User Property,[Mutiny] 6clicks_Online Demo Video Test,,,UNEXPECTED,2022-09-27,2025-06-06
+User Property,[Mutiny] All non-homepage pages for nav_Not SMB,,any,LIVE,2022-01-12,2025-06-07
+User Property,[Mutiny] Amazon Grocery_Amazon Grocery (Amazon),,,UNEXPECTED,2024-07-03,2025-03-26
+User Property,[Mutiny] Amazon_Amazon,,,UNEXPECTED,2023-08-30,2024-01-02
+User Property,[Mutiny] Amplitude Staging Test_Tech,,any,LIVE,,
+User Property,[Mutiny] Amplitude vs GA4 ABM_FY23 Q1 AMER ENT Land Google Analytics ABM - All,,,UNEXPECTED,2023-04-03,2023-09-18
+User Property,[Mutiny] Amplitude vs GA4 ABM_FY23 Q2 EMEA/APJ ENT Land Google Analytics,,,UNEXPECTED,2023-07-12,2023-07-17
+User Property,[Mutiny] Amplitude vs GA4_FY23 Q1 AMER ENT Land Google Analytics ABM - All,,,UNEXPECTED,2023-03-08,2023-05-24
+User Property,[Mutiny] Analytics Page_Online Demo Video Test,,,UNEXPECTED,2022-09-27,2025-05-27
+User Property,[Mutiny] B2B SaaS Exit Modal on the Blog_B2B SaaS Readers on the Blog,,any,LIVE,2022-03-14,2025-06-07
+User Property,[Mutiny] Blog sidebar_Have not registered for Amplify,,any,LIVE,2022-03-28,2025-06-06
+User Property,[Mutiny] Blog sidebar_Public companies,,any,LIVE,2022-03-28,2023-06-28
+User Property,[Mutiny] Cardinal Health_Cardinal Health,,,UNEXPECTED,2023-10-05,2023-10-06
+User Property,[Mutiny] clearbit_reveal.company.category.industry,clearbit reveal - most specific industry tag (sector > industry group > industry),any,LIVE,2018-09-16,2025-06-07
+User Property,[Mutiny] clearbit_reveal.company.category.industryGroup,clearbit reveal - 2nd most specific industry tag (sector > industry group > industry),any,LIVE,2018-09-16,2025-06-07
+User Property,[Mutiny] clearbit_reveal.company.category.sector,clearbit reveal - broadest industry tag (sector > industry group > industry),any,LIVE,2018-09-16,2025-06-07
+User Property,[Mutiny] clearbit_reveal.company.metrics.employeesRange,clearbit reveal - employee count range,any,LIVE,2018-09-16,2025-06-07
+User Property,[Mutiny] clearbit_reveal.company.name,clearbit reveal - company name,any,LIVE,2018-09-16,2025-06-07
+User Property,[Mutiny] clearbit_reveal.company.tags,"clearbit reveal - company tags related to business model, ex. B2B, SaaS, Mobile, ecommerce",any,LIVE,2018-09-16,2025-06-07
+User Property,[Mutiny] clearbit_reveal.company.tech,clearbit reveal - tech used by company,any,LIVE,2018-09-16,2025-06-07
+User Property,[Mutiny] Contact Sales - Drift_50+ employees,,any,LIVE,2018-12-06,2025-06-06
+User Property,[Mutiny] Contact Sales - Homepage_EMEA Enterprise Accounts,,any,LIVE,2022-06-21,2025-06-05
+User Property,[Mutiny] Contact Sales CTA - Nav Bar Universal_EMEA Enterprise Accounts,,any,LIVE,2022-06-21,2025-06-03
+User Property,[Mutiny] Copy of Finserv homepage_Mutiny Test,,,UNEXPECTED,2022-10-03,2024-10-16
+User Property,[Mutiny] Corporate website_Large,Mutiny experiment Aug. 2018 testing headline & copy edits by company size. Large = 1000+ employees,any,LIVE,2018-09-16,2025-06-06
+User Property,[Mutiny] Corporate website_Medium,Mutiny experiment Aug. 2018 testing headline & copy edits by company size. Medium = 50-100 employees,any,LIVE,2018-09-16,2025-06-07
+User Property,[Mutiny] Corporate website_Small,Mutiny experiment Aug. 2018 testing headline & copy edits by company size. Small = Less than 50 employees,any,LIVE,2018-09-16,2025-06-07
+User Property,[Mutiny] Corporate Website_Small,,any,LIVE,2019-01-21,2025-06-07
+User Property,[Mutiny] Customers Page_Online Demo Video Test,,,UNEXPECTED,2022-09-27,2025-06-06
+User Property,[Mutiny] Dell_Dell,,,UNEXPECTED,2024-07-01,2024-07-01
+User Property,[Mutiny] DIA (EMEA_DIA (EMEA),,,UNEXPECTED,2024-06-30,2024-07-15
+User Property,[Mutiny] Digital Analytics_A/b test new homepage #1 vs digital analytics 040122,,any,LIVE,2022-04-01,2025-06-07
+User Property,[Mutiny] Easiest for startups_<1K EEs,,any,LIVE,2021-03-22,2025-06-07
+User Property,[Mutiny] Email only signup (revision: 2)_Large,,any,LIVE,2018-10-19,2025-06-06
+User Property,[Mutiny] Email only signup (revision: 2)_Medium,,any,LIVE,2018-10-19,2025-06-07
+User Property,[Mutiny] Email only signup (revision: 2)_Small,,any,LIVE,2018-10-19,2025-06-07
+User Property,[Mutiny] Email only signup (revision: 2)_Unidentified company size,,any,LIVE,2018-10-19,2025-06-07
+User Property,[Mutiny] Email only signup_Large,,any,LIVE,2018-09-27,2025-06-06
+User Property,[Mutiny] Email only signup_Medium,,any,LIVE,2018-09-27,2025-06-07
+User Property,[Mutiny] Email only signup_Small,,any,LIVE,2018-09-27,2025-06-07
+User Property,[Mutiny] Email only signup_Tech,,any,LIVE,2018-09-24,2025-05-30
+User Property,[Mutiny] Email only signup_Unidentified company size,,any,LIVE,2018-09-27,2025-06-07
+User Property,[Mutiny] Finance homepage_Financial Services (SFDC),,any,LIVE,2021-03-04,2025-06-07
+User Property,[Mutiny] Fintech Exit Modal on the Blog_Fintech Blog Readers,,any,LIVE,2022-03-14,2025-06-06
+User Property,[Mutiny] GA Questions Blog ABM_FY23 Q1 AMER ENT Land Efficient Growth ABM (Digital Transformer),,,UNEXPECTED,2023-04-14,2024-11-07
+User Property,[Mutiny] GA Questions Blog ABM_FY23 Q1 AMER ENT Land Google Analytics ABM - All,,,UNEXPECTED,2023-04-26,2024-11-05
+User Property,[Mutiny] GA4 FAQ Blog ABM_FY23 Q1 AMER ENT Land Efficient Growth ABM (Digital Transformer),,,UNEXPECTED,2023-05-02,2024-09-23
+User Property,[Mutiny] get-started_B2B Companies (SFDC),,any,LIVE,2019-06-28,2025-06-07
+User Property,[Mutiny] get-started_Consumer Tech (SFDC),,any,LIVE,2019-07-02,2025-06-07
+User Property,[Mutiny] get-started_E-Comm/Marketplace (SFDC),,any,LIVE,2019-07-01,2025-06-05
+User Property,[Mutiny] get-started_Financial Services (SFDC),,any,LIVE,2019-07-02,2024-10-02
+User Property,[Mutiny] get-started_Media (SFDC),,any,LIVE,2019-07-02,2025-06-02
+User Property,[Mutiny] Home Depot_Home Depot,,,UNEXPECTED,2023-09-21,2023-09-26
+User Property,[Mutiny] Homepage + All Pages_Home Depot 1:1 Page,,,UNEXPECTED,2023-07-19,2024-04-18
+User Property,[Mutiny] Homepage + All Pages_Nike,,,UNEXPECTED,2023-07-19,2024-10-04
+User Property,[Mutiny] Homepage + All Pages_Pinterest,,,UNEXPECTED,2023-08-24,2023-08-24
+User Property,[Mutiny] Homepage ABM Efficient Growth (Digital Native)_FY23 Q1 AMER ENT Land Efficient Growth ABM (Digital Natives),,,UNEXPECTED,2023-03-22,2023-06-21
+User Property,[Mutiny] Homepage ABM Efficient Growth (Digital Transformer)_FY23 Q1 AMER ENT Land Efficient Growth ABM (Digital Transformer),,,UNEXPECTED,2023-03-11,2023-07-18
+User Property,[Mutiny] Homepage ABM_FY23 Q1 AMER ENT Land Google Analytics ABM - All,,,UNEXPECTED,2023-03-08,2025-06-02
+User Property,[Mutiny] Homepage ABM_FY23 Q2 EMEA/APJ ENT Land Google Analytics,,,UNEXPECTED,2023-06-08,2023-06-08
+User Property,[Mutiny] Homepage Demo CTA Tests_All Traffic,,,UNEXPECTED,2023-02-01,2025-06-06
+User Property,[Mutiny] Homepage hero banner CTA_6sense decision and purchase users,,any,LIVE,2022-02-24,2022-04-19
+User Property,[Mutiny] Homepage hero banner CTA_SMB,,any,LIVE,2022-01-12,2025-06-07
+User Property,[Mutiny] Homepage Hero CTA – Explore Demo (vs Contact Sales)_<5000 Employees,,any,LIVE,2022-07-21,2025-06-07
+User Property,[Mutiny] Homepage signup CTA Test_All Traffic,,,UNEXPECTED,2023-03-08,2025-06-06
+User Property,[Mutiny] Homepage_Not SMB,,any,LIVE,2022-01-12,2025-06-07
+User Property,[Mutiny] last experience,last Mutiny experience a user was part of,any,LIVE,2018-09-16,2025-06-07
+User Property,[Mutiny] Main menu CTA_SMB,,any,LIVE,2022-01-12,2025-06-07
+User Property,[Mutiny] Media Exit Modal on the Blog_Media Readers for the Blog,,any,LIVE,2022-03-15,2025-06-06
+User Property,[Mutiny] Microsoft_Microsoft,,,UNEXPECTED,2023-09-29,2025-03-04
+User Property,[Mutiny] Mutiny Test_Mutiny Test,,any,LIVE,2022-05-17,2024-10-16
+User Property,[Mutiny] Navigation CTA_6sense decision and purchase users,,any,LIVE,2022-02-18,2025-06-07
+User Property,[Mutiny] Navigation CTA_Nav CTA for 6sense decision and purchase users,,any,LIVE,2022-02-24,2025-06-07
+User Property,[Mutiny] Nike (Main)_Nike,,,UNEXPECTED,2023-09-05,2023-12-13
+User Property,[Mutiny] null_20VC Visitors,,any,LIVE,2020-07-08,2023-06-21
+User Property,[Mutiny] null_B2B Companies (SFDC),,any,LIVE,2019-06-27,2025-06-07
+User Property,[Mutiny] null_Consumer Tech (SFDC),,any,LIVE,2019-06-28,2025-06-05
+User Property,[Mutiny] null_E-Comm/Marketplace (SFDC),,any,LIVE,2019-06-28,2025-04-15
+User Property,[Mutiny] null_Financial Services (SFDC),,any,LIVE,2019-06-28,2025-06-05
+User Property,[Mutiny] null_Financials,,any,LIVE,2021-02-10,2025-06-06
+User Property,[Mutiny] null_Get started and sales contact logos for B2B Companies (SFDC),,any,LIVE,2022-02-24,2025-06-07
+User Property,[Mutiny] null_Get started and sales contact logos for Consumer Tech (SFDC),,any,LIVE,2022-02-24,2025-06-05
+User Property,[Mutiny] null_kunal's test segment,,any,LIVE,2019-06-19,2019-06-27
+User Property,[Mutiny] null_Media (SFDC),,any,LIVE,2019-06-28,2025-05-29
+User Property,[Mutiny] null_Online Demo Video Test,,,UNEXPECTED,2022-09-27,2025-06-07
+User Property,[Mutiny] null_Online Demo Video Test on Home Page Header,,,UNEXPECTED,2022-09-27,2025-06-06
+User Property,[Mutiny] null_SDR Landing Pages Pilot -v0.1 Segment,,any,LIVE,2019-06-05,2025-03-15
+User Property,[Mutiny] null_Test CTA,,any,LIVE,2019-02-05,2025-06-07
+User Property,[Mutiny] playbook vol 2_all traffic,,any,LIVE,2018-11-29,2025-05-30
+User Property,[Mutiny] Pricing Header Test_All Traffic,,,UNEXPECTED,2023-06-01,2023-06-01
+User Property,[Mutiny] Pricing Page - Finance _Financial Services (SFDC),,any,LIVE,2021-03-08,2024-12-30
+User Property,[Mutiny] Pricing Page - Remove Subheader Teset_All Traffic,,,UNEXPECTED,2023-02-15,2023-06-21
+User Property,[Mutiny] Product Metrics Ungated_Unicorn - Blogs - Ungated,,,UNEXPECTED,2022-12-05,2023-10-27
+User Property,[Mutiny] Product Strategy Template_AMER ABM Targets - All,,,UNEXPECTED,2023-04-18,2023-11-28
+User Property,[Mutiny] Promoting Amplify on the blog as a side pop to repeat visitors_On 3rd or more blog visit,,any,LIVE,2022-03-28,2025-06-06
+User Property,[Mutiny] ROI headline_Return visitors who have not converted and viewed high intent pages,,any,LIVE,2021-03-22,2025-06-07
+User Property,[Mutiny] sales-contact_B2B Companies (SFDC),,any,LIVE,2019-06-28,2025-06-07
+User Property,[Mutiny] sales-contact_Consumer Tech (SFDC),,any,LIVE,2019-07-02,2025-06-05
+User Property,[Mutiny] sales-contact_E-Comm/Marketplace (SFDC),,any,LIVE,2019-07-02,2025-05-19
+User Property,[Mutiny] sales-contact_Financial Services (SFDC),,any,LIVE,2019-07-08,2024-07-02
+User Property,[Mutiny] sales-contact_Media (SFDC),,any,LIVE,2019-07-02,2024-04-23
+User Property,[Mutiny] startup pricing page_<1K EEs,,any,LIVE,2021-03-22,2025-06-06
+User Property,[Mutiny] Test_Mutiny Test,,any,LIVE,2022-04-07,2022-04-07
+User Property,[Mutiny] undefined_Mutiny test segment (?utm_term=mutiny-test),,any,LIVE,2021-02-10,2021-02-10
+User Property,[Mutiny] undefined_Test segment (?utm_term=mutiny-test),,any,LIVE,2021-02-09,2021-02-09
+User Property,[Mutiny] undefined_Web vs App Report 5/10/22,,any,LIVE,2022-05-10,2025-06-03
+User Property,[Mutiny] Unlock Product Growth ABM_FY23 Q1 AMER ENT Land Efficient Growth ABM (Digital Transformer),,,UNEXPECTED,2023-06-12,2023-06-12
+User Property,[Mutiny] Unlock Product Growth Redirect ABM_FY23 Q1 AMER ENT Land Google Analytics ABM - All,,,UNEXPECTED,2023-05-05,2025-06-02
+User Property,[Mutiny] Unlock Product Growth_FY23 Q1 AMER ENT Land Efficient Growth ABM (Digital Transformer),,,UNEXPECTED,2023-03-15,2023-03-15
+User Property,[Mutiny] Use cases_B2B & SaaS,,any,LIVE,2018-11-06,2025-06-07
+User Property,[Mutiny] Use cases_Integrations,,any,LIVE,2018-11-06,2025-06-07
+User Property,[Mutiny] Use cases_Mobile,,any,LIVE,2018-11-06,2025-06-06
+User Property,[Mutiny] visitor_id,,any,LIVE,2018-09-16,2025-06-07
+User Property,[Mutiny] What is PLG_AMER ABM Targets - All,,,UNEXPECTED,2023-05-09,2025-06-02
+User Property,$unset,,,UNEXPECTED,,
+User Property,6sense_company_name,,,UNEXPECTED,2022-08-30,2023-09-26
+User Property,ad blocker enabled,,any,LIVE,,
+User Property,age,,any,LIVE,2021-07-28,2021-08-10
+User Property,blog_to_demo_headline,,any,LIVE,,
+User Property,boolean prop example,,any,LIVE,2021-10-05,2021-10-05
+User Property,browser name,,string,LIVE,2021-01-04,2025-06-07
+User Property,browser version,,string,LIVE,2021-01-04,2025-06-07
+User Property,clearbit_alexa_global_rank,,any,LIVE,2019-03-14,2025-06-07
+User Property,clearbit_alexa_us_rank,,any,LIVE,2019-03-14,2025-06-07
+User Property,clearbit_country_code,,any,LIVE,2019-03-14,2025-06-07
+User Property,clearbit_domain,,any,LIVE,2019-03-14,2025-06-07
+User Property,clearbit_estimated_annual_revenue,,any,LIVE,2019-03-12,2025-06-07
+User Property,clearbit_name,,any,LIVE,2019-03-12,2025-06-07
+User Property,clearbit_num_employees,,any,LIVE,2019-03-12,2025-06-07
+User Property,clearbit_parent_alexa_global_rank,,any,LIVE,2019-03-14,2025-06-06
+User Property,clearbit_parent_alexa_us_rank,,any,LIVE,2019-03-14,2025-06-06
+User Property,clearbit_parent_country_code,,any,LIVE,2019-03-14,2025-06-06
+User Property,clearbit_parent_domain,,any,LIVE,2019-03-12,2025-06-06
+User Property,clearbit_parent_estimated_annual_revenue,,any,LIVE,2019-03-14,2025-06-06
+User Property,clearbit_parent_name,,any,LIVE,2019-03-14,2025-06-06
+User Property,clearbit_parent_num_employees,,any,LIVE,2019-03-14,2025-06-06
+User Property,clearbit_parent_parent_domain,,any,LIVE,2019-03-14,2025-06-06
+User Property,clearbit_parent_raised,,any,LIVE,2019-03-14,2025-06-06
+User Property,clearbit_parent_year_founded,,any,LIVE,2019-03-14,2025-06-06
+User Property,clearbit_raised,,any,LIVE,2019-03-12,2025-06-07
+User Property,clearbit_year_founded,,any,LIVE,2019-03-12,2025-06-07
+User Property,Cohort,,any,LIVE,2021-07-22,2021-10-05
+User Property,Contact Converted From Lead,,any,LIVE,2018-12-19,2025-06-07
+User Property,cookies enabled,,boolean,LIVE,2021-01-04,2025-06-07
+User Property,Cookies Enabled,,any,LIVE,,
+User Property,corpsite infra,,any,LIVE,2020-07-15,2025-06-07
+User Property,Current Lead Status,,any,LIVE,2018-12-19,2025-06-07
+User Property,Current Opportunity Name,,any,LIVE,2018-11-21,2025-06-07
+User Property,Current Opportunity Stage,,any,LIVE,2018-11-21,2025-06-07
+User Property,dclid,,,UNEXPECTED,2022-11-06,2025-04-16
+User Property,device orientation,,string,LIVE,2021-01-04,2025-06-07
+User Property,Device Orientation,,any,LIVE,,
+User Property,document referrer,,string,LIVE,2021-01-04,2025-06-07
+User Property,Document Referrer,,any,LIVE,,
+User Property,document referrer.flow.source.meta,,,UNEXPECTED,2023-05-10,2023-05-10
+User Property,document referrer.flow.strict,,,UNEXPECTED,2023-05-10,2023-05-10
+User Property,drift_experiment_a,,any,LIVE,,
+User Property,drift_experiment_amplify_2019_ca_promo,,any,LIVE,2019-09-18,2025-06-07
+User Property,drift_experiment_b,,any,LIVE,,
+User Property,drift_experiment_blog_subscription_modal,,any,LIVE,2019-07-24,2025-06-07
+User Property,drift_experiment_blog_to_demo_exit_intent,,any,LIVE,2019-01-31,2025-06-07
+User Property,drift_experiment_blog_to_demo_headline,,any,LIVE,2019-01-24,2025-06-07
+User Property,drift_experiment_get_personalized_demo,,any,LIVE,2019-03-14,2025-06-07
+User Property,experiment: anon kudu short contact sales form,,any,LIVE,2019-03-01,2025-06-06
+User Property,experiment: blog cta - enter demo,,any,LIVE,2019-08-24,2025-06-06
+User Property,experiment: corp site infra exp,,any,LIVE,2019-08-13,2025-06-07
+User Property,experiment: corp site infra exp (/* set cookie),,any,LIVE,2019-08-09,2025-06-06
+User Property,experiment: corp site infra exp (/* set cookie) v0.1,,any,LIVE,2019-08-13,2025-06-06
+User Property,experiment: corp site infra exp (redirect B),,any,LIVE,2019-08-13,2025-05-28
+User Property,experiment: corp site infra exp (redirect C),,any,LIVE,2019-08-13,2025-05-27
+User Property,experiment: corp site infra exp v0.1,,any,LIVE,2019-08-13,2025-06-07
+User Property,experiment: corp site infra experiment (redirect B),,any,LIVE,,
+User Property,experiment: Dynamic Contact Sales,,any,LIVE,2019-04-04,2025-06-07
+User Property,experiment: Dynamic Contact Sales (local),,any,LIVE,,
+User Property,experiment: Dynamic Contact Sales 1.1,,any,LIVE,2019-04-09,2025-06-07
+User Property,experiment: exec friendly homepage exp (/* set cookie) v0,,any,LIVE,2019-08-21,2025-06-07
+User Property,experiment: exec friendly homepage exp v0,,any,LIVE,2019-08-21,2025-06-07
+User Property,experiment: Growth Engine Video Test,,any,LIVE,2019-05-21,2025-06-07
+User Property,experiment: Home Page Redirect test,,any,LIVE,2020-04-08,2025-06-07
+User Property,experiment: Homepage Demo CTA,,any,LIVE,2019-02-09,2025-06-07
+User Property,experiment: Homepage Demo CTA v0.1,,any,LIVE,2019-06-04,2025-06-07
+User Property,experiment: Latency Test,,any,LIVE,2020-04-03,2024-08-14
+User Property,experiment: new-org-activation-form,,any,LIVE,2021-07-21,2025-06-04
+User Property,experiment: Retain Homepage Experiment,,any,LIVE,2020-04-09,2025-06-07
+User Property,experiment: Simplified Homepage,,any,LIVE,2019-07-03,2025-06-07
+User Property,experiment: Simplified Homepage (local),,any,LIVE,,
+User Property,experiment: simplified homepage v0.1,,any,LIVE,2019-07-11,2025-06-07
+User Property,experiment: simplified homepage v0.2,,any,LIVE,2019-07-24,2025-06-07
+User Property,experiment: simplified homepage v0.2 (local),,any,LIVE,2019-08-09,2024-09-30
+User Property,experimentId,,any,LIVE,,
+User Property,fbclid,,,UNEXPECTED,2022-10-13,2025-06-07
+User Property,gbraid,,,UNEXPECTED,2023-04-21,2025-06-07
+User Property,gclid,,any,LIVE,2018-07-04,2025-06-07
+User Property,gender,,any,LIVE,2021-07-28,2021-08-10
+User Property,global:[Experiment] feature-exp-product-page_10292024,,,UNEXPECTED,2024-10-29,2025-06-06
+User Property,global:[Experiment] q125-blog-conversion-drivers-sidepanel-cta,,,UNEXPECTED,2025-04-01,2025-06-06
+User Property,global:[Experiment] q424-ai-generated-headlines-on-get-started,,,UNEXPECTED,2024-11-06,2025-06-06
+User Property,global:[Experiment] q424-explore-demo-cta,,,UNEXPECTED,2024-09-19,2025-06-07
+User Property,global:[Experiment] q424-request-a-demo-experiment,,,UNEXPECTED,2024-10-29,2025-06-07
+User Property,global:[Experiment] redirect-web-experiement,,,UNEXPECTED,2024-08-20,2024-08-27
+User Property,global:[Experiment] request-a-demo-form-cta,,,UNEXPECTED,2024-10-28,2025-06-06
+User Property,global:[Experiment] test-experiment-page,,,UNEXPECTED,2024-08-20,2024-10-16
+User Property,global:[Experiment] test-experiment-web-sanity-override,,,UNEXPECTED,2024-08-20,2024-08-20
+User Property,global:[Experiment] web-ex-redir-test,,,UNEXPECTED,2024-08-20,2024-08-21
+User Property,global:[Experiment] web-experiment-page-test,,,UNEXPECTED,2024-11-02,2025-06-06
+User Property,global:[Experiment] xyztesting123-web-experiment,,,UNEXPECTED,2024-09-04,2024-09-04
+User Property,global:dclid,,,UNEXPECTED,2024-03-02,2025-04-16
+User Property,global:fbclid,,,UNEXPECTED,2024-01-24,2025-06-04
+User Property,global:gbraid,,,UNEXPECTED,2024-01-27,2025-06-07
+User Property,global:gclid,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_dclid,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_fbclid,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_gbraid,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_gclid,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_ko_click_id,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_li_fat_id,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_msclkid,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_referrer,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_referring_domain,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_rtd_cid,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_ttclid,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_twclid,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_utm_campaign,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_utm_content,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_utm_id,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_utm_medium,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_utm_source,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_utm_term,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:initial_wbraid,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:ko_click_id,,,UNEXPECTED,2025-01-29,2025-01-29
+User Property,global:li_fat_id,,,UNEXPECTED,2024-01-25,2025-06-07
+User Property,global:msclkid,,,UNEXPECTED,2024-02-05,2025-05-18
+User Property,global:referrer,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:referring_domain,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:rtd_cid,,,UNEXPECTED,2024-11-03,2025-01-29
+User Property,global:ttclid,,,UNEXPECTED,2024-03-31,2025-05-20
+User Property,global:twclid,,,UNEXPECTED,2024-03-02,2025-05-19
+User Property,global:utm_campaign,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:utm_content,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:utm_id,,,UNEXPECTED,2024-01-25,2025-05-30
+User Property,global:utm_medium,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:utm_source,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:utm_term,,,UNEXPECTED,2024-01-24,2025-06-07
+User Property,global:wbraid,,,UNEXPECTED,2024-01-24,2025-05-29
+User Property,has_seen_pricing,,any,LIVE,,
+User Property,has_viewed_pricing,,any,LIVE,2019-04-08,2025-06-06
+User Property,initial_dclid,,,UNEXPECTED,2022-10-05,2025-06-07
+User Property,initial_fbclid,,,UNEXPECTED,2022-10-05,2025-06-07
+User Property,initial_gbraid,,,UNEXPECTED,2022-10-05,2025-06-07
+User Property,initial_gclid,,any,LIVE,2018-07-04,2025-06-07
+User Property,initial_ko_click_id,,,UNEXPECTED,2022-10-05,2025-06-07
+User Property,initial_li_fat_id,,,UNEXPECTED,2023-05-15,2025-06-07
+User Property,initial_msclkid,,,UNEXPECTED,2022-10-05,2025-06-07
+User Property,initial_referrer,,any,LIVE,2018-06-29,2025-06-07
+User Property,initial_referrer.flow.source.meta,,,UNEXPECTED,2023-05-10,2023-05-10
+User Property,initial_referrer.flow.strict,,,UNEXPECTED,2023-05-10,2023-05-10
+User Property,initial_referrer.flow.value,,,UNEXPECTED,2023-05-10,2023-05-10
+User Property,initial_referring_domain,,any,LIVE,2018-06-29,2025-06-07
+User Property,initial_rtd_cid,,,UNEXPECTED,2023-05-15,2025-06-07
+User Property,initial_ttclid,,,UNEXPECTED,2022-10-05,2025-06-07
+User Property,initial_twclid,,,UNEXPECTED,2022-10-05,2025-06-07
+User Property,initial_utm_campaign,,any,LIVE,2018-06-30,2025-06-07
+User Property,initial_utm_content,,any,LIVE,2018-07-04,2025-06-07
+User Property,initial_utm_id,,,UNEXPECTED,2022-11-28,2025-06-07
+User Property,initial_utm_medium,,any,LIVE,2018-06-30,2025-06-07
+User Property,initial_utm_source,,any,LIVE,2018-06-30,2025-06-07
+User Property,initial_utm_term,,any,LIVE,2018-07-04,2025-06-07
+User Property,initial_wbraid,,,UNEXPECTED,2022-10-05,2025-06-07
+User Property,interests,,any,LIVE,2021-07-28,2021-08-10
+User Property,is bot,,boolean,LIVE,2021-01-05,2025-06-07
+User Property,language,,string,LIVE,2021-01-04,2025-06-07
+User Property,Language,,any,LIVE,,
+User Property,Last Campaign,,any,LIVE,2018-12-24,2025-06-07
+User Property,Last Lead Source,,any,LIVE,2018-12-24,2025-06-07
+User Property,Lead Account Name,,any,LIVE,2018-12-19,2025-05-27
+User Property,Lead Company,,any,LIVE,2018-12-19,2025-06-07
+User Property,Lead Customer Fit Score,,any,LIVE,2018-12-19,2025-02-03
+User Property,Lead Customer Fit Segment,,any,LIVE,2018-12-19,2025-02-03
+User Property,Lead Id,,any,LIVE,2019-03-27,2025-06-07
+User Property,Lead MadKudu Fit Score,,any,LIVE,2018-12-24,2025-06-07
+User Property,Lead MadKudu Fit Segment,,any,LIVE,2018-12-24,2025-06-07
+User Property,Lead Market Segment,,any,LIVE,2018-12-19,2025-06-07
+User Property,Lead Name,,any,LIVE,2018-12-19,2025-06-07
+User Property,Lead Owner Email,,any,LIVE,2018-12-19,2025-06-07
+User Property,Lead Owner Name,,any,LIVE,2018-12-19,2025-06-07
+User Property,Lead Region,,any,LIVE,2018-12-19,2025-06-07
+User Property,Lead Source,,any,LIVE,2018-12-24,2025-06-07
+User Property,li_fat_id,,,UNEXPECTED,2023-05-23,2025-06-07
+User Property,madkudu - customer fit segment,,any,LIVE,2019-03-28,2025-06-07
+User Property,MadKudu Lead Grade Score,,any,LIVE,2019-01-29,2025-06-07
+User Property,MadKudu Lead Grade Segment,,any,LIVE,2019-01-29,2025-06-07
+User Property,MadKudu Likelihood to Buy Score,,any,LIVE,2019-01-29,2025-06-07
+User Property,MadKudu Likelihood to Buy Segment,,any,LIVE,2019-01-29,2025-06-07
+User Property,madkudu_anonymous_customer_fit,,any,LIVE,2019-03-01,2025-06-07
+User Property,madkudu_anonymous_customer_fit_parent_domain,,any,LIVE,2019-03-14,2025-06-06
+User Property,msclkid,,,UNEXPECTED,2022-10-12,2025-05-18
+User Property,number array prop example,,any,LIVE,2021-10-05,2021-10-05
+User Property,number prop example,,any,LIVE,2021-10-05,2021-10-05
+User Property,page title,,string,LIVE,2021-01-04,2025-06-07
+User Property,Page Title,,any,LIVE,,
+User Property,partnerstack partner key,,string,LIVE,2024-10-29,2025-06-07
+User Property,pixel density,,string,LIVE,2021-01-04,2025-06-07
+User Property,Pixel Density,,any,LIVE,,
+User Property,Previous Contact Converted From Lead,,any,LIVE,2019-05-21,2025-03-29
+User Property,Previous Current Lead Status,,any,LIVE,2019-05-03,2025-06-07
+User Property,Previous Current Opportunity Name,,any,LIVE,2019-05-06,2025-06-07
+User Property,Previous Current Opportunity Stage,,any,LIVE,2019-05-04,2025-06-07
+User Property,Previous Last Campaign,,any,LIVE,2019-05-03,2025-06-07
+User Property,Previous Last Lead Source,,any,LIVE,2019-05-03,2025-06-07
+User Property,Previous Lead Company,,any,LIVE,2019-05-03,2025-06-07
+User Property,Previous Lead MadKudu Fit Score,,any,LIVE,2019-05-03,2025-06-07
+User Property,Previous Lead MadKudu Fit Segment,,any,LIVE,2019-05-03,2025-06-07
+User Property,Previous Lead Market Segment,,any,LIVE,2019-05-03,2025-06-06
+User Property,Previous Lead Region,,any,LIVE,2019-05-03,2025-06-07
+User Property,Previous Lead Source,,any,LIVE,2019-05-03,2025-06-07
+User Property,Previous MadKudu Lead Grade Score,,any,LIVE,2019-05-04,2025-06-07
+User Property,Previous MadKudu Lead Grade Segment,,any,LIVE,2019-05-04,2025-06-07
+User Property,Previous MadKudu Likelihood to Buy Score,,any,LIVE,2019-05-04,2025-06-07
+User Property,Previous MadKudu Likelihood to Buy Segment,,any,LIVE,2019-05-04,2025-06-07
+User Property,recaptcha v3 score,,any,LIVE,2019-09-05,2025-06-07
+User Property,referrer,,any,LIVE,2018-06-29,2025-06-07
+User Property,referring_domain,,any,LIVE,2018-06-29,2025-06-07
+User Property,resolution height,,number,LIVE,2019-07-11,2025-06-07
+User Property,resolution width,,number,LIVE,2019-07-11,2025-06-07
+User Property,rtd_cid,,,UNEXPECTED,2024-11-03,2025-01-29
+User Property,Salesforce Object Type,,any,LIVE,2018-12-24,2025-06-07
+User Property,string array prop example,,any,LIVE,2021-10-05,2021-10-05
+User Property,string prop example,,any,LIVE,2021-10-05,2021-10-05
+User Property,Task Account Name,,any,LIVE,2019-05-03,2025-06-07
+User Property,timezone,,string,LIVE,2021-01-04,2025-06-07
+User Property,Timezone,,any,LIVE,,
+User Property,timezone offset,,string,LIVE,2021-01-04,2025-06-07
+User Property,Timezone Offset,,any,LIVE,,
+User Property,traffic source,,any,LIVE,2021-01-04,2025-06-07
+User Property,ttclid,,,UNEXPECTED,2024-03-31,2025-05-20
+User Property,twclid,,,UNEXPECTED,2023-03-03,2025-05-19
+User Property,user_prop1,,any,LIVE,,
+User Property,utm_campaign,,any,LIVE,2018-06-30,2025-06-07
+User Property,utm_content,,any,LIVE,2018-07-04,2025-06-07
+User Property,utm_id,,string,LIVE,2022-11-30,2025-06-07
+User Property,utm_medium,,any,LIVE,2018-06-30,2025-06-07
+User Property,utm_source,,any,LIVE,2018-06-30,2025-06-07
+User Property,utm_term,,any,LIVE,2018-07-04,2025-06-07
+User Property,viewed_contact_sales,,any,LIVE,,
+User Property,viewed_pricing,,any,LIVE,,
+User Property,viewed_pricing_page,,any,LIVE,,
+User Property,viewport height,,number,LIVE,2021-01-04,2025-06-07
+User Property,Viewport Height,,any,LIVE,,
+User Property,viewport width,,number,LIVE,2021-01-04,2025-06-07
+User Property,Viewport Width,,any,LIVE,,
+User Property,wbraid,,,UNEXPECTED,2022-10-14,2025-06-06
